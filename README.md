@@ -9,7 +9,9 @@ modern cyberinfrastructure facilities.
   - Submodule pointing to the [DISCERN fork](https://github.com/STEELISI/byob) of the [BYOB project](https://byob.dev/)
 - instrumentation
   - Submodule pointing to code for data collection
-- [data-collection/](./data-collection)
+- [collection/](./collection)
+  - Code used to orchestrate experiments and collect data
+- [data/](./data)
   - Sample data collected from our experiments
 - [old/](./old)
   - Old code and docs, some of it obsolete
