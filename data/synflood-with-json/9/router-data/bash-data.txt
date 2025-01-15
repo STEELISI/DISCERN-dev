@@ -1,24 +1,2 @@
-{"TimeStamp":"2025-01-14T18:22:21.122736423Z","Host":"router","User":"blankcanvas","Cmds":"CMBEGIN,router.infra.real.synflood.blankcanvas,1736878804,/home/blankcanvas,rm ~/Sorcerers.deb,,blankcanvas@router.infra.real.synflood.blankcanvas\r\n","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:22:21.172252341Z","Host":"router","User":"blankcanvas","Count":1,"Cmds":"CMBEGIN,router.infra.real.synflood.blankcanvas,1736878924,/home/blankcanvas,sudo rm -rf /var/log/discern/data/*,,blankcanvas@router.infra.real.synflood.blankcanvas\r\n","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:23:21.285901043Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:23:21.326251998Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:24:21.424572769Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:24:21.463328758Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:25:21.487892016Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:25:21.516495615Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:26:21.583502681Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:26:21.627689605Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:27:21.715890832Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:27:21.756422820Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:28:21.865451938Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:28:21.908032610Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:29:21.959790254Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:29:22.231555329Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:30:23.470637434Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:30:24.137744039Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:31:24.600037848Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:31:26.819961310Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:32:28.334509612Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:32:28.969326473Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:33:29.742506317Z","Host":"router","User":"blankcanvas","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-14T18:33:29.784456246Z","Host":"router","User":"blankcanvas","Count":1,"DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"2025-01-15T20:43:38.259730023Z","Host":"router","User":"blankcanvas","Count":20,"Cmds":"CMBEGIN,router.infra.real.synflood.blankcanvas,1736973770,/home/blankcanvas,scp -r -f /var/log/discern/data,%<file copy dialogue>\n%,blankcanvas@router.infra.real.synflood.blankcanvas\r\n","DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"2025-01-15T20:43:38.297893308Z","Host":"router","User":"blankcanvas","Count":21,"Cmds":"CMBEGIN,router.infra.real.synflood.blankcanvas,1736973796,/home/blankcanvas,sudo rm -rf /var/log/discern/data/*,,blankcanvas@router.infra.real.synflood.blankcanvas\r\n","DevID":"router.infra.real.synflood.blankcanvas"}
