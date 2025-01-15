@@ -1,0 +1,32 @@
+{"TimeStamp":"2025-01-14T16:49:27.772955184Z","Host":"attacker","User":"blankcanvas","Count":139,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873155,/home/blankcanvas,sudo rm -rf /var/log/discern/data/*,,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:30.279157846Z","Host":"attacker","User":"blankcanvas","Count":14,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:32.744874758Z","Host":"attacker","User":"blankcanvas","Count":140,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873170,/home/blankcanvas,sudo /bin/bash -c 'echo *.google.com   A 10.1.2.4 >> /etc/ettercap/etter.dns',,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:34.521492419Z","Host":"attacker","User":"blankcanvas","Count":141,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873175,/home/blankcanvas,sudo /bin/bash -c 'echo google.com     A 10.1.2.4 >> /etc/ettercap/etter.dns',,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:36.321107608Z","Host":"attacker","User":"blankcanvas","Count":142,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873180,/home/blankcanvas,sudo /bin/bash -c 'echo www.google.com A 10.1.2.4 >> /etc/ettercap/etter.dns',,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:37.783476927Z","Host":"attacker","User":"blankcanvas","Count":143,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:39.608591905Z","Host":"attacker","User":"blankcanvas","Count":144,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873220,/home/blankcanvas,scp -r -f /var/log/discern/data,%<file copy dialogue>\n%,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:41.776069743Z","Host":"attacker","User":"blankcanvas","Count":145,"Cmds":"CMBEGIN,attacker.infra.real.dnsmitm.blankcanvas,1736873259,/home/blankcanvas,sudo rm -rf /var/log/discern/data/*,,blankcanvas@attacker.infra.real.dnsmitm.blankcanvas\r\n","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:44.647968643Z","Host":"attacker","User":"blankcanvas","Count":15,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:48.076009949Z","Host":"attacker","User":"blankcanvas","Count":16,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:51.046172441Z","Host":"attacker","User":"blankcanvas","Count":17,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:52.983749353Z","Host":"attacker","User":"blankcanvas","Count":18,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:55.227899720Z","Host":"attacker","User":"blankcanvas","Count":19,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:56.775511559Z","Host":"attacker","User":"blankcanvas","Count":2,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:49:58.600042631Z","Host":"attacker","User":"blankcanvas","Count":20,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:00.454622925Z","Host":"attacker","User":"blankcanvas","Count":21,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:02.371534345Z","Host":"attacker","User":"blankcanvas","Count":22,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:03.940632081Z","Host":"attacker","User":"blankcanvas","Count":23,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:06.899154905Z","Host":"attacker","User":"blankcanvas","Count":24,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:09.797791245Z","Host":"attacker","User":"blankcanvas","Count":25,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:11.827885837Z","Host":"attacker","User":"blankcanvas","Count":26,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:13.990173673Z","Host":"attacker","User":"blankcanvas","Count":27,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:16.506168112Z","Host":"attacker","User":"blankcanvas","Count":28,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:18.888594316Z","Host":"attacker","User":"blankcanvas","Count":29,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:20.508560440Z","Host":"attacker","User":"blankcanvas","Count":3,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:22.223888948Z","Host":"attacker","User":"blankcanvas","Count":30,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:24.015942143Z","Host":"attacker","User":"blankcanvas","Count":31,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:26.462631724Z","Host":"attacker","User":"blankcanvas","Count":32,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:28.975072726Z","Host":"attacker","User":"blankcanvas","Count":33,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:30.998630372Z","Host":"attacker","User":"blankcanvas","Count":34,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:33.166808727Z","Host":"attacker","User":"blankcanvas","Count":35,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"2025-01-14T16:50:35.520585019Z","Host":"attacker","User":"blankcanvas","Count":36,"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
