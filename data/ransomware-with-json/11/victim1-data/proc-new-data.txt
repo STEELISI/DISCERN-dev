@@ -1,0 +1,14 @@
+{"TimeStamp":"2025-01-28T18:12:48.509967212Z","Pid":24993,"PPid":1,"RealUid":1001,"EffectiveUid":1001,"SavedUid":1001,"FilesystemUid":1001,"RealGid":1001,"EffectiveGid":1001,"SavedGid":1001,"FilesystemGid":1001,"VmPeak":"15548416","VmSize":"15544320","VmHWM":"8531968","VmStk":"135168","VmData":"761856","Threads":"1","Name":"systemd","State":"S (sleeping)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:12:48.520724505Z","Pid":24994,"PPid":24993,"RealUid":1001,"EffectiveUid":1001,"SavedUid":1001,"FilesystemUid":1001,"RealGid":1001,"EffectiveGid":1001,"SavedGid":1001,"FilesystemGid":1001,"VmPeak":"188772352","VmSize":"188772352","VmHWM":"3051520","VmStk":"1056768","VmData":"36274176","Threads":"1","Name":"(sd-pam)","State":"S (sleeping)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:07.068249717Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:12.093065405Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:17.099135278Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:22.104226836Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:27.108823267Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:32.114172831Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:37.119653132Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:42.124538561Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:47.129618289Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:52.134591268Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:13:57.141141272Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"2025-01-28T18:14:02.145791004Z","Pid":25201,"PPid":2,"Threads":"1","Name":"kworker/0","State":"I (idle)","DevID":"victim1.infra.real.ransomware.blankcanvas"}
