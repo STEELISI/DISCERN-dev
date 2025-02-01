@@ -1,154 +1,158 @@
-{"TimeStamp":"2025-01-23T19:52:33.740153904Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:33.748147618Z","Op":1,"Location":"/tmp/sshcmds.787.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:33.758854959Z","Op":2,"Location":"/tmp/sshcmds.787.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:33.769269770Z","Op":4,"Location":"/tmp/sshcmds.787.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:39.732838535Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:39.738577612Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:39.768048638Z","Op":1,"Location":"/tmp/sshcmds.15611.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:39.774965488Z","Op":2,"Location":"/tmp/sshcmds.15611.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:39.799112619Z","Op":4,"Location":"/tmp/sshcmds.15611.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.651904030Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.659721113Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.665594800Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.674834057Z","Op":1,"Location":"/tmp/sshcmds.23825.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.686282950Z","Op":2,"Location":"/tmp/sshcmds.23825.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.696614750Z","Op":1,"Location":"/tmp/sshcmds.17088.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.706224758Z","Op":2,"Location":"/tmp/sshcmds.17088.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.826323219Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:54.840406110Z","Op":16,"Location":"/home/blankcanvas/results.pcap","Permissions":420,"Owner":"tcpdump","Group":"tcpdump","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:55.828112076Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:56.852100641Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:57.876129171Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:58.900097590Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:52:59.924307804Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:00.948156764Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:01.972159465Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:02.996127969Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:04.020065049Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:05.044089234Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:06.068088432Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:07.092137324Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:08.116134164Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:09.140163788Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:10.164120239Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:11.188107241Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:12.212116116Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:13.236096005Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:14.260108035Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:15.284121218Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:16.308108901Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:17.332101255Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:18.356079588Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:19.380049964Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:20.404043420Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:21.428152114Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:22.452074691Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:23.476096644Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:24.500076585Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:25.524025248Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:26.548092163Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:27.572079917Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:28.596098816Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:29.620100864Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:30.644069240Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:31.668106720Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:32.692062204Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:33.716078448Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:34.740105225Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:35.764099539Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:36.788109501Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:37.812056416Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:38.836072093Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:39.860028048Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:40.883978208Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:41.907991609Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:42.931971262Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:43.956078047Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:44.980061139Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:46.004041069Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:47.028072823Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:48.052074057Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:49.076070547Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.043319713Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.212032086Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.292446502Z","Op":1,"Location":"/tmp/sshcmds.4559.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.427640237Z","Op":2,"Location":"/tmp/sshcmds.4559.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.482755068Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.560034313Z","Op":4,"Location":"/tmp/sshcmds.17088.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.631490433Z","Op":4,"Location":"/tmp/sshcmds.4559.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.703594463Z","Op":4,"Location":"/tmp/sshcmds.23825.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:50.784846143Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:51.852029619Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.000184711Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.101546098Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.242624Z","Op":1,"Location":"/tmp/sshcmds.10170.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.450103308Z","Op":2,"Location":"/tmp/sshcmds.10170.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.514441784Z","Op":1,"Location":"/tmp/sshcmds.26929.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.579555184Z","Op":2,"Location":"/tmp/sshcmds.26929.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.616029641Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:52.668239524Z","Op":16,"Location":"/home/blankcanvas/results.pcap","Permissions":420,"Owner":"tcpdump","Group":"tcpdump","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:53.012058289Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:54.036055801Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:55.060029761Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:56.083976782Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:57.108035346Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:58.132048499Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:53:59.156052260Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:00.180038555Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:01.204029614Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:02.228026330Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:03.252072491Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:04.276055463Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:05.300043944Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:06.324051197Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:07.348021159Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:08.372048220Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:09.395986963Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:10.420031207Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:11.444018320Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:12.468055751Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:13.492050853Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:14.516204166Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:15.540048647Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:16.564041525Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:17.588045281Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:18.612099322Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:19.636066343Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:20.660039815Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:21.684066907Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:22.708005768Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:23.732085112Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:24.756049405Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:25.780098928Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:26.804064799Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:27.828020163Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:28.852043673Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:29.876016528Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:30.900040277Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:31.924090034Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:32.948091154Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:33.972070443Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:34.996046238Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:36.020056560Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:37.044069100Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:38.068008322Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:39.092103316Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:40.116187323Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:41.140045931Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:42.164076951Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:43.188065830Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:44.211980571Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:45.235982642Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:46.259961395Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.284031277Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.421297887Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.503618438Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.659403075Z","Op":1,"Location":"/tmp/sshcmds.4653.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.750844481Z","Op":2,"Location":"/tmp/sshcmds.4653.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.845906918Z","Op":2,"Location":"/home/blankcanvas/results.pcap","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:47.923964726Z","Op":4,"Location":"/tmp/sshcmds.26929.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:48.055027721Z","Op":4,"Location":"/tmp/sshcmds.4653.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:48.174891521Z","Op":4,"Location":"/tmp/sshcmds.10170.sh","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:54:48.209822641Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:55:21.166205274Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T19:55:21.172187421Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382680", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382680", "Op":1, "Location":"/tmp/sshcmds.19806.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382680", "Op":2, "Location":"/tmp/sshcmds.19806.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382680", "Op":4, "Location":"/tmp/sshcmds.19806.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382685", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382685", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382685", "Op":1, "Location":"/tmp/sshcmds.2102.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382685", "Op":2, "Location":"/tmp/sshcmds.2102.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382686", "Op":4, "Location":"/tmp/sshcmds.2102.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":1, "Location":"/tmp/sshcmds.10174.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":2, "Location":"/tmp/sshcmds.10174.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":1, "Location":"/tmp/sshcmds.2973.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382700", "Op":2, "Location":"/tmp/sshcmds.2973.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382701", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382701", "Op":16, "Location":"/home/blankcanvas/results.pcap", "Permissions":420, "Owner":"tcpdump", "Group":"tcpdump", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382702", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382703", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382704", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382705", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382706", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382707", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382708", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382709", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382710", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382711", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382712", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382713", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382714", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382715", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382716", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382717", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382718", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382719", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382720", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382721", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382722", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382723", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382724", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382725", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382726", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382727", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382728", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382729", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382730", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382731", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382732", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382733", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382734", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382735", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382736", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382737", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382738", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382739", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382740", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382741", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382743", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382744", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382745", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382746", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382747", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382748", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382749", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382750", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382751", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382752", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382753", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382754", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382755", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":1, "Location":"/tmp/sshcmds.23241.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":2, "Location":"/tmp/sshcmds.23241.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":4, "Location":"/tmp/sshcmds.2973.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":4, "Location":"/tmp/sshcmds.23241.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":4, "Location":"/tmp/sshcmds.10174.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382756", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":1, "Location":"/tmp/sshcmds.31761.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/tmp/sshcmds.31761.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":1, "Location":"/tmp/sshcmds.27647.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/tmp/sshcmds.27647.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382758", "Op":16, "Location":"/home/blankcanvas/results.pcap", "Permissions":420, "Owner":"tcpdump", "Group":"tcpdump", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382759", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382760", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382761", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382762", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382763", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382764", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382765", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382766", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382767", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382768", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382769", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382770", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382771", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382772", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382773", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382774", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382775", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382776", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382777", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382778", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382779", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382780", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382781", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382782", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382783", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382784", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382785", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382786", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382787", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382788", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382789", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382790", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382791", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382792", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382794", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382795", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382796", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382797", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382798", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382799", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382800", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382801", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382802", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/tmp/#42853", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/tmp/#42853", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/tmp/#42853", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/tmp/#42853", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382803", "Op":2, "Location":"/tmp/#42853", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382804", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382805", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382806", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382807", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382808", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382809", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382810", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382811", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382812", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":1, "Location":"/tmp/sshcmds.24261.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":2, "Location":"/tmp/sshcmds.24261.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":2, "Location":"/home/blankcanvas/results.pcap", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":4, "Location":"/tmp/sshcmds.27647.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382813", "Op":4, "Location":"/tmp/sshcmds.24261.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382814", "Op":4, "Location":"/tmp/sshcmds.31761.sh", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382814", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382847", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738382847", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"client.infra.real.synflood.blankcanvas"}

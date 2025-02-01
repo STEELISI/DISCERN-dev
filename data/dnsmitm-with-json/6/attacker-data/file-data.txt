@@ -1,52 +1,36 @@
-{"TimeStamp":"2025-01-23T21:13:02.510518372Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:02.521427989Z","Op":1,"Location":"/tmp/sshcmds.3267.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:02.528368811Z","Op":2,"Location":"/tmp/sshcmds.3267.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:02.535707107Z","Op":4,"Location":"/tmp/sshcmds.3267.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:06.346129674Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:06.350187521Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:06.367337135Z","Op":1,"Location":"/tmp/sshcmds.19485.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:06.371894756Z","Op":2,"Location":"/tmp/sshcmds.19485.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:06.386412326Z","Op":4,"Location":"/tmp/sshcmds.19485.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:14.783923258Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:14.788658830Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:14.807037897Z","Op":1,"Location":"/tmp/sshcmds.12218.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:14.811823240Z","Op":2,"Location":"/tmp/sshcmds.12218.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:14.817183178Z","Op":4,"Location":"/tmp/sshcmds.12218.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.166766929Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.184157757Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.189182552Z","Op":1,"Location":"/tmp/sshcmds.7424.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.195466589Z","Op":2,"Location":"/tmp/sshcmds.7424.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.202588203Z","Op":4,"Location":"/tmp/sshcmds.7424.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.549544971Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.555429954Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.570618141Z","Op":1,"Location":"/tmp/sshcmds.26604.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.577731745Z","Op":2,"Location":"/tmp/sshcmds.26604.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.583165734Z","Op":4,"Location":"/tmp/sshcmds.26604.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.928136525Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.931788078Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.947135535Z","Op":1,"Location":"/tmp/sshcmds.24014.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:15.952331803Z","Op":2,"Location":"/tmp/sshcmds.24014.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.090879282Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.100628500Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.102767630Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.105254512Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.107360160Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.110517800Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.113998380Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.116938508Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.119134278Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.122843931Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.124954620Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.127296072Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.129346660Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.131379519Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.133999002Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:34.136465074Z","Op":2,"Location":"/tmp/#48492","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:39.641106184Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:39.646970468Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:39.672213306Z","Op":1,"Location":"/tmp/sshcmds.1275.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:39.711129180Z","Op":2,"Location":"/tmp/sshcmds.1275.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:39.720000011Z","Op":4,"Location":"/tmp/sshcmds.1275.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:13:42.744244565Z","Op":4,"Location":"/tmp/sshcmds.24014.sh","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:14:05.989073050Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"2025-01-23T21:14:05.995354987Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370779", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370779", "Op":1, "Location":"/tmp/sshcmds.20226.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370779", "Op":2, "Location":"/tmp/sshcmds.20226.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370779", "Op":4, "Location":"/tmp/sshcmds.20226.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370783", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370783", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370783", "Op":1, "Location":"/tmp/sshcmds.27043.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370783", "Op":2, "Location":"/tmp/sshcmds.27043.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370783", "Op":4, "Location":"/tmp/sshcmds.27043.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":1, "Location":"/tmp/sshcmds.18281.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/sshcmds.18281.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":4, "Location":"/tmp/sshcmds.18281.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":1, "Location":"/tmp/sshcmds.21027.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/sshcmds.21027.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":4, "Location":"/tmp/sshcmds.21027.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":1, "Location":"/tmp/sshcmds.11463.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":2, "Location":"/tmp/sshcmds.11463.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370792", "Op":4, "Location":"/tmp/sshcmds.11463.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370793", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370793", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370793", "Op":1, "Location":"/tmp/sshcmds.21202.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370793", "Op":2, "Location":"/tmp/sshcmds.21202.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370816", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370816", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370816", "Op":1, "Location":"/tmp/sshcmds.30882.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370816", "Op":2, "Location":"/tmp/sshcmds.30882.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370816", "Op":4, "Location":"/tmp/sshcmds.30882.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370819", "Op":4, "Location":"/tmp/sshcmds.21202.sh", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370843", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1738370843", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}

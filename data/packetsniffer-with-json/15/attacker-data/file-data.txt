@@ -1,65 +1,66 @@
-{"TimeStamp":"2025-01-23T23:11:37.165564057Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:37.173099165Z","Op":1,"Location":"/tmp/sshcmds.25931.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:37.183516133Z","Op":2,"Location":"/tmp/sshcmds.25931.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:37.193126270Z","Op":4,"Location":"/tmp/sshcmds.25931.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:41.095396903Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:41.100616651Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:41.116978707Z","Op":1,"Location":"/tmp/sshcmds.9012.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:41.127333585Z","Op":2,"Location":"/tmp/sshcmds.9012.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:41.137980111Z","Op":4,"Location":"/tmp/sshcmds.9012.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:47.828033770Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:47.833951629Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:47.849857705Z","Op":1,"Location":"/tmp/sshcmds.24503.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:11:47.857802723Z","Op":2,"Location":"/tmp/sshcmds.24503.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:02.881675636Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:02.888647085Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:02.917145288Z","Op":1,"Location":"/tmp/sshcmds.10566.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:02.923893326Z","Op":2,"Location":"/tmp/sshcmds.10566.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:02.930458365Z","Op":4,"Location":"/tmp/sshcmds.10566.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:05.333942748Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:05.340381816Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:05.369143630Z","Op":1,"Location":"/tmp/sshcmds.20527.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:05.377976608Z","Op":2,"Location":"/tmp/sshcmds.20527.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:05.385849246Z","Op":4,"Location":"/tmp/sshcmds.20527.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:13.877950610Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:13.883947049Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:13.929211748Z","Op":1,"Location":"/tmp/sshcmds.14041.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:13.935873257Z","Op":2,"Location":"/tmp/sshcmds.14041.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:13.949270654Z","Op":4,"Location":"/tmp/sshcmds.14041.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:14.440762034Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:14.444582103Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:14.496629061Z","Op":1,"Location":"/tmp/sshcmds.4322.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:14.511472317Z","Op":2,"Location":"/tmp/sshcmds.4322.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:14.518936096Z","Op":4,"Location":"/tmp/sshcmds.4322.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:19.993331807Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.000227256Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.037834438Z","Op":1,"Location":"/tmp/sshcmds.24005.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.044675965Z","Op":2,"Location":"/tmp/sshcmds.24005.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.077406468Z","Op":4,"Location":"/tmp/sshcmds.24005.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.561542092Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.568608351Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.617264581Z","Op":1,"Location":"/tmp/sshcmds.24880.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.625065159Z","Op":2,"Location":"/tmp/sshcmds.24880.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:20.653423032Z","Op":4,"Location":"/tmp/sshcmds.24880.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.073942400Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.080497019Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.109176703Z","Op":1,"Location":"/tmp/sshcmds.17433.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.116878550Z","Op":2,"Location":"/tmp/sshcmds.17433.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.133904887Z","Op":4,"Location":"/tmp/sshcmds.17433.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.537932679Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.542791827Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.569149412Z","Op":1,"Location":"/tmp/sshcmds.11257.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.580967919Z","Op":2,"Location":"/tmp/sshcmds.11257.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:21.597380746Z","Op":4,"Location":"/tmp/sshcmds.11257.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.005974006Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.010030356Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.041165888Z","Op":1,"Location":"/tmp/sshcmds.22994.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.053073186Z","Op":2,"Location":"/tmp/sshcmds.22994.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.077770581Z","Op":4,"Location":"/tmp/sshcmds.22994.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.095365537Z","Op":4,"Location":"/tmp/sshcmds.24503.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.423776276Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.429960125Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.446270691Z","Op":1,"Location":"/tmp/sshcmds.14851.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.455161349Z","Op":2,"Location":"/tmp/sshcmds.14851.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:22.463869637Z","Op":4,"Location":"/tmp/sshcmds.14851.sh","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
-{"TimeStamp":"2025-01-23T23:12:41.488707780Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373190", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373190", "Op":1, "Location":"/tmp/sshcmds.14205.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373190", "Op":2, "Location":"/tmp/sshcmds.14205.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373190", "Op":4, "Location":"/tmp/sshcmds.14205.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373193", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373193", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373194", "Op":1, "Location":"/tmp/sshcmds.2694.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373194", "Op":2, "Location":"/tmp/sshcmds.2694.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373194", "Op":4, "Location":"/tmp/sshcmds.2694.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373200", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373200", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373200", "Op":1, "Location":"/tmp/sshcmds.20195.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373200", "Op":2, "Location":"/tmp/sshcmds.20195.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373215", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373215", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373215", "Op":1, "Location":"/tmp/sshcmds.13876.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373215", "Op":2, "Location":"/tmp/sshcmds.13876.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373216", "Op":4, "Location":"/tmp/sshcmds.13876.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373218", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373218", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373218", "Op":1, "Location":"/tmp/sshcmds.615.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373218", "Op":2, "Location":"/tmp/sshcmds.615.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373219", "Op":4, "Location":"/tmp/sshcmds.615.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373228", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373228", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373228", "Op":1, "Location":"/tmp/sshcmds.3233.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373228", "Op":2, "Location":"/tmp/sshcmds.3233.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":4, "Location":"/tmp/sshcmds.3233.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":1, "Location":"/tmp/sshcmds.21310.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":2, "Location":"/tmp/sshcmds.21310.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373230", "Op":4, "Location":"/tmp/sshcmds.21310.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373236", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373236", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373236", "Op":1, "Location":"/tmp/sshcmds.15180.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373236", "Op":2, "Location":"/tmp/sshcmds.15180.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373238", "Op":4, "Location":"/tmp/sshcmds.15180.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373238", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373238", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373238", "Op":1, "Location":"/tmp/sshcmds.10048.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373238", "Op":2, "Location":"/tmp/sshcmds.10048.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":4, "Location":"/tmp/sshcmds.10048.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":1, "Location":"/tmp/sshcmds.1032.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":2, "Location":"/tmp/sshcmds.1032.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373240", "Op":4, "Location":"/tmp/sshcmds.1032.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":1, "Location":"/tmp/sshcmds.23872.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/sshcmds.23872.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":4, "Location":"/tmp/sshcmds.23872.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":1, "Location":"/tmp/sshcmds.2710.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/sshcmds.2710.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":4, "Location":"/tmp/sshcmds.2710.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":4, "Location":"/tmp/sshcmds.20195.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373241", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373242", "Op":1, "Location":"/tmp/sshcmds.7265.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373242", "Op":2, "Location":"/tmp/sshcmds.7265.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373242", "Op":4, "Location":"/tmp/sshcmds.7265.sh", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373261", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}
+{"TimeStamp":"1738373261", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"attacker.infra.real.packetsniffer.blankcanvas"}

@@ -1,11 +1,11 @@
-{"TimeStamp":"2025-01-24T15:01:28.553791605Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:28.572521414Z","Op":1,"Location":"/tmp/sshcmds.2895.sh","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:28.592937749Z","Op":2,"Location":"/tmp/sshcmds.2895.sh","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:28.610613809Z","Op":4,"Location":"/tmp/sshcmds.2895.sh","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:35.711912797Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:35.719859753Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:35.728330239Z","Op":1,"Location":"/tmp/sshcmds.20579.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:35.738661541Z","Op":2,"Location":"/tmp/sshcmds.20579.sh","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:01:35.746234839Z","Op":4,"Location":"/tmp/sshcmds.20579.sh","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:02:29.596771628Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
-{"TimeStamp":"2025-01-24T15:02:29.607399290Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379660", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379660", "Op":1, "Location":"/tmp/sshcmds.20958.sh", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379660", "Op":2, "Location":"/tmp/sshcmds.20958.sh", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379660", "Op":4, "Location":"/tmp/sshcmds.20958.sh", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379668", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379668", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379668", "Op":1, "Location":"/tmp/sshcmds.5916.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379668", "Op":2, "Location":"/tmp/sshcmds.5916.sh", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379668", "Op":4, "Location":"/tmp/sshcmds.5916.sh", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379723", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1738379723", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.spread.blankcanvas"}

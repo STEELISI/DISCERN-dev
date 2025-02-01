@@ -1,39 +1,18 @@
-{"TimeStamp":"2025-01-23T20:02:35.934897839Z","Op":2,"Location":"/tmp/sshcmds.27075.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:35.943094004Z","Op":4,"Location":"/tmp/sshcmds.27075.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:43.812137315Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:43.818578861Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:43.826212955Z","Op":1,"Location":"/tmp/sshcmds.14602.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:43.835183869Z","Op":2,"Location":"/tmp/sshcmds.14602.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:02:43.843272183Z","Op":4,"Location":"/tmp/sshcmds.14602.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:51.910247876Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.024639830Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.060256405Z","Op":1,"Location":"/tmp/sshcmds.10758.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.073205187Z","Op":2,"Location":"/tmp/sshcmds.10758.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.116843596Z","Op":4,"Location":"/tmp/sshcmds.10758.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.273248800Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.388562371Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.428027465Z","Op":1,"Location":"/tmp/sshcmds.1216.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.540753919Z","Op":2,"Location":"/tmp/sshcmds.1216.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:03:52.589623806Z","Op":4,"Location":"/tmp/sshcmds.1216.sh","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.457870152Z","Op":2,"Location":"/tmp/discern/data/os/close-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.470596973Z","Op":2,"Location":"/tmp/discern/data/os/closerange-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.478696007Z","Op":2,"Location":"/tmp/discern/data/os/execve-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.486150372Z","Op":2,"Location":"/tmp/discern/data/os/execveat-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.494045327Z","Op":2,"Location":"/tmp/discern/data/os/sysinfo-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.502470551Z","Op":2,"Location":"/tmp/discern/data/os/fork-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.509201777Z","Op":2,"Location":"/tmp/discern/data/os/vfork-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.515361512Z","Op":2,"Location":"/tmp/discern/data/os/kill-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.522321857Z","Op":2,"Location":"/tmp/discern/data/os/tkill-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.529029092Z","Op":2,"Location":"/tmp/discern/data/os/open-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.536553097Z","Op":2,"Location":"/tmp/discern/data/os/openat-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.542455493Z","Op":2,"Location":"/tmp/discern/data/os/openat2-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.547392980Z","Op":2,"Location":"/tmp/discern/data/os/recvfrom-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.553585536Z","Op":2,"Location":"/tmp/discern/data/os/recvmmsg-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.557862383Z","Op":2,"Location":"/tmp/discern/data/os/recvmsg-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.563706559Z","Op":2,"Location":"/tmp/discern/data/os/sendmmsg-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.569075784Z","Op":2,"Location":"/tmp/discern/data/os/sendmsg-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.574621371Z","Op":2,"Location":"/tmp/discern/data/os/sendto-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.581612047Z","Op":2,"Location":"/tmp/discern/data/os/socket-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:10.587469613Z","Op":2,"Location":"/tmp/discern/data/os/socketpair-res.txt","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:34.714830684Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"2025-01-23T20:05:34.723916428Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383290", "Op":2, "Location":"/tmp/sshcmds.3368.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383290", "Op":4, "Location":"/tmp/sshcmds.3368.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383298", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383298", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383298", "Op":1, "Location":"/tmp/sshcmds.30827.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383298", "Op":2, "Location":"/tmp/sshcmds.30827.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383298", "Op":4, "Location":"/tmp/sshcmds.30827.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":1, "Location":"/tmp/sshcmds.4952.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":2, "Location":"/tmp/sshcmds.4952.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":4, "Location":"/tmp/sshcmds.4952.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":1, "Location":"/tmp/sshcmds.27620.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":2, "Location":"/tmp/sshcmds.27620.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383366", "Op":4, "Location":"/tmp/sshcmds.27620.sh", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383466", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1738383466", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"server.infra.real.synflood.blankcanvas"}

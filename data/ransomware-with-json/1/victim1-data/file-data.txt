@@ -1,11 +1,11 @@
-{"TimeStamp":"2025-01-28T17:47:03.392645421Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:03.427500660Z","Op":1,"Location":"/tmp/sshcmds.15340.sh","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:03.487029117Z","Op":2,"Location":"/tmp/sshcmds.15340.sh","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:03.513102284Z","Op":4,"Location":"/tmp/sshcmds.15340.sh","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:10.462674098Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:10.469476841Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:10.484671798Z","Op":1,"Location":"/tmp/sshcmds.25250.sh","Permissions":420,"Owner":"blankcanvas","Group":"blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:10.491747764Z","Op":2,"Location":"/tmp/sshcmds.25250.sh","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:47:10.503028358Z","Op":4,"Location":"/tmp/sshcmds.25250.sh","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:48:20.897598798Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"2025-01-28T17:48:20.902584420Z","Op":2,"Location":"/tmp/count.blankcanvas","DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376516", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376516", "Op":1, "Location":"/tmp/sshcmds.9256.sh", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376516", "Op":2, "Location":"/tmp/sshcmds.9256.sh", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376516", "Op":4, "Location":"/tmp/sshcmds.9256.sh", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376523", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376523", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376523", "Op":1, "Location":"/tmp/sshcmds.31970.sh", "Permissions":420, "Owner":"blankcanvas", "Group":"blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376523", "Op":2, "Location":"/tmp/sshcmds.31970.sh", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376523", "Op":4, "Location":"/tmp/sshcmds.31970.sh", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376593", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1738376593", "Op":2, "Location":"/tmp/count.blankcanvas", "DevID":"victim1.infra.real.ransomware.blankcanvas"}
