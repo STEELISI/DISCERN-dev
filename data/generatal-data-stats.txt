@@ -1,0 +1,10 @@
+Average volume of data: 14.03 KB/s (influx & postgres)
+
+Average volume of data without postgres instance: ~3.5 KB/s
+    - This indicates we need a better way to store the logs
+    - Postgres doesn't increase in size by a lot, but it has a very large overhead
+        - 118 KB difference between smallest and largest postgres sizes
+        - Min size: 252KB
+    - Should look into reducing the postgres database image dumps
+    - Need to analyze scaling with the # of nodes
+

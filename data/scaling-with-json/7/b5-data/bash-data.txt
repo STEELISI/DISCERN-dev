@@ -1,0 +1,2 @@
+{"TimeStamp":"1741722566", "Host":"b5", "User":"blankcanvas", "Count":24, "Cmds":"CMBEGIN,b5.infra.real.synflood.blankcanvas,1741722563,/home/blankcanvas,sudo rm -rf /var/log/discern/data/*,,blankcanvas@b5.infra.real.synflood.blankcanvas\r\n", "DevID":"b5.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741722627", "Host":"b5", "User":"blankcanvas", "Count":25, "Cmds":"CMBEGIN,b5.infra.real.synflood.blankcanvas,1741722597,/home/blankcanvas,sudo systemctl restart discern-proc,,blankcanvas@b5.infra.real.synflood.blankcanvas\r\n", "DevID":"b5.infra.real.synflood.blankcanvas"}
