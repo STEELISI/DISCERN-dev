@@ -1,50 +1,17 @@
-{"TimeStamp":"1743614246", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.003943331619548911}
-{"TimeStamp":"1743614246", "Pid":8176, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15548416", "VmSize":"15548416", "VmHWM":"8503296", "VmStk":"135168", "VmData":"765952", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.536391100077214}
-{"TimeStamp":"1743614246", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.03364892652435314}
-{"TimeStamp":"1743614246", "Pid":8177, "PPid":8176, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"171945984", "VmSize":"171945984", "VmHWM":"3010560", "VmStk":"1060864", "VmData":"19451904", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614251", "Pid":8176, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15548416", "VmSize":"15548416", "VmHWM":"8503296", "VmStk":"135168", "VmData":"765952", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.2824533217108587}
-{"TimeStamp":"1743614251", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.03254753151761151}
-{"TimeStamp":"1743614251", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.0038666516435072944}
-{"TimeStamp":"1743614251", "Pid":8177, "PPid":8176, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"171945984", "VmSize":"171945984", "VmHWM":"3010560", "VmStk":"1060864", "VmData":"19451904", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614256", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.0037930669245597745}
-{"TimeStamp":"1743614256", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.03151807499075478}
-{"TimeStamp":"1743614261", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.03055209916188377}
-{"TimeStamp":"1743614261", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.0037222347123373406}
-{"TimeStamp":"1743614266", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.0036541091704804223}
-{"TimeStamp":"1743614266", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.029644591165725445}
-{"TimeStamp":"1743614271", "Pid":8236, "PPid":8214, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15069184", "VmSize":"15069184", "VmHWM":"4947968", "VmStk":"135168", "VmData":"1175552", "Threads":"1", "Name":"sshd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614271", "Pid":8218, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15413248", "VmSize":"15413248", "VmHWM":"8359936", "VmStk":"135168", "VmData":"630784", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":2.932392979026619}
-{"TimeStamp":"1743614271", "Pid":8009, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.003588317452874035}
-{"TimeStamp":"1743614271", "Pid":8214, "PPid":2627, "VmPeak":"15106048", "VmSize":"15069184", "VmHWM":"8843264", "VmStk":"135168", "VmData":"1175552", "Threads":"1", "Name":"sshd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":1.188879426333339}
-{"TimeStamp":"1743614271", "Pid":8066, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.03454582268291975}
-{"TimeStamp":"1743614271", "Pid":8219, "PPid":8218, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"171945984", "VmSize":"171945984", "VmHWM":"3010560", "VmStk":"1060864", "VmData":"19451904", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614326", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614331", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614336", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614341", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614347", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614352", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614357", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614362", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614367", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614372", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614377", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614382", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614387", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614393", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614398", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614403", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614408", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614413", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614418", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614423", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614428", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614428", "Pid":8333, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614433", "Pid":8333, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614433", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614438", "Pid":8333, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614438", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614443", "Pid":8333, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614444", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614449", "Pid":8333, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1743614449", "Pid":8275, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639658", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639658", "Pid":8155, "PPid":8153, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"172077056", "VmSize":"172077056", "VmHWM":"2998272", "VmStk":"1060864", "VmData":"19582976", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639658", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639658", "Pid":8153, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15548416", "VmSize":"15548416", "VmHWM":"8314880", "VmStk":"135168", "VmData":"765952", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":1.0810983019056717}
+{"TimeStamp":"1743639663", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639663", "Pid":8153, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15548416", "VmSize":"15548416", "VmHWM":"8314880", "VmStk":"135168", "VmData":"765952", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas", "Cpu":0.3797686774779832}
+{"TimeStamp":"1743639663", "Pid":8155, "PPid":8153, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"172077056", "VmSize":"172077056", "VmHWM":"2998272", "VmStk":"1060864", "VmData":"19582976", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639663", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639668", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639668", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639673", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639673", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639678", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639678", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639683", "Pid":8191, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639683", "Pid":8154, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1743639683", "Pid":8036, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"b1.infra.real.synflood.blankcanvas"}
