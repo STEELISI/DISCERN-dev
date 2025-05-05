@@ -1,6 +1,0 @@
-Name,TimeWeightedAvgVmSizeMiB,MaxVmPeakMiB,MaxVmHwmMiB,DataPoints,PeakDuration
-discern-file-so,1462.3950892857142,1590.8046875,272.71875,13,63.0
-discern-logs-so,1205.4296875,1205.4296875,15.40625,13,63.0
-discern-network,1889.953125,1889.953125,95.359375,13,63.0
-discern-proc-so,1205.92578125,1205.92578125,16.078125,13,63.0
-systemd-journal,57.28125,57.28125,19.57421875,13,63.0
