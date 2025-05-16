@@ -4,13 +4,14 @@
 
 - Runs byob on the attacker node
 - Starts the byob client on compromised
-- encrypts the file ~/testing.txt
-- Locates all txt files in the file system with byob shell, find, and grep
-- Encrypts the first 20 files in that list
-- Locates all c files in the file system with byob shell, find, and grep
-- Encrypts the first 20 files in that list
-- Locates all files in ~/.config with byob shell, find, and grep
-- Encrypts the first 20 files in that list
+The following files are encrypted / decrypted in this order:
+    - encrypt_file "$HOME/testing.txt"
+    - encrypt_file "/boot"
+    - encrypt_file "/root"
+    - encrypt_file "/home"
+    - decrypt_file "/home/blankcanvas/.ssh"
+    - decrypt_file "/home/blankcanvas/.bashrc"
+    - decrypt_file "/home/blankcanvas/.profile"
 - Attacker pauses
 - Attacker kills byob software on compromised via byob
 - Attacker stop byob server
