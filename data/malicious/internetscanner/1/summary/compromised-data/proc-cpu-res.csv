@@ -1,0 +1,9 @@
+Name,Duration,AvgCpuPercent,MaxCpuUsage,DataPoints
+discern-file-so,433.000,85.139,91.656,87
+discern-proc-so,3406.000,2.679,4.008,706
+discern-network,3481.000,0.586,0.602,706
+discern-logs-so,3589.000,0.427,0.490,706
+python3,3333.000,0.377,14.517,647
+systemd-journal,3548.000,0.235,0.242,677
+sshd,5.000,0.384,0.384,1
+OverallSystemRecord,3350.000,3.921,17.957,690
