@@ -1,3 +1,10 @@
-{"TimeStamp":"1746764455","Size":["4659"],"Location":["/etc/ettercap/etter.dns"],"Hash":["ZGj0y+B8CIVM9wHGCIwxQw=="],"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"1746764557","Size":["4681"],"Location":["/etc/ettercap/etter.dns"],"Hash":["cgPtVDWICd4RoI4TmxoMAQ=="],"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
-{"TimeStamp":"1746764609","Size":["4707"],"Location":["/etc/ettercap/etter.dns"],"Hash":["6GP4J3MTH3kUZMCeuf2aiQ=="],"DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754734658", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754734658", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["3yB2d2R2qjyG0wkEL0T7Mw=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754735338", "Size":["1450"], "Location":["/home/blankcanvas/.ssh/authorized_keys"], "Hash":["vX8e93c3SI8Scz/I/Za2mQ=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754735338", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["zxkB/Nw/h3RBGGSUCdy+LQ=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736013", "Size":["1450"], "Location":["/home/blankcanvas/.ssh/authorized_keys"], "Hash":["IrgIEypRmcVBk6aKoFA6BA=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736013", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["qLJhyylGkYXigdJ52z8ImA=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736013", "Size":["253"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["50RRrgAnQeUXAnvJdg+/gw=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736013", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["GBvINGOLXo0Kqvhs/WVeYg=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736750", "Size":["1450"], "Location":["/home/blankcanvas/.ssh/authorized_keys"], "Hash":["vX8e93c3SI8Scz/I/Za2mQ=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
+{"TimeStamp":"1754736750", "Size":["253"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["50RRrgAnQeUXAnvJdg+/gw=="], "DevID":"attacker.infra.real.dnsmitm.blankcanvas"}
