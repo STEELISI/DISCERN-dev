@@ -1,0 +1,50 @@
+{"TimeStamp":"1741726031", "Pid":16770, "PPid":16769, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"180490240", "VmSize":"180490240", "VmHWM":"3063808", "VmStk":"1060864", "VmData":"27992064", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726031", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726031", "Pid":16769, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15544320", "VmSize":"15540224", "VmHWM":"8630272", "VmStk":"135168", "VmData":"757760", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":1.1767430951709987}
+{"TimeStamp":"1741726036", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726036", "Pid":16770, "PPid":16769, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"180490240", "VmSize":"180490240", "VmHWM":"3063808", "VmStk":"1060864", "VmData":"27992064", "Threads":"1", "Name":"(sd-pam)", "State":"S (sleeping)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726036", "Pid":16769, "PPid":1, "RealUid":1001, "EffectiveUid":1001, "SavedUid":1001, "FilesystemUid":1001, "RealGid":1001, "EffectiveGid":1001, "SavedGid":1001, "FilesystemGid":1001, "VmPeak":"15544320", "VmSize":"15540224", "VmHWM":"8630272", "VmStk":"135168", "VmData":"757760", "Threads":"1", "Name":"systemd", "State":"S (sleeping)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.3962189151711559}
+{"TimeStamp":"1741726041", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726046", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726051", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726056", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726061", "Pid":16643, "PPid":2, "Threads":"1", "Name":"kworker/u2", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726134", "Pid":16998, "PPid":7776, "VmPeak":"17899520", "VmSize":"17899520", "VmHWM":"11264000", "VmStk":"135168", "VmData":"5627904", "Threads":"1", "Name":"python3", "State":"R (running)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":2.061824289987636}
+{"TimeStamp":"1741726134", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726140", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726145", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726150", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726155", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"R (running)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726160", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1741726165", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.028805792724900522}
+{"TimeStamp":"1741726170", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02511037438006461}
+{"TimeStamp":"1741726175", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.022255352673751665}
+{"TimeStamp":"1741726180", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.020020560625258404}
+{"TimeStamp":"1741726186", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.01811360784680266}
+{"TimeStamp":"1741726191", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.033145464418405136}
+{"TimeStamp":"1741726196", "Pid":17096, "PPid":7776, "VmPeak":"17899520", "VmSize":"17899520", "VmHWM":"10743808", "VmStk":"135168", "VmData":"5627904", "Threads":"1", "Name":"python3", "State":"R (running)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.66938127056251}
+{"TimeStamp":"1741726196", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.030537137534358546}
+{"TimeStamp":"1741726201", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02825826339278599}
+{"TimeStamp":"1741726206", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02634700823683988}
+{"TimeStamp":"1741726211", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02470336559570606}
+{"TimeStamp":"1741726217", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02323219431964604}
+{"TimeStamp":"1741726222", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03291926871213208}
+{"TimeStamp":"1741726227", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.031204831505348262}
+{"TimeStamp":"1741726232", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.029654616393546513}
+{"TimeStamp":"1741726237", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.028256481348877364}
+{"TimeStamp":"1741726242", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.026984135042060858}
+{"TimeStamp":"1741726247", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.02582153902931888}
+{"TimeStamp":"1741726252", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03300667071198579}
+{"TimeStamp":"1741726257", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.0316974092892083}
+{"TimeStamp":"1741726262", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.030487254767836258}
+{"TimeStamp":"1741726267", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.029366836327705845}
+{"TimeStamp":"1741726272", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.028325764976284754}
+{"TimeStamp":"1741726277", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03419449167995784}
+{"TimeStamp":"1741726282", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03306205787994741}
+{"TimeStamp":"1741726287", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03200039345451444}
+{"TimeStamp":"1741726292", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03720792213526383}
+{"TimeStamp":"1741726297", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.0360875901302906}
+{"TimeStamp":"1741726302", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.035032633198491966}
+{"TimeStamp":"1741726307", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.0340376225445536}
+{"TimeStamp":"1741726312", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.033096889821191786}
+{"TimeStamp":"1741726317", "Pid":16995, "PPid":2, "Threads":"1", "Name":"kworker/0", "State":"I (idle)", "DevID":"router.infra.real.synflood.blankcanvas", "Cpu":0.03757359755541253}

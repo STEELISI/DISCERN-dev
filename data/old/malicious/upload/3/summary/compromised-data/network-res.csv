@@ -1,0 +1,17 @@
+# Overall Packet Count: 255
+# Overall Total Bytes: 62003
+# Overall Average Packet Size (Bytes): 243.15
+# Overall Capture Duration (Seconds): 960.000
+# Overall Average Rate (Mbps): 0.001
+
+IP_A,IP_B,TotalPackets,TotalBytes,TotalActiveSeconds,AvgRateMbps,PeakRateMbps
+172.30.0.12,192.168.254.2,204,57120,4,0.11424,0.158272
+172.30.0.1,172.30.0.12,35,3739,3,0.009970666666666666,0.012952
+10.10.10.1,10.10.10.3,2,150,1,0.0012,0.0012
+fe80::1434:77ff:fed9:a8f,ff02::2,2,142,1,0.001136,0.001136
+fe80::94bf:c2ff:fe37:8277,ff02::2,2,142,1,0.001136,0.001136
+fe80::9896:daff:fe45:9eab,ff02::2,2,142,1,0.001136,0.001136
+fe80::a0a8:42ff:fe83:6804,ff02::2,2,142,1,0.001136,0.001136
+fe80::bcd4:85ff:fe94:1cdd,ff02::2,2,142,1,0.001136,0.001136
+fe80::cfb:f7ff:fe44:fc56,ff02::2,2,142,1,0.001136,0.001136
+fe80::f87f:8fff:febc:708f,ff02::2,2,142,1,0.001136,0.001136

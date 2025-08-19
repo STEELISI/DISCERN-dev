@@ -1,0 +1,9 @@
+Name,Duration,AvgCpuPercent,MaxCpuUsage,DataPoints
+server.py,3453.000,84.229,84.572,701
+discern-file-so,777.000,49.088,51.120,148
+discern-proc-so,3503.000,2.061,5.361,701
+discern-logs-so,3586.000,0.652,0.763,700
+discern-network,3486.000,0.200,0.201,663
+sshd,1476.000,0.360,0.961,284
+kswapd0,1600.000,0.189,0.195,306
+OverallSystemRecord,2995.000,78.185,88.540,617

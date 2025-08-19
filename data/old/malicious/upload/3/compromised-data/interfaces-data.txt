@@ -1,0 +1,10 @@
+{"TimeStamp":"1748021374","Name":"eth0","HardwareAddr":"92:3e:ca:91:3b:97","IPs":["172.30.0.12","fe80::903e:caff:fe91:3b97"],"Netmasks":[16,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"eth1","HardwareAddr":"ca:60:a4:7f:a8:a1","IPs":["10.10.10.2","fe80::c860:a4ff:fe7f:a8a1"],"Netmasks":[24,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"dbus-system","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"dbus-session","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"eth2","HardwareAddr":"e2:6d:97:f6:86:ec","IPs":["10.0.2.2","fe80::e06d:97ff:fef6:86ec"],"Netmasks":[24,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"any","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"bluetooth-monitor","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"nflog","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1748021374","Name":"nfqueue","DevID":"compromised.infra.real.upload.blankcanvas"}

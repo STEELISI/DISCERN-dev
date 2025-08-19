@@ -1,0 +1,10 @@
+{"TimeStamp":"1748016110","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"eth1","HardwareAddr":"ea:74:c8:6b:b5:ed","IPs":["10.10.10.4","fe80::e874:c8ff:fe6b:b5ed"],"Netmasks":[24,64],"DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"any","DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"nfqueue","DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"dbus-system","DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"dbus-session","DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"eth0","HardwareAddr":"06:53:80:e7:90:66","IPs":["172.30.0.15","fe80::453:80ff:fee7:9066"],"Netmasks":[16,64],"DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"eth2","HardwareAddr":"aa:29:ca:ce:3b:fe","IPs":["10.0.4.2","fe80::a829:caff:fece:3bfe"],"Netmasks":[24,64],"DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"bluetooth-monitor","DevID":"victim2.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1748016110","Name":"nflog","DevID":"victim2.infra.real.spread.blankcanvas"}
