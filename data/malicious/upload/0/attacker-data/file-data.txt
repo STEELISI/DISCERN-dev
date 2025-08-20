@@ -1,5 +1,8 @@
-{"TimeStamp":"1755144489", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["wHnYo0oaSMgoNCFgsIU30w=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755144489", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["8IAsZm8/MgUeHzmU2sS+Ng=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755145185", "Size":["1450"], "Location":["/home/blankcanvas/.ssh/authorized_keys"], "Hash":["TFzJil2TEFcGuGQzYVJG/w=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755145185", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["WxeGxoXGByQQ47Y3cqgD+g=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755145185", "Size":["49"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["TEy/vYaro9GEDywgjctFSA=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755655609","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["4n5h1IBPleo1hGDjUt9Qpg=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755655609","Size":["12288"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["TRPDJ9IuphHQU9Ne8VL6cw=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755655609","Size":["0"],"Location":["/home/blankcanvas/byob/temp"],"Hash":["zXETnN1RUAaKZh4Jw9WEnQ=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755655609","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["qLJhyylGkYXigdJ52z8ImA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755656345","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["0bHR0ovDMCjnS+YVlCPDhA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755656345","Size":["12288"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["jTW+SPzDyi+Tfdp1rCwMyA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755656345","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755656345","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"DevID":"attacker.infra.real.upload.blankcanvas"}

@@ -1,3 +1,8 @@
-{"TimeStamp":"1755147705", "Size":["151"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["Z1t33J219N3+vvai7I6LxA=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755147705", "Size":["261"], "Location":["/etc/systemd/network/eth1.network"], "Hash":["WxeGxoXGByQQ47Y3cqgD+g=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1755148400", "Size":["12288"], "Location":["/home/blankcanvas/byob/database.db"], "Hash":["ZXuhRtoIuiNlaAI0AdXjow=="], "DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755658707","Size":["12288"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["HCh1ruS4XgIofLKp60KeYA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755658707","Size":["0"],"Location":["/home/blankcanvas/byob/temp"],"Hash":["zXETnN1RUAaKZh4Jw9WEnQ=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755658707","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["wHnYo0oaSMgoNCFgsIU30w=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755658707","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["WxeGxoXGByQQ47Y3cqgD+g=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755659398","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["0bHR0ovDMCjnS+YVlCPDhA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755659398","Size":["64779"],"Location":["/home/blankcanvas/byob/temp"],"Hash":["s6Vx3MLtDqU0+HQrt+5lvQ=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755659398","Size":["235"],"Location":["/etc/systemd/network/eth0.network"],"Hash":["wHnYo0oaSMgoNCFgsIU30w=="],"DevID":"attacker.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1755659398","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["cvO5rDT3+nB3DVIeO09rPA=="],"DevID":"attacker.infra.real.upload.blankcanvas"}

@@ -1,2 +1,4 @@
-{"TimeStamp":"1755141808", "Size":["235"], "Location":["/etc/systemd/network/eth0.network"], "Hash":["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID":"attacker.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1755141808", "Size":["117"], "Location":["/etc/systemd/network/eth2.network"], "Hash":["KCLgpUSdZfEGcX/F+enZAA=="], "DevID":"attacker.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1755653802","Size":["1450"],"Location":["/home/blankcanvas/.ssh/authorized_keys"],"Hash":["qWZRmtdBDbP40Q0DTM44XA=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1755653802","Size":["12288"],"Location":["/home/blankcanvas/byob/database.db"],"Hash":["HCh1ruS4XgIofLKp60KeYA=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1755653802","Size":["0"],"Location":["/home/blankcanvas/byob/temp"],"Hash":["zXETnN1RUAaKZh4Jw9WEnQ=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1755653802","Size":["261"],"Location":["/etc/systemd/network/eth1.network"],"Hash":["cvO5rDT3+nB3DVIeO09rPA=="],"DevID":"attacker.infra.real.spread.blankcanvas"}
