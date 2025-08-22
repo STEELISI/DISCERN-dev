@@ -13,263 +13,141 @@
 {"TimeStamp": "1754745897", "Load": [1.00000000000216, 8.080808080811126, 0.9999999999990905, 1.980198019803011], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754745903", "Load": [5.102040816327595, 7.070707070710812, 13.131313131309536, 7.142857142856314], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754745909", "Load": [7.000000000000568, 10.101010101009434, 11.999999999997726, 7.920792079212044], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745915", "Load": [2.020202020200164, 0.9999999999990905, 1.0101010101017496, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745921", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745927", "Load": [0.0, 1.0000000000017053, 1.0101010101003143, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745933", "Load": [5.050505050506152, 4.950495049505006, 3.0612244897959777, 9.000000000000341], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745939", "Load": [4.000000000002956, 2.000000000001023, 1.010101010100082, 2.000000000001478], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745944", "Load": [3.0303030302995504], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745945", "Load": [1.980198019800197, 0.0, 2.9702970297031097, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745950", "Load": [0.9999999999995451], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745951", "Load": [13.265306122451348, 16.00000000000108, 23.000000000000398, 6.122448979591955], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745956", "Load": [13.265306122453715], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745957", "Load": [3.0612244897959777, 3.999999999999204, 4.950495049507235, 2.020202020203035], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745962", "Load": [3.030303030311034], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745963", "Load": [0.9900990099000985, 2.000000000001023, 0.0, 1.980198019803011], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745968", "Load": [7.0707070707104345], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745969", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745974", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745975", "Load": [3.0612244897959777, 6.000000000000227, 9.278350515464009, 4.999999999998295], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745980", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745981", "Load": [3.0000000000001137, 2.970297029705924, 1.999999999999602, 2.9702970297031097], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745986", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745987", "Load": [0.0, 0.9900990099000985, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745992", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745993", "Load": [17.47572815534479, 13.265306122454248, 14.285714285712627, 10.204081632654658], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745998", "Load": [99.99999999998312], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754745999", "Load": [3.000000000000796, 1.010101010100082, 2.9411764705883994, 1.980198019803011], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746004", "Load": [99.99999999999409], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746005", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746010", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746011", "Load": [0.9999999999990905, 0.9999999999993179, 0.0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746016", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746017", "Load": [1.999999999998181, 2.020202020200164, 3.0000000000001137, 2.020202020203035], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746022", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746023", "Load": [0.9999999999990905, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746028", "Load": [21.428571428563142], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746029", "Load": [0.9999999999990905, 1.0000000000019327, 1.9999999999986358, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746034", "Load": [10.999999999996362], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746035", "Load": [9.900990099009427, 6.930693069307877, 10.891089108914793, 7.0000000000009095], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746040", "Load": [0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746041", "Load": [10.891089108907074, 12.871287128715434, 5.000000000001137, 13.131313131312552], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746046", "Load": [24.742268041225696], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746047", "Load": [3.960396039602317, 1.999999999998181, 1.980198019803011, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746052", "Load": [8.080808080802514], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746053", "Load": [3.0612244897959777, 10.999999999998863, 4.0404040404032, 4.000000000002046], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746058", "Load": [0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746059", "Load": [2.000000000001478, 1.010101010102953, 3.999999999999204, 1.010101010102953], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746064", "Load": [14.851485148522764], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746065", "Load": [2.000000000001023, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746070", "Load": [20.7920792079199], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746071", "Load": [4.000000000002046, 3.0612244897959777, 10.999999999998863, 2.0408163265287182], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746076", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746077", "Load": [1.999999999998181, 3.999999999999204, 3.0303030303009426, 3.9215686274502697], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746082", "Load": [3.999999999996362], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746083", "Load": [9.000000000001137, 9.000000000000341, 11.111111111109835, 13.725490196074281], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746088", "Load": [5.999999999994543], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746090", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746094", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746096", "Load": [4.000000000002046, 3.0612244897988776, 4.123711340207213, 9.09090909091431], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746100", "Load": [4.000000000007731], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746102", "Load": [0.0, 0.0, 2.9411764705883994, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746106", "Load": [13.999999999998636], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746108", "Load": [8.000000000004093, 4.9019607843149275, 2.0408163265316186, 2.0202020202006286], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746112", "Load": [17.999999999986812], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746114", "Load": [10.891089108909526, 11.111111111109516, 15.151515151515587, 9.183673469390063], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746118", "Load": [3.061224489794498], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746120", "Load": [8.000000000000227, 7.920792079204634, 9.000000000000341, 10.101010101011754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746124", "Load": [16.66666666667038], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746126", "Load": [3.999999999999204, 2.000000000001023, 2.020202020203035, 2.9702970297002955], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746130", "Load": [8.080808080802514], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746132", "Load": [5.000000000001137, 10.101010101009434, 6.060606060609105, 5.000000000002842], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746136", "Load": [3.9603960396107585], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746138", "Load": [0.9999999999990905, 0.0, 0.9999999999990905, 1.9801980198006428], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746142", "Load": [6.000000000005912], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746144", "Load": [0.0, 0.0, 0.0, 0.9900990099000985], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746148", "Load": [31.313131313144186], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745916", "Load": [102.02020202020016, 0.9999999999990905, 1.0101010101017496, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745922", "Load": [100, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745928", "Load": [99.99999999997749, 1.0000000000017053, 1.0101010101003143, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745934", "Load": [105.05050505049478, 4.950495049505006, 3.0612244897959777, 9.000000000000341], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745940", "Load": [6.000000000001137, 2.000000000001023, 1.010101010100082, 2.000000000001478], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745946", "Load": [101.9801980198002, 0.0, 2.9702970297031097, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745952", "Load": [113.26530612245135, 16.00000000000108, 23.000000000000398, 6.122448979591955], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745958", "Load": [103.06122448979598, 3.999999999999204, 4.950495049507235, 2.020202020203035], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745964", "Load": [100.99009900990009, 2.000000000001023, 0.0, 1.980198019803011], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745970", "Load": [100, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745976", "Load": [103.06122448977204, 6.000000000000227, 9.278350515464009, 4.999999999998295], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745982", "Load": [103.00000000000011, 2.970297029705924, 1.999999999999602, 2.9702970297031097], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745988", "Load": [99.99999999998886, 0.9900990099000985, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754745994", "Load": [117.47572815533343, 13.265306122454248, 14.285714285712627, 10.204081632654658], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746000", "Load": [103.0000000000008, 1.010101010100082, 2.9411764705883994, 1.980198019803011], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746006", "Load": [100, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746012", "Load": [100.99999999999909, 0.9999999999993179, 0.0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746018", "Load": [101.99999999999818, 2.020202020200164, 3.0000000000001137, 2.020202020203035], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746024", "Load": [100.99999999999909, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746030", "Load": [1.999999999998181, 1.0000000000019327, 1.9999999999986358, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746036", "Load": [13.900990099005789, 6.930693069307877, 10.891089108914793, 7.0000000000009095], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746042", "Load": [61.8910891089289, 12.871287128715434, 5.000000000001137, 13.131313131312552], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746048", "Load": [3.960396039602317, 1.999999999998181, 1.980198019803011, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746054", "Load": [8.111729540306712, 10.999999999998863, 4.0404040404032, 4.000000000002046], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746060", "Load": [4.9999999999987494, 1.010101010102953, 3.999999999999204, 1.010101010102953], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746066", "Load": [10.080808080803537, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746072", "Load": [6.999999999999318, 3.0612244897959777, 10.999999999998863, 2.0408163265287182], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746078", "Load": [17.84158415841458, 3.999999999999204, 3.0303030303009426, 3.9215686274502697], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746084", "Load": [30.428571428575882, 9.000000000000341, 11.111111111109835, 13.725490196074281], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746090", "Load": [4.0816326530574365, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746096", "Load": [18.000000000000682, 3.0612244897988776, 4.123711340207213, 9.09090909091431], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746102", "Load": [8.163265306126474, 0.0, 2.9411764705883994, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746108", "Load": [10.020202020203794, 4.9019607843149275, 2.0408163265316186, 2.0202020202006286], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746114", "Load": [11.90119011900984, 11.111111111109516, 15.151515151515587, 9.183673469390063], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746120", "Load": [35.9999999999975, 7.920792079204634, 9.000000000000341, 10.101010101011754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746126", "Load": [10.000000000005116, 2.000000000001023, 2.020202020203035, 2.9702970297002955], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746132", "Load": [5.990099009901458, 10.101010101009434, 6.060606060609105, 5.000000000002842], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746138", "Load": [12.11111111111403, 0.0, 0.9999999999990905, 1.9801980198006428], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746144", "Load": [3.0303030303009426, 0.0, 0.0, 0.9900990099000985], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746150", "Load": [6.060606060606235, 8.00000000000307, 5.050505050506152, 10.101010101011754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746154", "Load": [11.881188118815112], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746156", "Load": [0.0, 1.0000000000019327, 1.980198019800197, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746160", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746162", "Load": [9.09090909090648, 9.000000000002387, 13.000000000002501, 7.000000000003752], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746166", "Load": [14.141414141409387], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746156", "Load": [8.99999999999909, 1.0000000000019327, 1.980198019800197, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746162", "Load": [29.499072356184193, 9.000000000002387, 13.000000000002501, 7.000000000003752], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746168", "Load": [2.000000000001023, 0.9999999999990905, 0.0, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746172", "Load": [2.020202020210256], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746174", "Load": [50.0, 46.39175257732004, 51.020408163264364, 46.315789473681754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746178", "Load": [0.9900990098998755], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746180", "Load": [25.000000000002842, 44.000000000002615, 13.265306122448091, 42.424242424240774], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746184", "Load": [4.950495049510635], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746186", "Load": [13.999999999998295, 48.51485148515515, 38.000000000008185, 20.408163265301685], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746190", "Load": [3.960396039599502], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746192", "Load": [49.01960784313813, 27.5510204081609, 30.39215686274586, 20.20202020201887], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746196", "Load": [13.131313131309536], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746198", "Load": [2.000000000001023, 1.0101010101003143, 2.000000000001023, 1.010101010100082], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746202", "Load": [4.00000000000955], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746204", "Load": [6.122448979591955, 9.183673469387163, 12.000000000000455, 6.000000000000227], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746208", "Load": [4.000000000007731], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746210", "Load": [3.0303030303002467, 2.000000000001023, 2.020202020200164, 5.999999999998863], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746214", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746216", "Load": [1.010101010102953, 3.030303030305988, 1.010101010100082, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746220", "Load": [1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746222", "Load": [2.0408163265287182, 2.000000000001023, 2.000000000001023, 2.9411764705856127], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746226", "Load": [15.151515151516195], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746228", "Load": [1.0000000000017053, 0.9999999999990905, 1.980198019803011, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746232", "Load": [22.772277227708397], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746234", "Load": [3.960396039603208, 2.970297029702441, 3.0000000000001137, 1.9999999999986358], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746238", "Load": [17.171717171708938], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746240", "Load": [5.102040816326412, 11.000000000003865, 9.000000000000341, 8.163265306125469], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746244", "Load": [12.121212121209686], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746246", "Load": [2.0000000000034106, 0.0, 2.0202020202006286, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746250", "Load": [8.00000000000773], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746252", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746256", "Load": [3.030303030311034], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746258", "Load": [0.0, 0.0, 0.9999999999990905, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746262", "Load": [2.9702970297009643], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746264", "Load": [11.000000000001023, 5.050505050506152, 7.843137254906113, 4.95049504950612], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746268", "Load": [17.647058823524823], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746174", "Load": [52.99999999999727, 46.39175257732004, 51.020408163264364, 46.315789473681754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746180", "Load": [36.000000000004206, 44.000000000002615, 13.265306122448091, 42.424242424240774], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746186", "Load": [23.90099009902402, 48.51485148515515, 38.000000000008185, 20.408163265301685], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746192", "Load": [53.019607843144044, 27.5510204081609, 30.39215686274586, 20.20202020201887], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746198", "Load": [24.77227722770942, 1.0101010101003143, 2.000000000001023, 1.010101010100082], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746204", "Load": [11.17295403010269, 9.183673469387163, 12.000000000000455, 6.000000000000227], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746210", "Load": [5.050505050500876, 2.000000000001023, 2.020202020200164, 5.999999999998863], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746216", "Load": [8.080808080805152, 3.030303030305988, 1.010101010100082, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746222", "Load": [15.306122448976987, 2.000000000001023, 2.000000000001023, 2.9411764705856127], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746228", "Load": [4.0303030303026475, 0.9999999999990905, 1.980198019803011, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746234", "Load": [16.081608160812895, 2.970297029702441, 3.0000000000001137, 1.9999999999986358], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746240", "Load": [35.102040816333236, 11.000000000003865, 9.000000000000341, 8.163265306125469], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746246", "Load": [6.000000000001592, 0.0, 2.0202020202006286, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746252", "Load": [0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746258", "Load": [3.9603960396012856, 0.0, 0.9999999999990905, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746264", "Load": [14.030303030300573, 5.050505050506152, 7.843137254906113, 4.95049504950612], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746270", "Load": [1.999999999998181, 3.030303030305292, 2.9702970297002955, 1.010101010102953], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746274", "Load": [16.000000000008185], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746276", "Load": [0.9999999999990905, 2.000000000001023, 0.9900990099000985, 0.9900990099000985], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746280", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746282", "Load": [15.841584158412081, 15.000000000000568, 17.346938775508605, 12.12121212121247], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746286", "Load": [14.141414141415881], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746288", "Load": [2.0408163265316186, 2.0618556701040895, 3.9603960396041, 3.0000000000001137], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746292", "Load": [5.050505050513054], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746294", "Load": [1.980198019800197, 0.9900990099029126, 2.9702970297031097, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746298", "Load": [0.9999999999995451], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746300", "Load": [4.950495049503307, 3.0303030303024214, 3.0303030303002467, 10.101010101012305], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746304", "Load": [3.030303030311034], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746306", "Load": [0.0, 1.999999999998181, 3.0303030303031173, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746310", "Load": [18.000000000006366], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746312", "Load": [3.960396039600394, 2.970297029703778, 3.0000000000001137, 2.0408163265316186], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746316", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746318", "Load": [16.326530612245136, 22.330097087378828, 14.000000000001478, 10.204081632655724], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746322", "Load": [5.05050505050157], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746324", "Load": [3.0000000000001137, 2.9702970297031097, 3.0000000000001137, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746328", "Load": [4.04040404041274], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746330", "Load": [0.0, 0.9999999999990905, 0.0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746334", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746336", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746340", "Load": [2.9999999999986358], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746342", "Load": [6.930693069309132, 4.999999999998295, 7.920792079209231, 11.11111111111781], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746346", "Load": [22.00000000000273], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746348", "Load": [3.9603960396069136, 2.000000000001023, 1.010101010100082, 3.9215686274530563], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746352", "Load": [20.99999999998272], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746354", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746358", "Load": [5.0505050505107345], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746360", "Load": [12.24489795918101, 6.999999999999318, 9.183673469385033, 11.999999999997726], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746364", "Load": [12.999999999993634], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746366", "Load": [2.9702970297031097, 0.9900990099000985, 0.0, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746370", "Load": [7.070707070702199], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746276", "Load": [19.811881188107982, 2.000000000001023, 0.9900990099000985, 0.9900990099000985], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746282", "Load": [19.801980198024623, 15.000000000000568, 17.346938775508605, 12.12121212121247], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746288", "Load": [6.040816326529799, 2.0618556701040895, 3.9603960396041, 3.0000000000001137], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746294", "Load": [3.0006061830650292, 0.9900990099029126, 2.9702970297031097, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746300", "Load": [18.081808180818875, 3.0303030303024214, 3.0303030303002467, 10.101010101012305], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746306", "Load": [13.592233009710775, 1.999999999998181, 3.0303030303031173, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746312", "Load": [6.960396039597665, 2.970297029703778, 3.0000000000001137, 2.0408163265316186], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746318", "Load": [37.326530612248774, 22.330097087378828, 14.000000000001478, 10.204081632655724], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746324", "Load": [26.469387755103575, 2.9702970297031097, 3.0000000000001137, 1.999999999998181], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746330", "Load": [3.0303030302995504, 0.9999999999990905, 0.0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746336", "Load": [0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746342", "Load": [22.930693069313225, 4.999999999998295, 7.920792079209231, 11.11111111111781], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746348", "Load": [8.000800080029281, 2.000000000001023, 1.010101010100082, 3.9215686274530563], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746354", "Load": [0.9999999999990905, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746360", "Load": [33.24489795917328, 6.999999999999318, 9.183673469385033, 11.999999999997726], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746366", "Load": [6.000600060004052, 0.9900990099000985, 0.0, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746372", "Load": [2.020202020200164, 2.020202020203035, 1.010101010100082, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746376", "Load": [2.9999999999959073], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746378", "Load": [5.154639175258759, 10.101010101009434, 4.950495049503307, 3.960396039606022], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746382", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746384", "Load": [0.9999999999990905, 1.0000000000019327, 0.0, 1.010101010100082], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746388", "Load": [30.00000000000682], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746390", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746394", "Load": [3.999999999996362], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746396", "Load": [11.22448979591665, 14.141414141412255, 6.122448979594855, 8.080808080807413], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746400", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746402", "Load": [2.9702970297031097, 1.980198019800197, 1.0000000000019327, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746406", "Load": [3.999999999996362], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746408", "Load": [1.0204081632643591, 2.020202020203499, 7.070707070706317, 3.0303030303038136], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746412", "Load": [3.0303030302995504], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746414", "Load": [4.081632653058383, 10.101010101008884, 4.081632653060336, 8.910891089109327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746418", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746420", "Load": [1.980198019800197, 1.980198019800197, 3.000000000002956, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746424", "Load": [9.999999999997726], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746427", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746431", "Load": [20.99999999999227], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746433", "Load": [7.216494845359918, 13.265306122445192, 13.131313131315423, 10.20408163265519], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746437", "Load": [4.040404040410884], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746439", "Load": [0.9999999999990905, 0.0, 1.999999999998181, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746443", "Load": [3.9603960396107585], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746445", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746449", "Load": [17.821782178220275], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746451", "Load": [3.921568627447484, 6.999999999999318, 3.0303030303031173, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746455", "Load": [8.080808080813997], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746378", "Load": [9.195043215660016, 10.101010101009434, 4.950495049503307, 3.960396039606022], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746384", "Load": [4.000000000007731, 1.0000000000019327, 0.0, 1.010101010100082], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746390", "Load": [0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746396", "Load": [27.224489795906194, 14.141414141412255, 6.122448979594855, 8.080808080807413], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746402", "Load": [22.35805213173753, 1.980198019800197, 1.0000000000019327, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746408", "Load": [9.020408163268453, 2.020202020203499, 7.070707070706317, 3.0303030303038136], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746414", "Load": [9.08163265306293, 10.101010101008884, 4.081632653060336, 8.910891089109327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746420", "Load": [16.83168316832296, 1.980198019800197, 3.000000000002956, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746427", "Load": [8.99999999999909, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746433", "Load": [10.24679787566086, 13.265306122445192, 13.131313131315423, 10.20408163265519], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746439", "Load": [16.999999999995907, 0.0, 1.999999999998181, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746445", "Load": [12.121212121204119, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746451", "Load": [8.872063676946862, 6.999999999999318, 3.0303030303031173, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746457", "Load": [2.970297029705924, 0.0, 1.9801980198025653, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746461", "Load": [3.00000000000864], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746463", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746467", "Load": [17.000000000007276], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746469", "Load": [0.9999999999990905, 0.9999999999990905, 1.980198019800197, 2.9702970297031097], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746473", "Load": [14.851485148520647], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746475", "Load": [10.000000000001705, 9.000000000000341, 8.080808080807413, 10.000000000004547], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746479", "Load": [3.0303030302995504], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746481", "Load": [3.999999999999204, 2.9702970297031097, 2.0408163265287182, 8.000000000000227], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746485", "Load": [0.9999999999995451], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746487", "Load": [1.999999999998181, 3.0000000000001137, 2.9702970297031097, 1.0101010101003143], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746491", "Load": [17.821782178217042], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746463", "Load": [14.141414141420869, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746469", "Load": [5.950495049509725, 0.9999999999990905, 1.980198019800197, 2.9702970297031097], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746475", "Load": [26.000000000005798, 9.000000000000341, 8.080808080807413, 10.000000000004547], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746481", "Load": [4.999999999998295, 2.9702970297031097, 2.0408163265287182, 8.000000000000227], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746487", "Load": [5.030303030299123, 3.0000000000001137, 2.9702970297031097, 1.0101010101003143], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746493", "Load": [1.0000000000019327, 1.9801980198006428, 1.010101010100082, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746497", "Load": [2.9999999999986358], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746499", "Load": [45.360824742269465, 42.57425742574363, 54.000000000002046, 46.938775510201125], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746503", "Load": [16.83168316831672], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746505", "Load": [37.37373737373461, 41.17647058822841, 45.45454545454102, 49.5145631067993], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746509", "Load": [13.861386138615755], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746511", "Load": [31.683168316828482, 38.83495145631226, 43.56435643564373, 24.509803921569066], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746515", "Load": [3.999999999996362], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746517", "Load": [47.47474747474693, 35.99999999999034, 42.85714285715363, 34.34343434343437], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746521", "Load": [1.0101010101113337], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746523", "Load": [4.999999999998295, 6.930693069305064, 99.01960784313812, 6.060606060606235], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746527", "Load": [17.000000000007276], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746529", "Load": [43.00000000001046, 25.742574257425073, 46.60194174757306, 10.101010101011754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746533", "Load": [5.940594059404603], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746535", "Load": [46.60194174756829, 44.66019417475924, 51.4285714285729, 63.10679611649038], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746539", "Load": [16.16161616162057], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746499", "Load": [47.360824742267646, 42.57425742574363, 54.000000000002046, 46.938775510201125], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746505", "Load": [50.50505050505018, 41.17647058822841, 45.45454545454102, 49.5145631067993], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746511", "Load": [56.435643564347885, 38.83495145631226, 43.56435643564373, 24.509803921569066], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746517", "Load": [51.43514351434821, 35.99999999999034, 42.85714285715363, 34.34343434343437], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746523", "Load": [13.99999999999011, 6.930693069305064, 99.01960784313812, 6.060606060606235], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746529", "Load": [50.14285714287257, 25.742574257425073, 46.60194174757306, 10.101010101011754], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746535", "Load": [48.60194174757875, 44.66019417475924, 51.4285714285729, 63.10679611649038], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746541", "Load": [56.86274509803867, 50.0, 56.565656565656276, 41.41414141415307], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746545", "Load": [2.9999999999986358], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746547", "Load": [49.5145631067993, 47.57281553397997, 41.74757281554496, 45.36082474227716], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746551", "Load": [4.000000000005912], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746553", "Load": [2.000000000001023, 2.020202020200164, 4.000000000002046, 1.0101010101003143], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746557", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746547", "Load": [67.88191004556937, 47.57281553397997, 41.74757281554496, 45.36082474227716], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746553", "Load": [19.0000000000083, 2.020202020200164, 4.000000000002046, 1.0101010101003143], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746559", "Load": [11.111111111112388, 21.999999999997726, 13.402061855672187, 10.891089108911977], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746563", "Load": [3.0303030302995504], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746565", "Load": [0.0, 1.999999999998181, 0.0, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746569", "Load": [11.764705882353597], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746571", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746575", "Load": [26.47058823530461], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746577", "Load": [0.0, 0.9999999999990905, 0.9900990099000985, 2.0202020202025714], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746581", "Load": [4.901960784309354], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746583", "Load": [3.0303030303031173, 2.020202020203499, 2.0000000000005684, 1.0204081632643591], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746587", "Load": [13.131313131321598], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746589", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746593", "Load": [9.000000000003183], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746595", "Load": [0.0, 1.0000000000019327, 0.0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746599", "Load": [4.0816326530574365], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746565", "Load": [14.141414141427363, 1.999999999998181, 0.0, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746571", "Load": [3.999999999996362, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746577", "Load": [1.0101010100998502, 0.9999999999990905, 0.9900990099000985, 2.0202020202025714], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746583", "Load": [7.9322638146124715, 2.020202020203499, 2.0000000000005684, 1.0204081632643591], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746589", "Load": [15.151515151509235, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746595", "Load": [0, 1.0000000000019327, 0, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746601", "Load": [8.247422680413429, 9.999999999999432, 10.78431372548894, 8.910891089111335], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746605", "Load": [11.999999999994998], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746607", "Load": [4.081632653060336, 6.060606060607627, 2.970297029705924, 6.999999999999318], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746611", "Load": [22.00000000000273], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746613", "Load": [1.999999999998181, 0.9999999999990905, 0.9999999999993179, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746617", "Load": [14.141414141415881], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746619", "Load": [4.95049504950612, 2.0833333333348136, 2.040816326532092, 9.090909090904393], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746623", "Load": [0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746625", "Load": [1.999999999998181, 3.000000000003638, 1.9999999999986358, 3.0000000000001137], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746629", "Load": [29.29292929293208], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746631", "Load": [0.9999999999990905, 1.0000000000017053, 0.0, 1.010101010102721], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746635", "Load": [99.99999999998852], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746631", "Load": [0.9999999999990905, 1.0000000000017053, 0, 1.010101010102721], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746637", "Load": [3.960396039603208, 1.999999999998181, 2.000000000001023, 2.020202020200164], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746641", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746643", "Load": [0.0, 0.0, 1.0000000000019327, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746647", "Load": [99.99999999997749], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746649", "Load": [1.9999999999986358, 1.0000000000019327, 0.0, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746653", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746643", "Load": [0, 0, 1.0000000000019327, 0.9999999999990905], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746649", "Load": [1.9999999999986358, 1.0000000000019327, 0, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746655", "Load": [3.999999999999204, 2.000000000001023, 2.020202020200164, 3.0000000000001137], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746659", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746661", "Load": [0.9900990099029126, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746665", "Load": [100.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746661", "Load": [0.9900990099029126, 0, 0, 0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746667", "Load": [2.020202020203035, 1.010101010100082, 1.999999999998181, 2.000000000001023], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746671", "Load": [99.99999999996484], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746673", "Load": [4.999999999998295, 3.960396039603208, 9.999999999997158, 4.999999999998295], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746679", "Load": [10.999999999998522, 6.122448979593376, 12.000000000000455, 12.999999999999545], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746685", "Load": [13.861386138615451, 9.80392156862707, 10.891089108907074, 8.910891089109327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746691", "Load": [10.89108910891234, 2.9999999999972715, 3.999999999999204, 6.060606060606235], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746697", "Load": [3.0612244897959777, 3.9999999999982947, 2.040816326531145, 6.060606060606235], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746703", "Load": [1.0204081632672592, 3.000000000000796, 2.000000000001023, 1.9801980198006428], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746709", "Load": [0.0, 0.0, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746715", "Load": [10.101010101009434, 4.0404040404032, 6.060606060603364, 5.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746721", "Load": [1.0000000000019327, 0.0, 2.000000000001023, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746727", "Load": [10.999999999998522, 10.101010101012855, 5.0, 15.841584158415648], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746709", "Load": [0, 0, 0, 0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746715", "Load": [10.101010101009434, 4.0404040404032, 6.060606060603364, 5], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746721", "Load": [1.0000000000019327, 0, 2.000000000001023, 1.0000000000019327], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746727", "Load": [10.999999999998522, 10.101010101012855, 5, 15.841584158415648], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
 {"TimeStamp": "1754746733", "Load": [4.081632653063237, 9.183673469385802, 6.000000000000227, 2.0618556701040895], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
-{"TimeStamp": "1754746739", "Load": [1.9801980198034568, 2.000000000001023, 0.0, 0.0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}
+{"TimeStamp": "1754746739", "Load": [1.9801980198034568, 2.000000000001023, 0, 0], "DevID": "learner-compromised.infra.real.gpt-spread.blankcanvas"}

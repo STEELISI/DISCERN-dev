@@ -2,9 +2,11 @@
 {"TimeStamp": "1754732666", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754732666", "Size": ["253"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["Ocx7PLy2RKSFzHgyDV5mMQ=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754732666", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["jCVxEPQRocsxf1IthBHu+Q=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
-{"TimeStamp": "1754733336", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["jmZUA3h6rmp+u3UbaXYzvg=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754733347", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["wHnYo0oaSMgoNCFgsIU30w=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754733347", "Size": ["253"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["z3qucv3nGEEQhxMsLEsztg=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754733347", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["3yB2d2R2qjyG0wkEL0T7Mw=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1754733516", "Size": ["1450"], "Location": ["/home/blankcanvas/.ssh/authorized_keys"], "Hash": ["4n5h1IBPleo1hGDjUt9Qpg=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1754733516", "Size": ["235"], "Location": ["/etc/systemd/network/eth0.network"], "Hash": ["a+Uc5tDmq1CWCrgXmvQhZA=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
+{"TimeStamp": "1754733516", "Size": ["261"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["oQ27CXdoOkJB4581CqVUFg=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754734192", "Size": ["253"], "Location": ["/etc/systemd/network/eth1.network"], "Hash": ["B1QOIAODLcDAqbsDwzkFbQ=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
 {"TimeStamp": "1754734192", "Size": ["117"], "Location": ["/etc/systemd/network/eth2.network"], "Hash": ["EckXeTOTgUkdKD6fNlNfOw=="], "DevID": "attacker-victim1.infra.real.dnsmitm-upload.blankcanvas"}
