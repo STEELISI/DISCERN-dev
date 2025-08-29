@@ -1,10 +1,10 @@
-{"TimeStamp":"1754705599","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705600","Name":"eth1","HardwareAddr":"52:be:ec:c2:62:5a","IPs":["107.125.128.209","fe80::50be:ecff:fec2:190"],"DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705600","Name":"nflog","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705600","Name":"dbus-session","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705600","Name":"eth0","HardwareAddr":"ce:af:cd:0a:5f:71","IPs":["172.30.0.252","fe80::ccaf:cdff:fe0a:198"],"DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705601","Name":"eth2","HardwareAddr":"02:42:55:1a:d8:d2","IPs":["10.0.18.145","fe80::42:55ff:fe1a:59"],"DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705602","Name":"any","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705602","Name":"bluetooth-monitor","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705602","Name":"nfqueue","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754705602","Name":"dbus-system","DevID":"outlook2.infra.real.internetscanner.blankcanvas","Action":"Added"}
+{"TimeStamp":"1756420340", "Name":"nfqueue", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420340", "Name":"dbus-session", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420340", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420340", "Name":"eth1", "HardwareAddr":"46:f1:85:09:c3:6c", "IPs":["107.125.128.209", "fe80::44f1:85ff:fe09:242"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420340", "Name":"eth2", "HardwareAddr":"0e:e6:58:92:67:ed", "IPs":["10.0.18.145", "fe80::ce6:58ff:fe92:7"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420341", "Name":"any", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420341", "Name":"bluetooth-monitor", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420341", "Name":"eth0", "HardwareAddr":"be:7b:4e:c0:5f:76", "IPs":["172.30.0.252", "fe80::bc7b:4eff:fec0:119"], "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420341", "Name":"nflog", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420341", "Name":"dbus-system", "DevID":"outlook2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

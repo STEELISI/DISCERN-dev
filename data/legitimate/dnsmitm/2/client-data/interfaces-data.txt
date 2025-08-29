@@ -1,10 +1,20 @@
-{"TimeStamp":"1754737371","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"eth2","HardwareAddr":"e6:45:64:59:c5:55","IPs":["10.0.4.234","fe80::e445:64ff:fe59:255"],"DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"bluetooth-monitor","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"dbus-system","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"dbus-session","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"eth0","HardwareAddr":"e6:a9:d1:8e:be:3e","IPs":["172.30.0.139","fe80::e4a9:d1ff:fe8e:193"],"DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"eth1","HardwareAddr":"62:9e:f0:e0:27:aa","IPs":["10.1.1.66","fe80::609e:f0ff:fee0:50"],"DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"any","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"nflog","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754737371","Name":"nfqueue","DevID":"client.infra.real.dnsmitm.blankcanvas","Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"dbus-session", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"eth0", "HardwareAddr":"6a:d6:1a:70:c7:ab", "IPs":["172.30.0.139", "fe80::68d6:1aff:fe70:190"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"eth1", "HardwareAddr":"fa:e9:25:9d:a3:b0", "IPs":["10.1.1.66", "fe80::f8e9:25ff:fe9d:22"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"eth2", "HardwareAddr":"16:5c:3b:eb:8b:77", "IPs":["10.0.4.234", "fe80::145c:3bff:feeb:102"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"bluetooth-monitor", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"nflog", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"nfqueue", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"dbus-system", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756385503", "Name":"any", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"nfqueue", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"dbus-system", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"eth1", "HardwareAddr":"fa:e9:25:9d:a3:b0", "IPs":["10.1.1.66", "fe80::f8e9:25ff:fe9d:22"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"eth2", "HardwareAddr":"16:5c:3b:eb:8b:77", "IPs":["10.0.4.234", "fe80::145c:3bff:feeb:102"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"bluetooth-monitor", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"eth0", "HardwareAddr":"6a:d6:1a:70:c7:ab", "IPs":["172.30.0.139", "fe80::68d6:1aff:fe70:190"], "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"any", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"nflog", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756388348", "Name":"dbus-session", "DevID":"client.infra.real.dnsmitm.blankcanvas", "Action":"Added"}

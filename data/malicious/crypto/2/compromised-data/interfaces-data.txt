@@ -1,0 +1,9 @@
+{"TimeStamp":"1756374118", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"nfqueue", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"dbus-system", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"eth1", "HardwareAddr":"aa:20:6c:34:27:9c", "IPs":["10.0.1.202", "fe80::a820:6cff:fe34:53"], "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"any", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"eth0", "HardwareAddr":"ae:70:e5:ff:07:e5", "IPs":["172.30.0.10", "fe80::ac70:e5ff:feff:33"], "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"nflog", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756374118", "Name":"dbus-session", "DevID":"compromised.infra.real.crypto.blankcanvas", "Action":"Added"}

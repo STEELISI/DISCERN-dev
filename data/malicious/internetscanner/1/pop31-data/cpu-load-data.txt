@@ -1,649 +1,717 @@
-{"TimeStamp":"1754703428","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703435","Load":[14.851485148520647],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703442","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703449","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703455","Load":[7.000000000016371],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703462","Load":[16.83168316835071],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703469","Load":[3.030303030283543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703476","Load":[13.131313131304085],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703482","Load":[2.970297029704976],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703488","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703495","Load":[7.070707070725166],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703502","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703508","Load":[15.151515151527677],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703515","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703522","Load":[23.00000000000182],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703528","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703535","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703541","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703547","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703554","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703560","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703567","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703574","Load":[10.101010101026109],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703581","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703588","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703594","Load":[1.9801980198222637],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703601","Load":[19.99999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703607","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703614","Load":[1.0101010101003143],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703620","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703627","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703633","Load":[13.999999999984539],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703640","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703646","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703652","Load":[4.9999999999954525],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703659","Load":[8.910891089121394],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703665","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703672","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703679","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703685","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703692","Load":[99.99999999988279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703699","Load":[99.99999999995585],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703705","Load":[23.529411764738665],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703712","Load":[9.90099009902127],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703718","Load":[16.161616161621264],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703724","Load":[3.0303030302779757],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703731","Load":[5.102040816300962],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703738","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703744","Load":[7.070707070702199],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703751","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703758","Load":[10.891089108898631],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703765","Load":[14.999999999986358],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703771","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703777","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703784","Load":[12.121212121226737],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703790","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703797","Load":[14.000000000012733],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703803","Load":[8.080808080810632],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703810","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703817","Load":[9.090909090886123],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703823","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703830","Load":[15.151515151504713],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703836","Load":[11.000000000012733],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703843","Load":[12.244897959178465],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703849","Load":[8.16326530610351],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703856","Load":[2.0618556701026094],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703862","Load":[18.181818181805653],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703869","Load":[9.090909090902827],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703875","Load":[3.061224489788816],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703882","Load":[10.10101010100314],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703888","Load":[1.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703895","Load":[8.000000000007276],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703901","Load":[4.901960784329461],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703907","Load":[13.999999999961801],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703914","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703920","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703926","Load":[13.861386138598258],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703933","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703940","Load":[6.9999999999936335],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703947","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703955","Load":[13.999999999984539],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703962","Load":[1.980198019799751],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703969","Load":[15.30612244899569],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703975","Load":[2.0202020202006286],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703981","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703988","Load":[22.77227722767864],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703994","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704000","Load":[11.111111111103455],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704007","Load":[9.999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704014","Load":[4.040404040431647],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704020","Load":[7.920792079213271],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704026","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704033","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704039","Load":[3.030303030329477],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704046","Load":[0.9999999999763531],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704052","Load":[17.82178217824279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704059","Load":[2.970297029677115],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704066","Load":[14.851485148498133],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704072","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704079","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704085","Load":[4.9999999999954525],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704092","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704098","Load":[15.30612244899569],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704105","Load":[11.881188118842417],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704112","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704118","Load":[10.891089108898631],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704125","Load":[2.0202020202006286],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704131","Load":[14.000000000010004],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704137","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704144","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704150","Load":[13.131313131279956],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704156","Load":[8.16326530611866],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704162","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704169","Load":[18.181818181805653],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704175","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704182","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704188","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704194","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704201","Load":[20.20202020202925],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704207","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704214","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704221","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704227","Load":[2.9999999999918145],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704233","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704240","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704246","Load":[8.910891089121394],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704253","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704260","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704267","Load":[11.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704273","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704280","Load":[4.9504950495082936],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704286","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704292","Load":[3.0303030302953746],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704299","Load":[9.999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704305","Load":[11.881188118819905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704312","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704319","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704325","Load":[99.99999999988279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704331","Load":[99.99999999997749],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704337","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704344","Load":[99.99999999990426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704351","Load":[61.6161616161651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704357","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704364","Load":[3.9603960396066356],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704371","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704377","Load":[19.99999999994543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704383","Load":[4.9504950495082936],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704390","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704396","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704403","Load":[6.060606060590749],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704409","Load":[3.9603960396066356],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704416","Load":[14.141414141401382],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704422","Load":[9.090909090902827],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704429","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704435","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704442","Load":[0.9999999999763531],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704448","Load":[23.00000000000182],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704455","Load":[4.999999999986358],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704462","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704468","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704475","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704481","Load":[14.999999999986358],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704487","Load":[10.999999999989996],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704494","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704500","Load":[6.999999999980901],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704507","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704513","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704519","Load":[6.060606060601885],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704525","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704531","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704538","Load":[23.469387755137554],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704545","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704552","Load":[20.2020202020434],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704558","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704565","Load":[14.851485148547393],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704572","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704579","Load":[9.999999999995453],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704585","Load":[3.030303030283543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704591","Load":[1.010101010077347],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704598","Load":[23.999999999957254],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704604","Load":[4.0404040404086805],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704611","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704617","Load":[20.408163265281974],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704624","Load":[4.950495049485781],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704631","Load":[14.00000000003547],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704638","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704644","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704650","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704657","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704664","Load":[16.161616161627993],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704670","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704676","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704683","Load":[9.90099009902127],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704689","Load":[4.0404040404086805],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704695","Load":[20.2020202020434],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704703","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704709","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704716","Load":[10.10101010100314],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704723","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704729","Load":[23.00000000000182],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704736","Load":[4.0404040404086805],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704742","Load":[13.999999999987267],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704749","Load":[9.900990098998756],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704755","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704762","Load":[3.0303030302779757],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704769","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704775","Load":[2.040816326533453],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704781","Load":[11.000000000032742],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704788","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704794","Load":[15.151515151527677],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704800","Load":[13.131313131327053],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704808","Load":[11.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704814","Load":[11.11111111112387],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704820","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704827","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704833","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704840","Load":[3.061224489788816],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704847","Load":[1.0101010101003143],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704853","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704859","Load":[4.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704865","Load":[3.0612244898120173],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704872","Load":[13.265306122490648],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704878","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704884","Load":[4.081632653082532],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704891","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704898","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704905","Load":[15.151515151527677],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704911","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704917","Load":[1.980198019799751],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704924","Load":[9.090909090886123],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704931","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704937","Load":[14.705882352970024],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704944","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704951","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704957","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704964","Load":[99.99999999995498],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704970","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704977","Load":[99.99999999993312],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704984","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704990","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704997","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705003","Load":[11.11111111108304],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705009","Load":[0.9900990098998755],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705016","Load":[10.999999999989996],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705022","Load":[3.061224489817699],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705028","Load":[1.0101010100984582],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705035","Load":[25.510204081596665],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705041","Load":[3.000000000020009],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705047","Load":[1.0101010101003143],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705054","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705060","Load":[3.030303030283543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705067","Load":[14.141414141404399],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705073","Load":[11.000000000012733],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705080","Load":[4.040404040393833],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705086","Load":[12.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705092","Load":[2.9702970296942777],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705099","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705105","Load":[2.0202020202006286],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705112","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705118","Load":[4.0404040404086805],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705124","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705131","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705137","Load":[25],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705144","Load":[4.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705151","Load":[14.141414141427363],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705157","Load":[1.0000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705164","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705171","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705177","Load":[0.9999999999763531],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705183","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705190","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705196","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705202","Load":[16.16161616160503],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705208","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705215","Load":[1.980198019799751],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705221","Load":[15.999999999985448],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705227","Load":[4.9504950495082936],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705234","Load":[7.999999999992724],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705240","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705247","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705253","Load":[14.141414141378414],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705260","Load":[2.9411764705843018],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705266","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705272","Load":[3.0303030302779757],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705279","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705287","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705293","Load":[10.204081632671528],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705301","Load":[4.950495049521891],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705307","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705314","Load":[17.000000000007276],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705322","Load":[10.891089108879019],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705328","Load":[3.061224489788816],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705335","Load":[9.900990098998756],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705341","Load":[15.151515151476874],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705348","Load":[2.970297029704976],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705355","Load":[24.752475247563982],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705362","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705369","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705375","Load":[4.950495049530806],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705382","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705388","Load":[19.191919191928935],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705394","Load":[2.040816326533453],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705401","Load":[11.764705882337207],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705408","Load":[15.30612244899569],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705414","Load":[4.081632653074956],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705422","Load":[4.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705428","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705435","Load":[10.891089108918246],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705441","Load":[4.9504950494904625],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705448","Load":[2.970297029699627],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705454","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705461","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705467","Load":[16.99999999998454],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705474","Load":[7.999999999992724],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705481","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705487","Load":[3.061224489788816],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705494","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705500","Load":[16.16161616160503],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705506","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705513","Load":[1.010101010123281],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705519","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705526","Load":[4.040404040431647],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705532","Load":[16.8316831683204],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705539","Load":[17.171717171728307],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705545","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705552","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705558","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705565","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705571","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705577","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705584","Load":[14.141414141427363],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705590","Load":[4.000000000026375],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705597","Load":[99.9999999999282],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705603","Load":[99.99999999997726],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705610","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705616","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705622","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705629","Load":[99.99999999995498],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705636","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705642","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705649","Load":[18.999999999970896],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705655","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705662","Load":[16.8316831683204],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705668","Load":[12.121212121226737],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705675","Load":[8.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705681","Load":[11.11111111112387],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705688","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705695","Load":[16.831683168297886],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705701","Load":[3.061224489794498],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705708","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705714","Load":[8.91089108909888],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705721","Load":[4.0404040404168],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705727","Load":[23.762376237597017],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705734","Load":[1.010101010123281],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705741","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705747","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705754","Load":[11.881188118799622],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705760","Load":[23.00000000000182],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705767","Load":[5.882352941201384],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705774","Load":[15.151515151527677],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705780","Load":[10.000000000013642],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705786","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705792","Load":[20.408163265281974],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705800","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705807","Load":[10.784313725498064],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705814","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705821","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705827","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705833","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705840","Load":[4.950495049512975],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705846","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705853","Load":[11.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705860","Load":[3.9603960396066356],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705866","Load":[15.15151515149984],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705872","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705879","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705886","Load":[4.950495049530806],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705892","Load":[9.999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705899","Load":[14.000000000012733],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705905","Load":[5.0000000000045475],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705911","Load":[1.0000000000200089],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705918","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705924","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705931","Load":[16.666666666666664],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705937","Load":[9.900990098998756],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705943","Load":[3.0303030302953746],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705950","Load":[10.891089108898631],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705956","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705963","Load":[12.000000000033651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705970","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705976","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705983","Load":[15.00000000001364],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705989","Load":[10.10101010100755],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705996","Load":[14.141414141427363],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706002","Load":[1.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706009","Load":[3.0303030302953746],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706016","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706022","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706029","Load":[16.8316831683204],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706036","Load":[1.999999999994543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706042","Load":[18.627450980411826],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706049","Load":[0.9999999999781721],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706055","Load":[10.00000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706062","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706068","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706075","Load":[15.151515151532552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706081","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706088","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706094","Load":[9.9009900990391],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706100","Load":[3.960396039599502],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706107","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706113","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706120","Load":[2.040816326529665],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706126","Load":[11.000000000032742],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706133","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706139","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706146","Load":[3.061224489794498],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706152","Load":[1.9801980198222637],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706158","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706165","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706171","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706178","Load":[8.08080808082548],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706184","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706191","Load":[6.060606060601885],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706197","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706204","Load":[5.0000000000045475],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706210","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706217","Load":[1.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706223","Load":[14.285714285734171],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706230","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706236","Load":[1.0101010101214252],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706242","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706249","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706256","Load":[99.9999999999777],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706262","Load":[99.99999999990527],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706269","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706275","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706282","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706288","Load":[1.010101010123281],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706295","Load":[18.811881188097637],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706301","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706308","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706314","Load":[17.000000000007276],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706320","Load":[2.040816326529665],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706326","Load":[2.000000000001819],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706333","Load":[19.99999999994543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706339","Load":[5.05050505050157],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706346","Load":[13.999999999987267],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706352","Load":[8.080808080817361],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706359","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706365","Load":[14.999999999959075],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706372","Load":[8.91089108909888],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706378","Load":[9.900990098998756],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706385","Load":[3.061224489794498],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706391","Load":[2.0000000000209184],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706398","Load":[17.17171717170534],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706405","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706411","Load":[15.000000000036378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706418","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706424","Load":[10.10101010100314],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706430","Load":[23.23232323233019],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706437","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706443","Load":[4.9504950494904625],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706450","Load":[10.10101010100314],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706457","Load":[1.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706463","Load":[17.000000000007276],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706469","Load":[4.040404040424224],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706476","Load":[15.841584158420522],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706482","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706489","Load":[2.0618556701026094],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706495","Load":[15.000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706501","Load":[19.801980197997512],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706508","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706514","Load":[4.950495049499378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706521","Load":[0.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706527","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706534","Load":[9.183673469383494],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706540","Load":[1.010101010077347],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706548","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706554","Load":[12.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706560","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706567","Load":[10.101010101026109],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706573","Load":[11.111111111126421],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706580","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706586","Load":[8.080808080810632],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706594","Load":[9.000000000014552],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706600","Load":[10.10101010100314],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706607","Load":[16.161616161634722],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706613","Load":[8.080808080802514],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706619","Load":[10.10101010100755],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706625","Load":[15.000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706632","Load":[1.0000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706639","Load":[15.151515151555516],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706645","Load":[9.900990099016587],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706652","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706659","Load":[9.090909090886123],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706666","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706672","Load":[2.040816326529665],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706679","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706685","Load":[5.940594059399254],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706692","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706699","Load":[14.141414141453348],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706705","Load":[14.432989690741707],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706712","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706718","Load":[6.00000000001728],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706725","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706732","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706739","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706745","Load":[14.141414141424349],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706753","Load":[0.9999999999763531],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706759","Load":[10.101010100984583],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706766","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706773","Load":[5.940594059409952],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706779","Load":[17.171717171728307],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706786","Load":[4.000000000019099],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706792","Load":[22.00000000000273],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706799","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706806","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706812","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706818","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706824","Load":[15.000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706831","Load":[2.000000000001819],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706837","Load":[2.9411764705843018],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706843","Load":[22.222222222189046],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706850","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706856","Load":[6.9999999999936335],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706863","Load":[9.090909090902827],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706871","Load":[16.32653061223732],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706878","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706885","Load":[16.16161616160503],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706891","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706898","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706905","Load":[99.99999999997556],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706912","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706919","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706925","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706932","Load":[4.9999999999954525],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706938","Load":[2.061855670098743],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706945","Load":[2.970297029699627],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706951","Load":[23.999999999978172],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706958","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706964","Load":[1.980198019799751],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706970","Load":[9.90099009902127],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706977","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706983","Load":[15.841584158420522],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706989","Load":[9.09090909087986],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706996","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707002","Load":[15.841584158398009],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707008","Load":[9.090909090909092],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707015","Load":[3.030303030283543],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707022","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707028","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707034","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707041","Load":[11.111111111103455],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707048","Load":[14.999999999986358],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707055","Load":[1.9801980197772389],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707061","Load":[3.0303030302953746],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707068","Load":[4.040404040393833],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707074","Load":[8.999999999991815],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707081","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707087","Load":[3.0303030302779757],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707094","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707100","Load":[24.242424242453474],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707106","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707113","Load":[8.163265306141861],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707119","Load":[17.346938775525356],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707126","Load":[4.040404040393833],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707132","Load":[14.999999999990903],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707139","Load":[5.05050505050157],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707145","Load":[10.000000000013642],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707151","Load":[2.0408163265258774],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707158","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707165","Load":[15.151515151504713],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707171","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707177","Load":[8.08080808082548],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707184","Load":[13.861386138645734],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707191","Load":[3.03030303030651],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707197","Load":[20.000000000004547],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707204","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707210","Load":[4.040404040401257],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707217","Load":[4.99999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707224","Load":[1.0000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707231","Load":[7.999999999992724],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707237","Load":[4.950495049521891],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707244","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707250","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707256","Load":[4.000000000011823],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707263","Load":[4.950495049521891],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707270","Load":[10.000000000031832],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707276","Load":[15.30612244899569],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707282","Load":[3.0303030303009426],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707289","Load":[4.9504950495082936],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707295","Load":[15.000000000009095],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707301","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707308","Load":[14.999999999986358],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707315","Load":[9.090909090902827],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707321","Load":[9.183673469406695],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707327","Load":[3.999999999989086],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707334","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707340","Load":[6.930693069299129],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707347","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707353","Load":[1.9801980198033178],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707360","Load":[15.151515151527677],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707366","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707372","Load":[8.000000000015461],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707379","Load":[9.090909090925795],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707385","Load":[3.0303030303183416],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707392","Load":[15.000000000036378],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707398","Load":[1.999999999998181],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707405","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707411","Load":[6.000000000028194],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707418","Load":[0.9999999999763531],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707424","Load":[15.30612244899569],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707431","Load":[2.9999999999972715],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707438","Load":[15.00000000001364],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707444","Load":[1.9607843137228675],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707451","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707457","Load":[4.000000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707464","Load":[0],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707470","Load":[12.12121212120377],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707476","Load":[3.9603960396291473],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707483","Load":[0.9999999999990905],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707489","Load":[15.999999999985448],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707495","Load":[4.040404040393833],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707502","Load":[1.0000000000218279],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707508","Load":[14.141414141404399],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707515","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707521","Load":[15.999999999979082],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707528","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707534","Load":[21.99999999997999],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707541","Load":[99.999999999884],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707547","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707553","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707560","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707566","Load":[99.999999999884],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707573","Load":[100],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707580","Load":[16.000000000008185],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707586","Load":[3.0303030303239096],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707593","Load":[16.666666666674097],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707600","Load":[10.00000000003638],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707606","Load":[3.960396039599502],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707612","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707619","Load":[9.00000000003729],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707625","Load":[3.999999999996362],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707632","Load":[3.0303030302779757],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707638","Load":[0.9900990098998755],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707645","Load":[20.792079207859942],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707651","Load":[3.0612244897656145],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707658","Load":[16.00000000000182],"DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420060", "Load":[99.00000000000091], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420066", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420072", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420078", "Load":[99.99999999997749], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420084", "Load":[99.99999999995163], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420090", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420096", "Load":[99.99999999986079], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420103", "Load":[99.99999999984084], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420109", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420115", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420121", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420127", "Load":[99.9999999999554], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420133", "Load":[99.99999999991171], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420139", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420145", "Load":[99.99999999986079], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420151", "Load":[0.9999999999781721], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420157", "Load":[17.171717171759855], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420163", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420170", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420176", "Load":[16.16161616157533], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420182", "Load":[5.940594059399254], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420188", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420194", "Load":[16.161616161621264], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420200", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420206", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420212", "Load":[9.090909090925795], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420218", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420225", "Load":[1.980198019799751], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420231", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420237", "Load":[3.9999999999581632], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420243", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420249", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420255", "Load":[3.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420261", "Load":[5.102040816337895], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420267", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420273", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420279", "Load":[1.980198019799751], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420285", "Load":[5.940594059444279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420291", "Load":[4.081632653051755], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420298", "Load":[1.010101010123281], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420304", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420310", "Load":[6.060606060590749], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420316", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420322", "Load":[10.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420328", "Load":[9.183673469406695], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420334", "Load":[8.080808080787666], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420340", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420346", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420352", "Load":[0.990099009922388], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420359", "Load":[7.000000000029104], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420365", "Load":[13.999999999987267], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420371", "Load":[7.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420377", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420383", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420389", "Load":[10.1010101010217], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420395", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420401", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420407", "Load":[99.99999999986079], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420413", "Load":[99.99999999995407], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420420", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420426", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420432", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420438", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420444", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420450", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420456", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420462", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420468", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420474", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420480", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420486", "Load":[9.090909090925795], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420492", "Load":[19.99999999998181], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420498", "Load":[18.999999999959982], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420504", "Load":[11.111111111106007], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420510", "Load":[5.102040816300962], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420516", "Load":[4.04040404044719], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420523", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420529", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420535", "Load":[14.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420541", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420547", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420553", "Load":[15.841584158398009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420559", "Load":[9.900990098998756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420565", "Load":[3.061224489771296], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420571", "Load":[16.000000000030923], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420577", "Load":[9.999999999990905], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420583", "Load":[5.050505050478604], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420589", "Load":[14.141414141424349], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420596", "Load":[13.131313131281116], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420602", "Load":[2.0618556701026094], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420608", "Load":[11.111111111080488], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420614", "Load":[16.32653061223732], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420620", "Load":[17.171717171759855], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420626", "Load":[27.27272727268134], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420632", "Load":[14.141414141404399], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420638", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420644", "Load":[14.141414141424349], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420650", "Load":[8.999999999969077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420656", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420662", "Load":[2.0202020201969164], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420668", "Load":[21.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420674", "Load":[4.950495049512975], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420680", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420687", "Load":[16.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420693", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420699", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420705", "Load":[14.285714285707657], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420711", "Load":[3.000000000020009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420717", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420723", "Load":[11.111111111100904], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420729", "Load":[12.00000000003456], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420736", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420742", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420748", "Load":[5.825242718481751], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420754", "Load":[2.9411764706118384], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420760", "Load":[13.8613861385782], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420766", "Load":[24.999999999954525], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420772", "Load":[26.732673267367304], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420778", "Load":[19.000000000040018], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420784", "Load":[28.00000000002001], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420790", "Load":[13.86138613862322], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420796", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420802", "Load":[0.9900990098773633], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420808", "Load":[16.000000000030923], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420815", "Load":[2.020202020246562], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420821", "Load":[2.9126213592408754], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420827", "Load":[18.556701030923488], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420833", "Load":[4.901960784329461], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420839", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420845", "Load":[17.171717171728307], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420851", "Load":[2.0202020202006286], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420857", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420863", "Load":[2.040816326529665], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420869", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420875", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420881", "Load":[4.950495049476866], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420887", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420893", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420900", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420906", "Load":[7.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420912", "Load":[10.999999999967258], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420918", "Load":[3.960396039599502], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420924", "Load":[15.000000000036378], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420930", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420936", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420942", "Load":[24.000000000021828], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420948", "Load":[18.181818181805653], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420954", "Load":[19.99999999998181], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420960", "Load":[24.489795918355984], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420967", "Load":[20.000000000027285], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420973", "Load":[18.18181818185159], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420979", "Load":[14.851485148520647], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420985", "Load":[13.131313131327053], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420991", "Load":[5.00000000001819], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420997", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421003", "Load":[17.171717171728307], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421009", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421015", "Load":[0.9999999999781721], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421021", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421027", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421033", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421039", "Load":[4.901960784338202], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421045", "Load":[3.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421052", "Load":[6.122448979577632], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421058", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421064", "Load":[14.141414141404399], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421070", "Load":[8.910891089137442], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421076", "Load":[2.0202020202006286], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421082", "Load":[16.1616161616672], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421088", "Load":[66.32653061228373], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421094", "Load":[99.99999999986079], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421100", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421106", "Load":[99.99999999985936], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421112", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421118", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421124", "Load":[99.9999999998622], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421131", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421137", "Load":[99.9999999998622], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421143", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421149", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421155", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421161", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421167", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421174", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421180", "Load":[18.181818181818183], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421186", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421192", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421198", "Load":[16.9999999999618], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421204", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421210", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421216", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421222", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421228", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421234", "Load":[11.000000000012733], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421240", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421246", "Load":[0.9900990098773633], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421253", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421259", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421265", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421271", "Load":[3.921568627452729], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421277", "Load":[15.841584158443034], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421283", "Load":[12.00000000003456], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421289", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421295", "Load":[14.000000000032742], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421301", "Load":[10.784313725498064], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421308", "Load":[2.0202020202006286], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421314", "Load":[15.30612244899569], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421320", "Load":[17.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421326", "Load":[10.101010100984583], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421332", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421338", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421344", "Load":[4.0404040404086805], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421350", "Load":[16.666666666740973], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421356", "Load":[7.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421362", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421368", "Load":[14.851485148475621], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421374", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421381", "Load":[4.04040404044719], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421387", "Load":[11.764705882381788], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421393", "Load":[10.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421399", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421405", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421411", "Load":[16.161616161621264], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421417", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421424", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421430", "Load":[14.000000000032742], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421436", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421442", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421448", "Load":[4.950495049476866], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421454", "Load":[3.030303030364276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421460", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421466", "Load":[4.000000000049113], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421472", "Load":[1.010101010123281], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421478", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421484", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421490", "Load":[14.141414141404399], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421496", "Load":[8.16326530611866], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421503", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421509", "Load":[14.99999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421515", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421521", "Load":[4.950495049431841], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421527", "Load":[14.285714285707657], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421533", "Load":[9.090909090863157], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421539", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421545", "Load":[15.841584158398009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421551", "Load":[10.891089108895734], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421557", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421564", "Load":[9.090909090925795], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421570", "Load":[30.999999999938154], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421576", "Load":[15.151515151509583], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421582", "Load":[9.090909090925795], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421588", "Load":[16.9999999999618], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421594", "Load":[10.00000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421600", "Load":[1.010101010123281], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421606", "Load":[10.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421612", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421618", "Load":[1.9801980198412097], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421625", "Load":[15.30612244899569], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421631", "Load":[10.101010100984583], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421637", "Load":[6.862745098007745], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421644", "Load":[17.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421650", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421656", "Load":[0.9900990098773633], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421662", "Load":[15.151515151481746], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421668", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421674", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421680", "Load":[17.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421686", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421692", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421698", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421705", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421711", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421717", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421723", "Load":[4.0404040404086805], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421729", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421735", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421742", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421748", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421755", "Load":[4.040404040393833], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421761", "Load":[9.183673469343248], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421767", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421774", "Load":[15.151515151527677], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421780", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421786", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421793", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421799", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421806", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421813", "Load":[99.99999999995585], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421819", "Load":[99.99999999995212], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421825", "Load":[99.99999999995453], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421831", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421837", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421843", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421849", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421855", "Load":[99.9999999999554], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421861", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421868", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421874", "Load":[5.8823529411686035], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421880", "Load":[16.666666666666664], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421886", "Load":[8.999999999998181], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421892", "Load":[5.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421898", "Load":[3.960396039599502], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421905", "Load":[15.84158415845953], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421911", "Load":[5.8823529412131865], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421918", "Load":[10.784313725472712], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421924", "Load":[1.010101010077347], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421930", "Load":[4.000000000041837], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421937", "Load":[12.121212121249703], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421943", "Load":[1.0000000000200089], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421949", "Load":[11.111111111126421], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421955", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421962", "Load":[2.0000000000436557], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421969", "Load":[17.171717171650823], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421975", "Load":[3.000000000025466], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421981", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421987", "Load":[16.16161616157533], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421993", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421999", "Load":[1.999999999994543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422005", "Load":[5.050505050524538], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422012", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422018", "Load":[9.090909090925795], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422024", "Load":[11.000000000012733], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422030", "Load":[4.0404040404086805], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422036", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422043", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422049", "Load":[6.999999999983629], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422055", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422062", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422068", "Load":[4.999999999972715], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422074", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422080", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422086", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422092", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422098", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422104", "Load":[16.8316831683204], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422110", "Load":[10.67961165053516], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422117", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422123", "Load":[16.666666666666664], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422130", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422136", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422142", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422148", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422155", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422161", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422167", "Load":[2.0202020201969164], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422174", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422180", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422186", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422192", "Load":[2.040816326529665], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422199", "Load":[3.0612244898120173], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422205", "Load":[17.99999999998363], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422211", "Load":[11.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422217", "Load":[3.960396039599502], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422224", "Load":[5.050505050478604], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422230", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422236", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422243", "Load":[8.999999999985448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422249", "Load":[15.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422256", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422262", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422268", "Load":[15.151515151527677], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422274", "Load":[5.8823529412131865], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422280", "Load":[13.999999999987267], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422288", "Load":[9.09090909087986], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422294", "Load":[18.000000000029104], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422300", "Load":[16.16161616160503], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422306", "Load":[17.82178217824279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422312", "Load":[15.999999999985448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422319", "Load":[22.54901960783527], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422325", "Load":[11.764705882381788], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422331", "Load":[11.111111111126421], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422337", "Load":[5.050505050487883], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422344", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422350", "Load":[11.111111111080488], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422356", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422362", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422369", "Load":[10.101010101030516], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422375", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422382", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422389", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422396", "Load":[5.050505050478604], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422402", "Load":[8.999999999969077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422409", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422415", "Load":[4.0404040404086805], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422421", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422427", "Load":[1.9801980198483422], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422433", "Load":[3.030303030364276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422440", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422447", "Load":[7.070707070725166], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422454", "Load":[8.16326530610351], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422460", "Load":[4.081632653051755], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422466", "Load":[1.9607843136782845], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422472", "Load":[16.00000000000182], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422478", "Load":[22.222222222252842], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422484", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422491", "Load":[99.99999999995585], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422497", "Load":[99.9999999999554], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422503", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422509", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422515", "Load":[99.9999999999072], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422521", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422527", "Load":[99.99999999990426], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422534", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422541", "Load":[99.99999999990527], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422547", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422554", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422560", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422567", "Load":[99.99999999990813], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422573", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422579", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422585", "Load":[10.891089108921143], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422592", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422598", "Load":[3.030303030364276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422605", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422611", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422618", "Load":[14.285714285780577], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422624", "Load":[3.0303030303698435], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422630", "Load":[19.801980198033174], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422637", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422644", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422650", "Load":[4.999999999972715], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422656", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422663", "Load":[16.8316831683204], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422669", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422676", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422682", "Load":[15.151515151527677], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422688", "Load":[2.040816326533453], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422694", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422700", "Load":[21.212121212044654], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422706", "Load":[11.999999999967258], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422712", "Load":[17.171717171696756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422718", "Load":[10.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422724", "Load":[17.82178217824279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422730", "Load":[19.801980198006873], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422737", "Load":[18.181818181793126], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422743", "Load":[17.346938775525356], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422749", "Load":[18.367346938732894], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422755", "Load":[18.999999999959982], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422761", "Load":[26.000000000021828], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422767", "Load":[14.141414141404399], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422773", "Load":[5.050505050524538], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422779", "Load":[22.222222222293674], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422785", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422791", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422797", "Load":[23.999999999978172], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422803", "Load":[17.346938775525356], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422809", "Load":[18.36734693880108], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422815", "Load":[9.999999999990905], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422822", "Load":[31.00000000005093], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422828", "Load":[9.999999999972715], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422834", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422840", "Load":[36.00000000007822], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422846", "Load":[18.81188118812015], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422852", "Load":[13.131313131327053], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422858", "Load":[22.222222222252842], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422864", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422870", "Load":[9.09090909087986], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422876", "Load":[10.101010100984583], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422883", "Load":[10.204081632629386], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422889", "Load":[10.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422895", "Load":[10.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422901", "Load":[14.851485148475621], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422907", "Load":[6.999999999970896], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422913", "Load":[1.030927835072812], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422919", "Load":[15.999999999985448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422925", "Load":[10.891089108966169], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422931", "Load":[11.881188118798509], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422937", "Load":[14.141414141378414], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422943", "Load":[9.999999999990905], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422950", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422956", "Load":[14.99999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422962", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422968", "Load":[3.061224489771296], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422974", "Load":[7.070707070758109], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422980", "Load":[16.8316831683204], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422986", "Load":[5.00000000001819], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422992", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422998", "Load":[33.33333333333333], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423004", "Load":[18.367346938779296], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423010", "Load":[17.99999999998363], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423016", "Load":[33.33333333322616], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423023", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423029", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423035", "Load":[17.525773195815873], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423041", "Load":[11.000000000032742], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423047", "Load":[1.9801980198033178], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423053", "Load":[9.183673469406695], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423059", "Load":[1.010101010077347], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423066", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423072", "Load":[2.0202020202006286], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423078", "Load":[2.0000000000400178], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423084", "Load":[1.9999999999527063], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423090", "Load":[4.950495049485781], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423096", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423102", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423108", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423114", "Load":[7.000000000016371], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423120", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423126", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423132", "Load":[3.9603960395923696], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423138", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423144", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423151", "Load":[3.000000000020009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423157", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423163", "Load":[4.950495049512975], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423169", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423175", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423181", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423187", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423193", "Load":[99.9999999999072], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423199", "Load":[99.99999999986883], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423205", "Load":[99.99999999986079], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423211", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423217", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423223", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423229", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423235", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423241", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423247", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423254", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423260", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423266", "Load":[20.7920792079199], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423272", "Load":[4.000000000034561], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423278", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423284", "Load":[3.0000000000600267], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423290", "Load":[5.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423296", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423302", "Load":[3.030303030364276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423308", "Load":[5.940594059399254], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423314", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423321", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423327", "Load":[9.999999999990905], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423333", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423339", "Load":[17.821782178274884], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423345", "Load":[19.000000000005457], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423351", "Load":[12.00000000003456], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423357", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423363", "Load":[14.99999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423369", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423375", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423381", "Load":[15.000000000027287], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423387", "Load":[7.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423394", "Load":[3.9603960396066356], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423400", "Load":[8.000000000023647], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423406", "Load":[18.181818181805653], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423412", "Load":[2.999999999969077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423418", "Load":[0.9999999999763531], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423424", "Load":[16.16161616165096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423430", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423436", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423442", "Load":[16.9999999999618], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423448", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423454", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423460", "Load":[18.000000000029104], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423466", "Load":[3.000000000020009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423472", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423479", "Load":[3.0612244898120173], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423485", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423491", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423497", "Load":[2.040816326529665], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423503", "Load":[2.0408163265258774], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423509", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423515", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423521", "Load":[9.900990098953732], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423527", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423533", "Load":[3.000000000020009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423539", "Load":[15.000000000027287], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423545", "Load":[7.070707070712174], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423551", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423558", "Load":[17.171717171650823], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423564", "Load":[11.881188118843532], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423570", "Load":[3.0303030303698435], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423576", "Load":[14.141414141430381], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423582", "Load":[6.999999999970896], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423588", "Load":[3.0303030302779757], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423594", "Load":[15.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423600", "Load":[14.705882352925443], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423606", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423612", "Load":[9.900990098998756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423618", "Load":[28.571428571408685], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423624", "Load":[18.000000000029104], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423631", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423637", "Load":[26.99999999994543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423643", "Load":[13.000000000032742], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423649", "Load":[16.16161616160503], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423655", "Load":[18.36734693881339], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423661", "Load":[17.171717171682374], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423667", "Load":[16.32653061225342], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423673", "Load":[10.10101010100314], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423679", "Load":[4.901960784329461], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423685", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423691", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423697", "Load":[5.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423704", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423710", "Load":[1.010101010077347], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423716", "Load":[15.000000000009095], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423722", "Load":[9.000000000014552], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423728", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423734", "Load":[15.00000000005457], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423740", "Load":[7.999999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423746", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423753", "Load":[14.999999999990903], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423759", "Load":[9.900990099061612], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423765", "Load":[3.000000000025466], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423771", "Load":[14.141414141358464], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423777", "Load":[8.080808080802514], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423783", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423789", "Load":[13.999999999987267], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423795", "Load":[10.999999999987267], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423801", "Load":[3.000000000020009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423807", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423813", "Load":[17.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423819", "Load":[2.999999999974534], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423826", "Load":[4.040404040393833], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423832", "Load":[33.0000000000382], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423838", "Load":[18.81188118812015], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423844", "Load":[8.080808080787666], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423850", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423856", "Load":[4.950495049476866], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423862", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423868", "Load":[4.99999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423874", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423880", "Load":[99.99999999991255], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423886", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423892", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423898", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423904", "Load":[99.9999999999554], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423910", "Load":[99.99999999991255], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423916", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423923", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423929", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423935", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423941", "Load":[99.99999999995498], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423947", "Load":[99.99999999990624], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423953", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423959", "Load":[100], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423965", "Load":[19.00000000005093], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423971", "Load":[31.31313131307517], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423977", "Load":[7.070707070712174], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423983", "Load":[0.9900990098773633], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423989", "Load":[15.999999999985448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423996", "Load":[4.000000000003638], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424002", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424008", "Load":[16.66666666672611], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424014", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424020", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424026", "Load":[6.000000000040018], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424032", "Load":[4.0404040404086805], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424038", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424044", "Load":[4.04040404044719], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424050", "Load":[4.999999999972715], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424056", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424062", "Load":[4.950495049530806], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424068", "Load":[15.841584158398009], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424074", "Load":[9.900990098998756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424080", "Load":[6.862745098052328], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424087", "Load":[14.141414141424349], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424093", "Load":[9.900990099043781], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424099", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424105", "Load":[15.999999999985448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424111", "Load":[13.861386138598258], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424117", "Load":[6.930693069366667], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424123", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424129", "Load":[15.306122448949289], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424135", "Load":[13.131313131281116], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424141", "Load":[19.38775510205502], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424147", "Load":[22.00000000002001], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424154", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424160", "Load":[1.9801980197547266], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424166", "Load":[18.999999999959982], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424172", "Load":[3.0303030303239096], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424178", "Load":[5.00000000001819], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424184", "Load":[27.551020408122547], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424191", "Load":[17.99999999998363], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424197", "Load":[17.82178217821069], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424203", "Load":[17.171717171682374], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424209", "Load":[3.9603960396066356], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424215", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424221", "Load":[16.8316831683204], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424227", "Load":[6.999999999970896], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424233", "Load":[1.0000000000218279], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424239", "Load":[10.204081632629386], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424245", "Load":[3.030303030283543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424251", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424257", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424263", "Load":[11.111111111106007], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424269", "Load":[13.000000000032742], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424276", "Load":[3.0303030303183416], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424282", "Load":[14.141414141378414], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424288", "Load":[9.900990098998756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424294", "Load":[3.9603960396066356], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424300", "Load":[14.141414141384448], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424306", "Load":[9.99999999992724], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424312", "Load":[2.999999999979991], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424318", "Load":[2.020202020246562], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424324", "Load":[17.000000000007276], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424330", "Load":[3.0303030302724077], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424337", "Load":[17.171717171682374], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424343", "Load":[9.900990098998756], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424349", "Load":[4.040404040401257], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424355", "Load":[12.000000000010914], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424361", "Load":[13.131313131281116], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424368", "Load":[3.999999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424374", "Load":[7.920792079229765], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424380", "Load":[22.44897959187272], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424386", "Load":[1.999999999994543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424392", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424398", "Load":[20.2020202020434], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424404", "Load":[4.99999999996362], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424410", "Load":[0.990099009922388], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424416", "Load":[14.141414141450332], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424422", "Load":[3.999999999989086], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424428", "Load":[0], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424435", "Load":[18.000000000029104], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424441", "Load":[4.950495049521891], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424447", "Load":[1.999999999994543], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424453", "Load":[5.00000000001819], "DevID":"pop31.infra.real.internetscanner.blankcanvas"}

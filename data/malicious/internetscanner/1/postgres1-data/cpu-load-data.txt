@@ -1,647 +1,720 @@
-{"TimeStamp":"1754703432","Load":[16.161616161627993],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703440","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703447","Load":[3.0303030302779757],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703454","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703460","Load":[5.940594059399254],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703466","Load":[2.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703473","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703479","Load":[14.285714285704342],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703486","Load":[4.040404040424224],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703492","Load":[16.666666666644375],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703499","Load":[8.910891089121394],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703505","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703512","Load":[5.00000000001819],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703518","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703524","Load":[11.111111111103455],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703531","Load":[1.0101010101003143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703537","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703544","Load":[22.00000000000273],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703550","Load":[20.792079207897388],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703557","Load":[14.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703564","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703570","Load":[10.101010101026109],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703576","Load":[8.0808080808336],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703583","Load":[6.0000000000063665],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703590","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703596","Load":[5.940594059399254],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703603","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703609","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703616","Load":[10.999999999969987],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703622","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703628","Load":[8.08080808082548],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703634","Load":[3.0303030302779757],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703641","Load":[15.999999999979082],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703647","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703654","Load":[2.0202020202006286],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703661","Load":[4.950495049476866],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703667","Load":[9.900990099016587],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703677","Load":[25],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703684","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703690","Load":[38.38383838385787],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703697","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703703","Load":[99.9999999999282],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703710","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703717","Load":[99.99999999997726],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703723","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703730","Load":[99.99999999995163],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703736","Load":[11.881188118821019],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703743","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703749","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703756","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703762","Load":[5.999999999983629],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703768","Load":[5.882352941190894],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703775","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703782","Load":[16.99999999998454],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703788","Load":[4.040404040401257],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703795","Load":[1.9801980198222637],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703801","Load":[9.09090909087986],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703808","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703815","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703821","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703828","Load":[17.6470588235281],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703835","Load":[12.871287128697714],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703842","Load":[14.141414141427363],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703848","Load":[17.171717171696756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703854","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703861","Load":[16.161616161627993],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703867","Load":[7.070707070712174],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703874","Load":[4.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703881","Load":[2.9999999999918145],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703887","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703894","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703900","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703906","Load":[14.141414141430381],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703913","Load":[9.090909090909092],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703919","Load":[2.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703926","Load":[15.841584158398009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703932","Load":[4.9504950494904625],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703939","Load":[4.040404040393833],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703946","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703953","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703960","Load":[10.000000000013642],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703966","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703973","Load":[21.42857142862446],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703979","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703986","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703992","Load":[6.862745098042275],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754703999","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704005","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704012","Load":[11.111111111103455],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704018","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704025","Load":[22.22222222220691],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704031","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704038","Load":[14.851485148498133],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704044","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704051","Load":[3.03030303030651],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704057","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704063","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704070","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704076","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704083","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704089","Load":[3.061224489788816],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704095","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704101","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704107","Load":[19.191919191928935],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704114","Load":[2.0408163265258774],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704120","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704126","Load":[19.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704133","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704139","Load":[26.99999999999818],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704146","Load":[8.999999999975444],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704152","Load":[3.03030303030651],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704158","Load":[16.666666666644375],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704165","Load":[15.151515151527677],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704171","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704177","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704184","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704191","Load":[16.00000000003729],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704198","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704205","Load":[14.141414141404399],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704211","Load":[1.999999999998181],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704218","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704226","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704232","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704238","Load":[16.999999999976353],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704244","Load":[2.999999999974534],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704251","Load":[15.841584158420522],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704258","Load":[8.080808080810632],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704264","Load":[9.090909090909092],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704270","Load":[11.000000000012733],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704277","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704284","Load":[15.151515151527677],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704290","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704297","Load":[23.00000000000182],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704303","Load":[10.10101010100314],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704309","Load":[4.040404040401257],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704316","Load":[15.30612244899569],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704323","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704329","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704335","Load":[4.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704342","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704348","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704355","Load":[99.9999999999777],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704362","Load":[99.99999999991255],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704368","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704374","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704381","Load":[2.000000000001819],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704388","Load":[12.871287128720896],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704394","Load":[13.131313131304085],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704401","Load":[3.030303030283543],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704408","Load":[12.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704415","Load":[1.0101010101003143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704422","Load":[10.891089108879019],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704428","Load":[11.111111111146837],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704434","Load":[15.151515151527677],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704441","Load":[9.9009900990391],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704447","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704453","Load":[17.821782178220275],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704459","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704466","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704472","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704478","Load":[1.0000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704485","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704491","Load":[3.0303030303183416],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704497","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704505","Load":[8.999999999975444],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704511","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704517","Load":[17.346938775525356],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704524","Load":[11.111111111126421],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704530","Load":[4.08163265305933],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704537","Load":[21.212121212129563],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704543","Load":[5.940594059399254],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704550","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704557","Load":[3.03030303030651],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704564","Load":[5.999999999983629],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704571","Load":[0.9900990098998755],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704578","Load":[6.796116504888017],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704585","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704591","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704598","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704604","Load":[4.9999999999954525],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704611","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704618","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704624","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704631","Load":[11.111111111126421],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704637","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704644","Load":[17.000000000007276],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704650","Load":[3.0303030303239096],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704656","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704663","Load":[16.326530612260523],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704670","Load":[4.040404040393833],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704676","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704683","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704689","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704696","Load":[4.901960784338202],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704703","Load":[10.999999999967258],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704709","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704716","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704723","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704730","Load":[8.910891089121394],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704736","Load":[16.00000000003729],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704742","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704749","Load":[12.244897959177992],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704755","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704762","Load":[12.871287128744077],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704768","Load":[15.000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704774","Load":[8.16326530612671],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704781","Load":[2.040816326529665],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704788","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704794","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704801","Load":[16.8316831683204],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704808","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704814","Load":[16.161616161627993],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704821","Load":[10.10101010100314],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704827","Load":[11.111111111146837],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704833","Load":[14.851485148493898],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704840","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704847","Load":[11.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704853","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704859","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704866","Load":[16.161616161627993],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704872","Load":[4.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704881","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704887","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704893","Load":[16.831683168290084],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704900","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704906","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704913","Load":[9.999999999995453],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704920","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704926","Load":[7.070707070712174],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704933","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704939","Load":[3.03030303030651],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704945","Load":[3.960396039622015],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704952","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704959","Load":[16.831683168290084],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704966","Load":[4.000000000026375],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704972","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704979","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704985","Load":[18.81188118812015],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704992","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754704999","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705005","Load":[99.99999999988279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705011","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705017","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705024","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705031","Load":[9.183673469366447],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705037","Load":[11.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705043","Load":[0.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705050","Load":[17.64705882350581],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705056","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705063","Load":[14.285714285730858],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705069","Load":[12.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705075","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705082","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705088","Load":[9.90099009902127],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705094","Load":[4.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705101","Load":[7.000000000016371],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705107","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705114","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705120","Load":[4.9999999999954525],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705127","Load":[7.999999999992724],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705134","Load":[16.99999999998454],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705140","Load":[2.0618556701026094],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705146","Load":[1.999999999998181],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705152","Load":[15.151515151476874],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705159","Load":[2.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705165","Load":[22.222222222229878],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705172","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705178","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705185","Load":[4.950495049521891],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705191","Load":[8.08080808082548],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705197","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705204","Load":[3.9603960396066356],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705216","Load":[10.10101010100314],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705222","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705229","Load":[1.9607843137263645],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705235","Load":[19.19191919189367],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705242","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705248","Load":[14.141414141404399],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705255","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705262","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705268","Load":[13.86138613861832],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705275","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705281","Load":[16.99999999998454],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705288","Load":[13.000000000010914],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705295","Load":[15.841584158398009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705301","Load":[9.900990099043781],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705308","Load":[4.950495049512975],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705315","Load":[4.040404040393833],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705321","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705328","Load":[16.16161616158206],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705334","Load":[9.090909090925795],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705340","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705347","Load":[21.000000000064574],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705353","Load":[2.0408163265258774],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705359","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705366","Load":[8.910891089137442],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705372","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705378","Load":[4.040404040424224],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705384","Load":[16.000000000008185],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705391","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705397","Load":[16.8316831683204],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705404","Load":[8.999999999998181],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705412","Load":[16.99999999998454],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705419","Load":[11.11111111108304],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705425","Load":[12.99999999996453],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705431","Load":[9.090909090909092],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705438","Load":[5.882352941146311],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705444","Load":[20.20202020202925],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705452","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705458","Load":[17.000000000030013],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705465","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705472","Load":[14.141414141401382],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705478","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705485","Load":[7.920792079213271],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705492","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705499","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705505","Load":[15.151515151504713],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705511","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705518","Load":[11.881188118821019],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705525","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705531","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705537","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705544","Load":[2.970297029704976],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705550","Load":[16.16161616160503],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705557","Load":[3.000000000020009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705563","Load":[3.000000000020009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705569","Load":[23.23232323233019],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705576","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705582","Load":[20.20202020200628],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705589","Load":[12.00000000003456],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705595","Load":[4.040404040401257],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705601","Load":[15.000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705608","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705614","Load":[10.10101010100755],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705620","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705627","Load":[9.000000000008185],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705633","Load":[24.752475247519403],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705640","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705648","Load":[99.99999999985789],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705654","Load":[99.99999999997749],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705661","Load":[99.99999999997726],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705667","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705673","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705681","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705687","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705695","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705702","Load":[14.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705708","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705715","Load":[11.11111111108304],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705721","Load":[4.000000000026375],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705728","Load":[1.9801980197772389],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705735","Load":[16.1616161615983],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705741","Load":[11.999999999989996],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705748","Load":[14.141414141404399],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705754","Load":[10.891089108898631],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705761","Load":[4.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705767","Load":[14.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705774","Load":[1.0000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705780","Load":[4.901960784315911],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705786","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705792","Load":[1.0101010101214252],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705799","Load":[3.030303030283543],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705805","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705812","Load":[0.9900990098998755],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705818","Load":[15.15151515149984],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705825","Load":[10.204081632629386],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705833","Load":[3.0303030302779757],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705839","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705846","Load":[21.21212121209059],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705852","Load":[5.882352941190894],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705858","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705865","Load":[15.15151515149984],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705871","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705879","Load":[6.862745098052328],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705885","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705892","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705898","Load":[12.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705906","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705913","Load":[9.090909090886123],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705919","Load":[3.0303030303183416],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705925","Load":[11.999999999967258],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705931","Load":[9.000000000014552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705937","Load":[6.06060606061302],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705944","Load":[12.745098039198202],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705951","Load":[1.999999999998181],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705957","Load":[3.030303030329477],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705963","Load":[3.0303030303183416],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705970","Load":[1.0000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705977","Load":[10.000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705983","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705990","Load":[22.00000000000273],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754705996","Load":[7.070707070725166],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706002","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706009","Load":[3.960396039622015],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706015","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706022","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706028","Load":[4.901960784338202],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706034","Load":[1.9801980198033178],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706040","Load":[10.999999999992724],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706047","Load":[2.0408163265258774],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706053","Load":[1.9801980198033178],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706060","Load":[17.64705882353728],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706066","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706072","Load":[3.061224489817699],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706079","Load":[8.16326530611866],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706085","Load":[3.9603960395923696],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706092","Load":[10.999999999989996],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706098","Load":[1.999999999998181],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706105","Load":[3.0303030303183416],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706112","Load":[11.881188118821019],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706119","Load":[2.9411764706065933],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706125","Load":[23.00000000000182],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706131","Load":[4.000000000011823],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706138","Load":[15.000000000036378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706144","Load":[7.070707070679232],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706151","Load":[4.950495049512975],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706157","Load":[5.940594059421766],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706164","Load":[0.9999999999763531],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706170","Load":[17.346938775493157],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706177","Load":[5.882352941190894],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706183","Load":[10.784313725475773],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706190","Load":[10.891089108921143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706197","Load":[1.0101010100754912],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706203","Load":[16.000000000008185],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706209","Load":[0.9900990098998755],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706216","Load":[4.950495049521891],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706222","Load":[5.882352941179094],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706228","Load":[14.141414141427363],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706235","Load":[15.151515151527677],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706241","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706248","Load":[1.98019801982583],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706254","Load":[17.821782178220275],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706260","Load":[3.03030303030651],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706267","Load":[2.000000000001819],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706273","Load":[9.90099009902127],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706280","Load":[19.999999999968168],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706286","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706293","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706299","Load":[99.99999999990527],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706305","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706312","Load":[99.99999999997726],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706318","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706324","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706331","Load":[3.960396039599502],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706338","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706344","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706351","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706357","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706364","Load":[46.53465346536169],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706370","Load":[10.891089108921143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706376","Load":[16.000000000008185],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706383","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706390","Load":[12.99999999996453],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706396","Load":[4.950495049512975],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706403","Load":[8.823529411752904],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706409","Load":[2.0202020202006286],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706415","Load":[10.101010100984583],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706421","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706428","Load":[22.549019607875483],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706434","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706441","Load":[15.000000000009095],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706447","Load":[10.891089108898631],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706454","Load":[13.00000000003456],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706461","Load":[4.000000000019099],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706467","Load":[9.999999999968168],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706473","Load":[12.871287128675203],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706480","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706486","Load":[2.000000000001819],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706493","Load":[17.000000000007276],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706499","Load":[5.940594059432465],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706505","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706512","Load":[18.811881188097637],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706519","Load":[11.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706525","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706531","Load":[13.999999999987267],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706538","Load":[4.950495049476866],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706545","Load":[11.999999999967258],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706551","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706558","Load":[23.999999999978172],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706564","Load":[3.0303030302779757],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706570","Load":[12.871287128698384],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706578","Load":[1.0000000000218279],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706584","Load":[3.030303030329477],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706591","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706597","Load":[10.101010101044668],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706604","Load":[21.99999999997999],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706610","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706617","Load":[15.841584158420522],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706624","Load":[7.999999999992724],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706630","Load":[5.8823529411686035],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706637","Load":[5.940594059399254],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706643","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706650","Load":[17.821782178220275],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706657","Load":[12.000000000012733],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706664","Load":[25.242718446607515],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706670","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706676","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706683","Load":[4.901960784315911],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706689","Load":[10.891089108921143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706696","Load":[4.950495049485781],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706702","Load":[4.9504950494904625],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706708","Load":[0.9999999999763531],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706715","Load":[15.151515151532552],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706721","Load":[3.000000000025466],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706728","Load":[0.9999999999763531],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706735","Load":[4.999999999986358],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706742","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706748","Load":[10.89108910894076],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706755","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706761","Load":[18.000000000006366],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706768","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706774","Load":[23.00000000002092],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706781","Load":[11.764705882316226],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706787","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706794","Load":[14.999999999981812],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706801","Load":[2.9411764705843018],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706807","Load":[18.00000000003911],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706814","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706821","Load":[16.000000000030923],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706827","Load":[18.000000000029104],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706833","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706840","Load":[21.21212121215253],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706846","Load":[2.941176470589547],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706853","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706860","Load":[11.881188118819905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706866","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706873","Load":[18.627450980367243],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706879","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706886","Load":[14.563106796141795],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706892","Load":[9.900990098998756],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706899","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706906","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706914","Load":[8.080808080802514],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706921","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706927","Load":[5.940594059432465],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706934","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706940","Load":[99.99999999997726],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706946","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706953","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706960","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706966","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706973","Load":[4.9999999999954525],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706980","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706986","Load":[1.0101010101003143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706993","Load":[19.801980198020026],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754706999","Load":[5.1020408163241635],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707006","Load":[8.999999999991815],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707012","Load":[10.00000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707019","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707025","Load":[16.16161616160503],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707032","Load":[5.940594059409952],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707038","Load":[4.000000000003638],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707045","Load":[5.8823529411686035],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707052","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707058","Load":[19.801980198020026],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707065","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707071","Load":[15.841584158398009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707077","Load":[15.841584158426542],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707084","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707091","Load":[14.141414141401382],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707097","Load":[8.999999999969077],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707104","Load":[3.960396039599502],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707111","Load":[12.871287128744077],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707117","Load":[0.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707124","Load":[7.999999999992724],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707131","Load":[2.9999999999972715],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707137","Load":[3.9999999999736247],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707144","Load":[0.9900990098998755],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707152","Load":[10.891089108918246],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707159","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707165","Load":[9.090909090902827],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707172","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707179","Load":[18.81188118812015],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707185","Load":[11.111111111126421],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707193","Load":[9.00000000003729],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707199","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707206","Load":[4.0404040404086805],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707212","Load":[3.960396039599502],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707219","Load":[2.941176470589547],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707225","Load":[16.16161616160503],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707232","Load":[4.040404040393833],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707238","Load":[0.9999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707245","Load":[10.784313725520356],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707251","Load":[4.950495049499378],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707258","Load":[3.0303030303183416],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707264","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707271","Load":[2.9999999999918145],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707277","Load":[10.10101010100314],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707284","Load":[9.90099009902127],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707291","Load":[10.000000000013642],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707297","Load":[8.16326530611866],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707304","Load":[15.841584158449054],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707310","Load":[10.000000000013642],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707317","Load":[4.9504950494904625],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707323","Load":[5.05050505050157],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707330","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707337","Load":[16.1616161615983],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707343","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707350","Load":[23.762376237662323],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707356","Load":[9.090909090896563],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707363","Load":[12.121212121181498],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707369","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707376","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707382","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707389","Load":[2.0408163265258774],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707395","Load":[1.980198019799751],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707402","Load":[24.509803921580428],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707408","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707415","Load":[13.131313131351178],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707421","Load":[12.871287128721566],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707428","Load":[3.0303030302953746],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707434","Load":[15.841584158443034],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707440","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707447","Load":[6.000000000005457],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707453","Load":[8.080808080802514],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707459","Load":[15.841584158398009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707465","Load":[5.825242718447888],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707472","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707478","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707484","Load":[12.74509803922137],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707491","Load":[4.040404040393833],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707497","Load":[6.060606060601885],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707504","Load":[19.801980197997512],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707510","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707517","Load":[10.891089108921143],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707523","Load":[8.16326530611866],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707530","Load":[4.9504950495082936],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707536","Load":[15.841584158398009],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707543","Load":[0],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707549","Load":[3.999999999989086],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707555","Load":[3.960396039599502],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707571","Load":[11.111111111126421],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707577","Load":[99.9999999999554],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707583","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707590","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707596","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707603","Load":[100],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707609","Load":[99.9999999999511],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707615","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707621","Load":[9.999999999990905],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707628","Load":[3.0303030303009426],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707634","Load":[3.061224489794498],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707641","Load":[8.08080808082548],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707648","Load":[15.999999999985448],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707654","Load":[3.999999999996362],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707661","Load":[1.010101010077347],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707667","Load":[16.000000000008185],"DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420066", "Load":[20.20202020200628], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420072", "Load":[29.999999999963624], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420078", "Load":[20.40816326525877], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420084", "Load":[12.371134020592459], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420090", "Load":[25.999999999974534], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420096", "Load":[12.12121212120377], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420103", "Load":[3.061224489771296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420109", "Load":[19.191919191928935], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420115", "Load":[5.154639175233084], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420121", "Load":[2.061855670098743], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420127", "Load":[22.222222222160976], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420133", "Load":[5.102040816300962], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420139", "Load":[7.000000000016371], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420145", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420151", "Load":[99.99999999981627], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420157", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420163", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420170", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420176", "Load":[99.99999999981247], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420182", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420188", "Load":[99.99999999995498], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420194", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420200", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420206", "Load":[99.9999999999554], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420212", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420218", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420224", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420230", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420237", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420243", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420249", "Load":[7.1428571428770296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420255", "Load":[2.040816326576068], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420261", "Load":[6.060606060636683], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420267", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420273", "Load":[1.0204081632416313], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420279", "Load":[6.000000000005457], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420285", "Load":[6.060606060647819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420291", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420297", "Load":[5.102040816254559], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420303", "Load":[5.102040816393767], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420310", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420316", "Load":[7.142857142830628], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420322", "Load":[12.244897959224394], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420328", "Load":[8.080808080802514], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420334", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420340", "Load":[9.183673469406695], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420346", "Load":[11.111111111060074], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420352", "Load":[7.216494845369041], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420358", "Load":[8.163265306149912], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420364", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420370", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420377", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420383", "Load":[5.999999999983629], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420389", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420395", "Load":[16.32653061223732], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420401", "Load":[11.111111111080488], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420407", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420413", "Load":[14.432989690765147], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420419", "Load":[8.333333333333332], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420425", "Load":[7.070707070712174], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420431", "Load":[11.111111111126421], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420437", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420443", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420450", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420456", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420462", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420468", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420474", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420480", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420486", "Load":[99.99999999985936], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420492", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420498", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420504", "Load":[99.9999999999554], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420510", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420516", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420522", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420528", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420534", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420541", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420547", "Load":[2.040816326529665], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420553", "Load":[18.000000000029104], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420559", "Load":[5.94059405935423], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420565", "Load":[1.010101010077347], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420571", "Load":[6.999999999970896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420577", "Load":[12.00000000003456], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420583", "Load":[5.154639175233084], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420589", "Load":[23.46938775506795], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420595", "Load":[6.060606060636683], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420601", "Load":[15.841584158443034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420607", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420613", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420620", "Load":[19.191919191928935], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420626", "Load":[8.999999999985448], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420632", "Load":[16.494845360836823], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420638", "Load":[23.762376237642037], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420644", "Load":[20.20202020200628], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420650", "Load":[12.121212121249703], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420656", "Load":[7.216494845335693], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420662", "Load":[1.0309278350747453], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420668", "Load":[24.000000000021828], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420674", "Load":[5.263157894714167], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420680", "Load":[21.21212121208363], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420686", "Load":[14.285714285707657], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420692", "Load":[8.910891089076369], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420699", "Load":[15.000000000009095], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420705", "Load":[7.1428571429101755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420711", "Load":[8.08080808075658], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420717", "Load":[11.224489795889959], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420723", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420729", "Load":[22.549019607879853], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420735", "Load":[5.940594059444279], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420741", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420747", "Load":[13.265306122419624], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420754", "Load":[5.154639175279964], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420760", "Load":[22.680412371175585], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420766", "Load":[8.247422680410438], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420772", "Load":[16.000000000030923], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420778", "Load":[19.99999999994256], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420784", "Load":[21.000000000003638], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420790", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420796", "Load":[5.050505050515258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420802", "Load":[2.999999999974534], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420808", "Load":[28.712871287118908], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420815", "Load":[5.050505050570472], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420821", "Load":[20.588235294156984], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420827", "Load":[6.930693069276616], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420833", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420839", "Load":[6.250000000047369], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420845", "Load":[3.9603960396445275], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420851", "Load":[6.122448979577632], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420857", "Load":[4.166666666658772], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420863", "Load":[2.040816326529665], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420869", "Load":[22.772277227670614], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420875", "Load":[7.142857142817369], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420881", "Load":[17.346938775478954], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420887", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420893", "Load":[2.061855670098743], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420900", "Load":[21.276595744691143], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420906", "Load":[7.0707070707711], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420912", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420918", "Load":[7.070707070725166], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420924", "Load":[2.061855670098743], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420930", "Load":[7.070707070679232], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420936", "Load":[6.060606060647819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420942", "Load":[6.1855670102609475], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420948", "Load":[39.60396039604005], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420955", "Load":[22.772277227719652], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420961", "Load":[26.26262626265642], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420967", "Load":[22.22222222229878], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420973", "Load":[16.000000000047294], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420979", "Load":[8.16326530611866], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420985", "Load":[3.000000000020009], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420991", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756420997", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421003", "Load":[2.0202020202006286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421009", "Load":[6.060606060636683], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421015", "Load":[6.999999999970896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421021", "Load":[1.999999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421027", "Load":[3.0927835051304737], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421033", "Load":[3.1914893616733075], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421040", "Load":[2.0202020202006286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421046", "Load":[6.122448979624035], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421052", "Load":[10.10101010100314], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421058", "Load":[17.346938775571758], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421064", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421070", "Load":[17.64705882353728], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421076", "Load":[10.10101010100314], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421082", "Load":[4.123711340205219], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421088", "Load":[17.171717171728307], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421094", "Load":[16.16161616160503], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421100", "Load":[11.111111111080488], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421106", "Load":[4.166666666706141], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421112", "Load":[1.010101010077347], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421118", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421124", "Load":[17.171717171759855], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421131", "Load":[9.278350515467784], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421137", "Load":[12.000000000080036], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421143", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421149", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421155", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421161", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421167", "Load":[99.99999999995453], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421173", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421180", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421186", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421192", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421198", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421204", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421210", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421216", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421222", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421228", "Load":[99.99999999985789], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421234", "Load":[99.9999999998622], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421240", "Load":[99.99999999995163], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421247", "Load":[18.36734693881339], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421253", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421259", "Load":[3.0303030303239096], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421265", "Load":[20.202020202052218], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421271", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421277", "Load":[1.9999999999527063], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421283", "Load":[19.191919191928935], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421289", "Load":[8.163265306165064], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421295", "Load":[5.88235294113451], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421301", "Load":[7.070707070679232], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421308", "Load":[3.061224489771296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421314", "Load":[3.960396039599502], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421320", "Load":[5.999999999949068], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421326", "Load":[4.081632653105733], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421332", "Load":[2.999999999974534], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421338", "Load":[4.040404040393833], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421344", "Load":[8.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421350", "Load":[2.970297029682464], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421356", "Load":[6.930693069334123], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421362", "Load":[14.285714285707657], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421368", "Load":[9.090909090925795], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421374", "Load":[7.843137254936054], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421381", "Load":[9.090909090925795], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421387", "Load":[9.183673469389648], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421393", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421399", "Load":[6.122448979624035], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421405", "Load":[2.0000000000436557], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421411", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421417", "Load":[5.050505050487883], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421423", "Load":[1.980198019758293], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421429", "Load":[4.0404040404086805], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421436", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421442", "Load":[1.999999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421448", "Load":[4.123711340197486], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421454", "Load":[16.16161616165096], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421460", "Load":[10.00000000003638], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421466", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421472", "Load":[18.81188118812015], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421478", "Load":[12.244897959270796], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421484", "Load":[8.080808080802514], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421490", "Load":[15.999999999985448], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421496", "Load":[15.30612244899569], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421502", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421508", "Load":[3.9603960396066356], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421514", "Load":[20.202020202052218], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421520", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421527", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421533", "Load":[17.346938775525356], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421539", "Load":[4.04040404044719], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421545", "Load":[1.0204081632416313], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421551", "Load":[18.18181818185159], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421557", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421563", "Load":[3.000000000020009], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421569", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421575", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421581", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421588", "Load":[5.050505050515258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421594", "Load":[4.040404040393833], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421600", "Load":[1.0204081632416313], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421606", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421612", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421619", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421625", "Load":[10.204081632694729], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421631", "Load":[4.081632653098157], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421638", "Load":[2.0408163265722803], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421644", "Load":[25.999999999976353], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421650", "Load":[19.387755102019035], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421656", "Load":[19.99999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421663", "Load":[29.292929292886143], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421669", "Load":[6.9306930693216415], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421675", "Load":[5.102040816300962], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421681", "Load":[27.999999999974534], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421687", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421693", "Load":[2.040816326529665], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421699", "Load":[10.10101010100314], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421705", "Load":[14.999999999981812], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421711", "Load":[11.99999999996544], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421717", "Load":[12.244897959177992], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421723", "Load":[6.18556701034311], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421729", "Load":[2.020202020158406], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421735", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421742", "Load":[6.060606060601885], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421748", "Load":[3.0303030302779757], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421754", "Load":[5.102040816291492], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421760", "Load":[4.081632653066906], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421766", "Load":[2.999999999969077], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421772", "Load":[6.930693069334123], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421779", "Load":[12.244897959224394], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421785", "Load":[10.101010101030516], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421791", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421798", "Load":[4.99999999996362], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421804", "Load":[1.0000000000218279], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421810", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421816", "Load":[5.050505050515258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421822", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421829", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421835", "Load":[7.0707070706662405], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421841", "Load":[1.9999999999563443], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421847", "Load":[6.060606060658954], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421853", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421859", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421865", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421871", "Load":[99.99999999995407], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421877", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421883", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421889", "Load":[99.99999999991255], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421895", "Load":[99.99999999986079], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421901", "Load":[99.99999999991084], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421908", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421914", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421921", "Load":[99.99999999981627], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421928", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421934", "Load":[99.9999999998622], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421941", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421947", "Load":[99.99999999995163], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421953", "Load":[1.0204081632435251], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421959", "Load":[17.171717171696756], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421966", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421972", "Load":[12.871287128720896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421978", "Load":[21.000000000010914], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421984", "Load":[12.5], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421990", "Load":[3.000000000020009], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756421996", "Load":[16.9999999999618], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422002", "Load":[6.000000000005457], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422009", "Load":[3.0303030303239096], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422015", "Load":[21.42857142849851], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422021", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422027", "Load":[2.0202020202006286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422033", "Load":[10.204081632629386], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422039", "Load":[6.999999999970896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422045", "Load":[1.010101010123281], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422051", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422058", "Load":[14.141414141450332], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422064", "Load":[1.980198019799751], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422070", "Load":[4.04040404044719], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422076", "Load":[4.040404040393833], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422082", "Load":[1.010101010077347], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422088", "Load":[5.050505050469324], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422094", "Load":[17.99999999998363], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422100", "Load":[5.102040816356834], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422106", "Load":[12.871287128652689], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422112", "Load":[17.171717171696756], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422119", "Load":[10.00000000003638], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422125", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422131", "Load":[25.999999999976353], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422138", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422145", "Load":[8.16326530611866], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422151", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422158", "Load":[2.020202020158406], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422164", "Load":[20.792079207874874], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422171", "Load":[10.309278350493715], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422177", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422183", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422190", "Load":[5.050505050487883], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422196", "Load":[13.131313131327053], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422202", "Load":[11.881188118843532], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422208", "Load":[5.102040816300962], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422215", "Load":[5.940594059399254], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422221", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422228", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422234", "Load":[6.000000000005457], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422240", "Load":[1.030927835025931], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422247", "Load":[15.463917525793011], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422253", "Load":[15.463917525793011], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422259", "Load":[10.101010100957208], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422266", "Load":[15.151515151509583], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422272", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422279", "Load":[16.494845360851805], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422285", "Load":[10.204081632648327], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422292", "Load":[4.123711340205219], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422298", "Load":[12.244897959177992], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422305", "Load":[14.000000000032742], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422311", "Load":[11.458333333287937], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422317", "Load":[15.999999999985448], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422323", "Load":[18.999999999970896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422329", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422335", "Load":[5.1020408163473645], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422342", "Load":[10.101010100957208], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422348", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422355", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422361", "Load":[2.0000000000436557], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422367", "Load":[5.000000000027285], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422373", "Load":[5.050505050487883], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422379", "Load":[1.0204081632416313], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422385", "Load":[17.171717171728307], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422392", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422398", "Load":[2.0408163265258774], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422404", "Load":[18.367346938779296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422410", "Load":[7.1428571428770296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422417", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422423", "Load":[20.61855670106476], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422429", "Load":[7.216494845382574], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422435", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422441", "Load":[15.15151515149984], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422447", "Load":[5.940594059399254], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422454", "Load":[2.0202020202428503], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422460", "Load":[8.247422680363558], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422466", "Load":[3.1250000000177636], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422472", "Load":[4.040404040355323], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422478", "Load":[6.1855670102609475], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422484", "Load":[5.050505050533817], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422490", "Load":[12.121212121227433], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422496", "Load":[16.326530612190922], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422502", "Load":[14.285714285707657], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422508", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422514", "Load":[5.940594059433579], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422521", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422527", "Load":[11.88118811886493], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422533", "Load":[4.081632653066906], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422539", "Load":[15.463917525764012], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422545", "Load":[4.901960784284878], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422552", "Load":[6.06060606061302], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422558", "Load":[99.9999999999554], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422565", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422571", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422577", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422583", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422590", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422596", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422603", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422609", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422616", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422622", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422629", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422636", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422642", "Load":[99.99999999995262], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422648", "Load":[3.061224489771296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422655", "Load":[21.21212121216854], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422661", "Load":[13.265306122466026], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422667", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422673", "Load":[15.30612244896728], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422680", "Load":[4.999999999972715], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422686", "Load":[3.0612244898120173], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422692", "Load":[16.32653061223732], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422698", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422704", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422710", "Load":[11.224489795889959], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422716", "Load":[2.0408163265258774], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422722", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422728", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422734", "Load":[5.102040816300962], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422740", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422746", "Load":[4.99999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422752", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422759", "Load":[8.910891089076369], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422765", "Load":[3.092783505171555], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422771", "Load":[8.16326530611866], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422777", "Load":[2.9702970297167894], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422783", "Load":[9.999999999972715], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422789", "Load":[3.0612244898120173], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422795", "Load":[2.0202020201969164], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422801", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422807", "Load":[9.000000000014552], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422813", "Load":[1.0000000000218279], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422819", "Load":[3.0303030302779757], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422825", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422831", "Load":[1.010101010123281], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422837", "Load":[3.061224489771296], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422843", "Load":[17.82178217824279], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422849", "Load":[9.090909090925795], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422855", "Load":[6.122448979542592], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422862", "Load":[16.16161616160503], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422868", "Load":[10.101010101049075], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422874", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422880", "Load":[8.247422680410438], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422886", "Load":[14.000000000012733], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422892", "Load":[13.861386138598258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422898", "Load":[9.183673469406695], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422904", "Load":[24.24242424240754], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422910", "Load":[13.000000000010914], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422916", "Load":[8.16326530611866], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422922", "Load":[31.999999999958163], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422928", "Load":[12.244897959201666], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422935", "Load":[20.999999999958163], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422941", "Load":[31.999999999958163], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422947", "Load":[11.340206185519646], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422953", "Load":[12.74509803928737], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422959", "Load":[22.448979591779917], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422965", "Load":[12.121212121249703], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422971", "Load":[7.000000000049113], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422977", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422983", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422989", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756422995", "Load":[17.171717171682374], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423002", "Load":[5.1020408163473645], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423008", "Load":[1.010101010077347], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423014", "Load":[21.000000000003638], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423020", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423026", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423032", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423038", "Load":[6.060606060601885], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423044", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423050", "Load":[3.061224489817699], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423056", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423062", "Load":[3.0303030303239096], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423068", "Load":[6.122448979635398], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423075", "Load":[19.387755102019035], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423081", "Load":[28.571428571408685], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423087", "Load":[16.494845360789945], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423093", "Load":[27.55102040817368], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423099", "Load":[20.408163265305177], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423105", "Load":[13.131313131327053], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423111", "Load":[2.0408163265722803], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423117", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423123", "Load":[5.1020408163473645], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423129", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423135", "Load":[13.131313131327053], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423141", "Load":[7.070707070725166], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423147", "Load":[1.0204081632397373], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423153", "Load":[5.208333333309648], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423160", "Load":[7.1428571429101755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423166", "Load":[5.050505050561192], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423172", "Load":[8.16326530608741], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423178", "Load":[5.263157894762036], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423184", "Load":[2.061855670098743], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423190", "Load":[5.154639175223417], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423196", "Load":[5.102040816337895], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423202", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423208", "Load":[5.050505050487883], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423214", "Load":[6.060606060590749], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423220", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423226", "Load":[6.060606060636683], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423232", "Load":[9.000000000014552], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423239", "Load":[1.999999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423245", "Load":[7.84313725489147], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423251", "Load":[7.84313725489147], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423257", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423263", "Load":[99.9999999999072], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423269", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423275", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423281", "Load":[99.99999999986079], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423287", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423293", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423299", "Load":[99.99999999991255], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423305", "Load":[99.9999999999072], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423311", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423317", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423323", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423330", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423336", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423342", "Load":[99.9999999998199], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423348", "Load":[99.99999999995453], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423354", "Load":[6.930693069276616], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423360", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423366", "Load":[2.0202020201969164], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423372", "Load":[5.102040816300962], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423378", "Load":[5.154639175270298], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423384", "Load":[5.050505050570472], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423390", "Load":[5.154639175279964], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423396", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423402", "Load":[20.40816326535158], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423408", "Load":[21.782178217842286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423414", "Load":[31.313131313132704], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423420", "Load":[15.15151515149984], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423426", "Load":[5.000000000009095], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423433", "Load":[16.161616161621264], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423439", "Load":[13.131313131281116], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423445", "Load":[16.161616161559092], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423451", "Load":[7.070707070725166], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423457", "Load":[34.02061855674646], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423463", "Load":[14.285714285754059], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423469", "Load":[22.448979591821583], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423475", "Load":[39.999999999918145], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423481", "Load":[16.326530612283722], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423488", "Load":[1.0101010101214252], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423494", "Load":[20.588235294067818], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423500", "Load":[11.999999999943611], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423506", "Load":[9.278350515532065], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423512", "Load":[28.865979381382402], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423518", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423524", "Load":[19.79166666668048], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423530", "Load":[21.428571428677493], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423536", "Load":[9.999999999990905], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423542", "Load":[1.999999999998181], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423548", "Load":[7.070707070679232], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423555", "Load":[6.999999999970896], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423561", "Load":[6.122448979635398], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423567", "Load":[4.081632653051755], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423573", "Load":[9.09090909087986], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423579", "Load":[12.500000000023684], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423585", "Load":[12.244897959154317], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423591", "Load":[25], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423597", "Load":[10.10101010100314], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423604", "Load":[10.101010101049075], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423610", "Load":[5.940594059364928], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423616", "Load":[1.0000000000218279], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423622", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423628", "Load":[4.040404040393833], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423634", "Load":[1.010101010077347], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423641", "Load":[4.999999999972715], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423647", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423653", "Load":[4.123711340197486], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423659", "Load":[3.092783505177355], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423665", "Load":[18.181818181805653], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423671", "Load":[13.131313131397112], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423677", "Load":[5.154639175270298], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423683", "Load":[17.171717171759855], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423689", "Load":[22.448979591919123], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423695", "Load":[19.38775510200862], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423701", "Load":[18.556701030876603], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423707", "Load":[22.448979591831055], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423713", "Load":[4.0404040404086805], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423719", "Load":[2.9702970296717655], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423725", "Load":[18.00000000007458], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423731", "Load":[4.040404040401257], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423737", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423743", "Load":[12.121212121249703], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423750", "Load":[14.432989690691201], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423756", "Load":[16.32653061223732], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423762", "Load":[25.77319587635294], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423768", "Load":[11.224489795869124], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423774", "Load":[13.86138613862322], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423780", "Load":[13.131313131327053], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423786", "Load":[7.142857142863772], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423792", "Load":[3.0303030302724077], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423799", "Load":[6.000000000040018], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423805", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423811", "Load":[2.0408163265258774], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423817", "Load":[6.000000000029104], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423823", "Load":[6.122448979577632], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423829", "Load":[4.166666666706141], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423835", "Load":[7.142857142923432], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423841", "Load":[17.525773195862758], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423847", "Load":[11.22448979593636], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423853", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423859", "Load":[17.346938775493157], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423865", "Load":[13.40206185566527], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423871", "Load":[9.09090909087986], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423877", "Load":[17.346938775478954], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423884", "Load":[10.999999999992724], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423890", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423896", "Load":[16.9999999999618], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423902", "Load":[14.851485148520647], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423908", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423914", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423920", "Load":[17.525773195862758], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423927", "Load":[6.060606060555951], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423933", "Load":[1.0101010101214252], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423939", "Load":[12.12121212122604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423945", "Load":[6.122448979588996], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423951", "Load":[0], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423957", "Load":[12.99999999996544], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423963", "Load":[99.99999999995453], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423969", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423975", "Load":[99.99999999995312], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423981", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423987", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423993", "Load":[99.99999999986358], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756423999", "Load":[99.99999999995407], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424005", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424011", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424017", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424023", "Load":[99.99999999995498], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424030", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424036", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424042", "Load":[100], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424048", "Load":[99.9999999999072], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424054", "Load":[99.99999999986079], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424060", "Load":[26.26262626260817], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424066", "Load":[21.212121212122604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424072", "Load":[21.428571428584686], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424078", "Load":[22.44897959182632], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424084", "Load":[41.23711340202174], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424091", "Load":[22.680412371175585], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424097", "Load":[22.680412371086174], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424103", "Load":[33.673469387716274], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424109", "Load":[8.247422680410438], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424115", "Load":[21.428571428584686], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424121", "Load":[32.00000000001637], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424127", "Load":[13.131313131327053], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424133", "Load":[1.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424140", "Load":[15.151515151527677], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424146", "Load":[5.940594059409952], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424152", "Load":[1.9999999999563443], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424158", "Load":[16.494845360789945], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424164", "Load":[3.092783505124674], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424170", "Load":[2.0202020202006286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424176", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424182", "Load":[5.999999999994543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424188", "Load":[1.0309278350278641], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424194", "Load":[6.060606060601885], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424200", "Load":[14.141414141450332], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424206", "Load":[17.525773195881605], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424212", "Load":[12.244897959201666], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424218", "Load":[9.183673469406695], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424224", "Load":[9.090909090909092], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424230", "Load":[5.050505050524538], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424236", "Load":[15.151515151527677], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424242", "Load":[8.16326530611866], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424249", "Load":[5.00000000001819], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424255", "Load":[14.285714285754059], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424261", "Load":[10.101010100984583], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424267", "Load":[15.000000000036378], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424273", "Load":[15.151515151481746], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424279", "Load":[18.181818181726314], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424285", "Load":[11.224489795869124], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424291", "Load":[20.408163265343056], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424297", "Load":[34.34343434351971], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424303", "Load":[6.185567010307828], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424309", "Load":[15.463917525793011], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424316", "Load":[10.999999999967258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424322", "Load":[5.050505050515258], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424328", "Load":[11.224489795915527], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424334", "Load":[12.999999999941792], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424340", "Load":[12.871287128699052], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424346", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424352", "Load":[12.999999999987267], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424358", "Load":[5.999999999983629], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424365", "Load":[17.17171717174269], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424371", "Load":[10.204081632648327], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424377", "Load":[5.050505050478604], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424383", "Load":[15.000000000009095], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424389", "Load":[17.708333333276094], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424395", "Load":[14.285714285727543], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424401", "Load":[11.340206185634674], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424407", "Load":[29.99999999991815], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424413", "Load":[12.244897959247123], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424420", "Load":[5.940594059454978], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424426", "Load":[17.000000000007276], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424432", "Load":[3.092783505171555], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424438", "Load":[1.020408163288034], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424444", "Load":[19.00000000005093], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424450", "Load":[8.080808080787666], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424456", "Load":[2.0202020202006286], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424462", "Load":[4.08163265305933], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424468", "Load":[47.47474747474237], "DevID":"postgres1.infra.real.internetscanner.blankcanvas"}

@@ -1,0 +1,10 @@
+{"TimeStamp":"1756360833", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"eth1", "HardwareAddr":"b6:5e:12:26:4c:4e", "IPs":["10.10.10.195", "fe80::b45e:12ff:fe26:1"], "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"any", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"nflog", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"eth0", "HardwareAddr":"4a:46:51:85:b1:af", "IPs":["172.30.0.88", "fe80::4846:51ff:fe85:77"], "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"eth2", "HardwareAddr":"36:52:11:6d:3f:bc", "IPs":["10.0.2.182", "fe80::3452:11ff:fe6d:114"], "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"nfqueue", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"dbus-system", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756360833", "Name":"dbus-session", "DevID":"compromised.infra.real.portscanner.blankcanvas", "Action":"Added"}

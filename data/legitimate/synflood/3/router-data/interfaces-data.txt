@@ -1,33 +1,22 @@
-{"TimeStamp":"1748012522","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"eth0","HardwareAddr":"8a:0c:d8:03:87:94","IPs":["172.30.0.14","fe80::880c:d8ff:fe03:8794"],"Netmasks":[16,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"eth1","HardwareAddr":"e2:d4:a7:1a:f7:47","IPs":["5.6.7.2","fe80::e0d4:a7ff:fe1a:f747"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"eth2","HardwareAddr":"9e:08:eb:85:06:31","IPs":["1.1.2.2","fe80::9c08:ebff:fe85:631"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"eth3","HardwareAddr":"ce:ce:88:66:96:cc","IPs":["10.0.3.2","fe80::ccce:88ff:fe66:96cc"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"bluetooth-monitor","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"nflog","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"nfqueue","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"dbus-system","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"dbus-session","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748012522","Name":"any","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"any","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"bluetooth-monitor","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"dbus-system","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"eth2","HardwareAddr":"9e:08:eb:85:06:31","IPs":["1.1.2.2","fe80::9c08:ebff:fe85:631"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"eth3","HardwareAddr":"ce:ce:88:66:96:cc","IPs":["10.0.3.2","fe80::ccce:88ff:fe66:96cc"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"nfqueue","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"dbus-session","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"eth0","HardwareAddr":"8a:0c:d8:03:87:94","IPs":["172.30.0.14","fe80::880c:d8ff:fe03:8794"],"Netmasks":[16,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"eth1","HardwareAddr":"e2:d4:a7:1a:f7:47","IPs":["5.6.7.2","fe80::e0d4:a7ff:fe1a:f747"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013122","Name":"nflog","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"eth0","HardwareAddr":"8a:0c:d8:03:87:94","IPs":["172.30.0.14","fe80::880c:d8ff:fe03:8794"],"Netmasks":[16,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"eth1","HardwareAddr":"e2:d4:a7:1a:f7:47","IPs":["5.6.7.2","fe80::e0d4:a7ff:fe1a:f747"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"bluetooth-monitor","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"nflog","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"dbus-system","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"dbus-session","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"eth3","HardwareAddr":"ce:ce:88:66:96:cc","IPs":["10.0.3.2","fe80::ccce:88ff:fe66:96cc"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"any","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"nfqueue","DevID":"router.infra.real.synflood.blankcanvas"}
-{"TimeStamp":"1748013722","Name":"eth2","HardwareAddr":"9e:08:eb:85:06:31","IPs":["1.1.2.2","fe80::9c08:ebff:fe85:631"],"Netmasks":[24,64],"DevID":"router.infra.real.synflood.blankcanvas"}
+{"TimeStamp":"1756408845", "Name":"eth1", "HardwareAddr":"f6:5b:e1:c6:4c:5c", "IPs":["5.6.7.56", "fe80::f45b:e1ff:fec6:198"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"eth2", "HardwareAddr":"3a:bd:51:41:fd:0c", "IPs":["1.1.2.186", "fe80::38bd:51ff:fe41:46"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"eth3", "HardwareAddr":"02:38:47:ed:c5:c0", "IPs":["10.0.3.74", "fe80::38:47ff:feed:77"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"any", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"bluetooth-monitor", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"dbus-system", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"dbus-session", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408845", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408846", "Name":"eth0", "HardwareAddr":"5a:b7:11:4b:c0:79", "IPs":["172.30.0.139", "fe80::58b7:11ff:fe4b:79"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408846", "Name":"nflog", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756408846", "Name":"nfqueue", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"dbus-system", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"eth1", "HardwareAddr":"f6:5b:e1:c6:4c:5c", "IPs":["5.6.7.56", "fe80::f45b:e1ff:fec6:198"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"eth3", "HardwareAddr":"02:38:47:ed:c5:c0", "IPs":["10.0.3.74", "fe80::38:47ff:feed:77"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"any", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"nfqueue", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"nflog", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"dbus-session", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"eth0", "HardwareAddr":"5a:b7:11:4b:c0:79", "IPs":["172.30.0.139", "fe80::58b7:11ff:fe4b:79"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"eth2", "HardwareAddr":"3a:bd:51:41:fd:0c", "IPs":["1.1.2.186", "fe80::38bd:51ff:fe41:46"], "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756409562", "Name":"bluetooth-monitor", "DevID":"router.infra.real.synflood.blankcanvas", "Action":"Added"}

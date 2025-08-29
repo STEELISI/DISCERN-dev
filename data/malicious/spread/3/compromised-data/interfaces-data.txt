@@ -1,0 +1,10 @@
+{"TimeStamp":"1756345287", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"any", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"nflog", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"dbus-session", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"eth0", "HardwareAddr":"42:5d:7b:c3:5d:16", "IPs":["172.30.0.88", "fe80::405d:7bff:fec3:14"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"eth1", "HardwareAddr":"f6:f0:55:19:bf:91", "IPs":["10.10.10.195", "fe80::f4f0:55ff:fe19:68"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"eth2", "HardwareAddr":"b6:c0:7c:79:87:b6", "IPs":["10.0.2.182", "fe80::b4c0:7cff:fe79:126"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"nfqueue", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345287", "Name":"dbus-system", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}

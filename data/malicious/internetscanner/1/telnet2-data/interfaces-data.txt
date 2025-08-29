@@ -1,10 +1,10 @@
-{"TimeStamp":"1754707081","Name":"eth2","HardwareAddr":"a2:6a:56:66:c5:a6","IPs":["10.0.23.160","fe80::a06a:56ff:fe66:218"],"DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"bluetooth-monitor","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"nfqueue","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"dbus-system","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"dbus-session","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"eth1","HardwareAddr":"96:a6:b6:12:55:91","IPs":["107.125.128.135","fe80::94a6:b6ff:fe12:180"],"DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"any","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"nflog","DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754707081","Name":"eth0","HardwareAddr":"4e:5b:cc:b4:65:9f","IPs":["172.30.0.33","fe80::4c5b:ccff:feb4:170"],"DevID":"telnet2.infra.real.internetscanner.blankcanvas","Action":"Added"}
+{"TimeStamp":"1756420562", "Name":"dbus-session", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420562", "Name":"eth0", "HardwareAddr":"f6:45:81:4d:b3:16", "IPs":["172.30.0.33", "fe80::f445:81ff:fe4d:113"], "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420562", "Name":"eth1", "HardwareAddr":"92:50:77:aa:30:62", "IPs":["107.125.128.135", "fe80::9050:77ff:feaa:85"], "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420562", "Name":"eth2", "HardwareAddr":"86:d8:c2:0b:4b:4c", "IPs":["10.0.23.160", "fe80::84d8:c2ff:fe0b:189"], "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"any", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"nflog", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"nfqueue", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"dbus-system", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756420563", "Name":"bluetooth-monitor", "DevID":"telnet2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

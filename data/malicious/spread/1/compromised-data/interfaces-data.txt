@@ -1,10 +1,10 @@
-{"TimeStamp":"1748015511","Name":"nfqueue","DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"dbus-system","DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"dbus-session","DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"eth0","HardwareAddr":"8a:3c:66:64:fc:14","IPs":["172.30.0.12","fe80::883c:66ff:fe64:fc14"],"Netmasks":[16,64],"DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"eth1","HardwareAddr":"ce:62:c7:72:1a:cf","IPs":["10.10.10.2","fe80::cc62:c7ff:fe72:1acf"],"Netmasks":[24,64],"DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"eth2","HardwareAddr":"ea:e4:9b:3f:8c:9b","IPs":["10.0.2.2","fe80::e8e4:9bff:fe3f:8c9b"],"Netmasks":[24,64],"DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"any","DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"bluetooth-monitor","DevID":"compromised.infra.real.spread.blankcanvas"}
-{"TimeStamp":"1748015511","Name":"nflog","DevID":"compromised.infra.real.spread.blankcanvas"}
+{"TimeStamp":"1756343974", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"nfqueue", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"eth0", "HardwareAddr":"42:5d:7b:c3:5d:16", "IPs":["172.30.0.88", "fe80::405d:7bff:fec3:14"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"eth2", "HardwareAddr":"b6:c0:7c:79:87:b6", "IPs":["10.0.2.182", "fe80::b4c0:7cff:fe79:126"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"any", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"nflog", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"dbus-system", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"dbus-session", "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756343974", "Name":"eth1", "HardwareAddr":"f6:f0:55:19:bf:91", "IPs":["10.10.10.195", "fe80::f4f0:55ff:fe19:68"], "DevID":"compromised.infra.real.spread.blankcanvas", "Action":"Added"}

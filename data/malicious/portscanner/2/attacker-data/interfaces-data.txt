@@ -1,40 +1,10 @@
-{"TimeStamp":"1747859229","Name":"eth1","HardwareAddr":"42:2f:2c:b0:67:65","IPs":["10.10.10.1","fe80::402f:2cff:feb0:6765"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"any","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"nflog","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"dbus-system","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"dbus-session","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"eth0","HardwareAddr":"6e:35:b8:bd:02:f7","IPs":["172.30.0.11","fe80::6c35:b8ff:febd:2f7"],"Netmasks":[16,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"eth2","HardwareAddr":"9e:dd:4d:bf:d4:3a","IPs":["10.0.1.2","fe80::9cdd:4dff:febf:d43a"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"bluetooth-monitor","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859229","Name":"nfqueue","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"eth2","HardwareAddr":"9e:dd:4d:bf:d4:3a","IPs":["10.0.1.2","fe80::9cdd:4dff:febf:d43a"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"any","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"nflog","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"dbus-session","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"eth0","HardwareAddr":"6e:35:b8:bd:02:f7","IPs":["172.30.0.11","fe80::6c35:b8ff:febd:2f7"],"Netmasks":[16,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"eth1","HardwareAddr":"42:2f:2c:b0:67:65","IPs":["10.10.10.1","fe80::402f:2cff:feb0:6765"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"bluetooth-monitor","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"nfqueue","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747859829","Name":"dbus-system","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"any","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"bluetooth-monitor","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"dbus-session","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"eth0","HardwareAddr":"6e:35:b8:bd:02:f7","IPs":["172.30.0.11","fe80::6c35:b8ff:febd:2f7"],"Netmasks":[16,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"eth1","HardwareAddr":"42:2f:2c:b0:67:65","IPs":["10.10.10.1","fe80::402f:2cff:feb0:6765"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"eth2","HardwareAddr":"9e:dd:4d:bf:d4:3a","IPs":["10.0.1.2","fe80::9cdd:4dff:febf:d43a"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"nflog","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"nfqueue","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747860429","Name":"dbus-system","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"nfqueue","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"dbus-session","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"eth0","HardwareAddr":"6e:35:b8:bd:02:f7","IPs":["172.30.0.11","fe80::6c35:b8ff:febd:2f7"],"Netmasks":[16,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"eth2","HardwareAddr":"9e:dd:4d:bf:d4:3a","IPs":["10.0.1.2","fe80::9cdd:4dff:febf:d43a"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"nflog","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"bluetooth-monitor","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"dbus-system","DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"eth1","HardwareAddr":"42:2f:2c:b0:67:65","IPs":["10.10.10.1","fe80::402f:2cff:feb0:6765"],"Netmasks":[24,64],"DevID":"attacker.infra.real.portscanner.blankcanvas"}
-{"TimeStamp":"1747861029","Name":"any","DevID":"attacker.infra.real.portscanner.blankcanvas"}
+{"TimeStamp":"1756365556", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"eth0", "HardwareAddr":"12:94:3d:7f:ca:b8", "IPs":["172.30.0.10", "fe80::1094:3dff:fe7f:208"], "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"nfqueue", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"dbus-system", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"eth1", "HardwareAddr":"ba:73:76:b0:92:9e", "IPs":["10.10.10.241", "fe80::b873:76ff:feb0:18"], "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"eth2", "HardwareAddr":"96:1b:c8:15:fd:35", "IPs":["10.0.1.202", "fe80::941b:c8ff:fe15:10"], "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"any", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"nflog", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756365556", "Name":"dbus-session", "DevID":"attacker.infra.real.portscanner.blankcanvas", "Action":"Added"}

@@ -1,20 +1,10 @@
-{"TimeStamp":"1747983978","Name":"eth0","HardwareAddr":"16:8c:09:8f:10:f7","IPs":["172.30.0.12","fe80::148c:9ff:fe8f:10f7"],"Netmasks":[16,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"eth2","HardwareAddr":"c2:71:92:89:a1:a4","IPs":["10.0.2.2","fe80::c071:92ff:fe89:a1a4"],"Netmasks":[24,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"any","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"bluetooth-monitor","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"nflog","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"nfqueue","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"dbus-session","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"eth1","HardwareAddr":"9a:6a:34:50:75:85","IPs":["10.10.10.2","fe80::986a:34ff:fe50:7585"],"Netmasks":[24,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747983978","Name":"dbus-system","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"eth0","HardwareAddr":"16:8c:09:8f:10:f7","IPs":["172.30.0.12","fe80::148c:9ff:fe8f:10f7"],"Netmasks":[16,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"eth1","HardwareAddr":"9a:6a:34:50:75:85","IPs":["10.10.10.2","fe80::986a:34ff:fe50:7585"],"Netmasks":[24,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"bluetooth-monitor","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"nfqueue","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"eth2","HardwareAddr":"c2:71:92:89:a1:a4","IPs":["10.0.2.2","fe80::c071:92ff:fe89:a1a4"],"Netmasks":[24,64],"DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"any","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"nflog","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"dbus-system","DevID":"compromised.infra.real.ransomware.blankcanvas"}
-{"TimeStamp":"1747984578","Name":"dbus-session","DevID":"compromised.infra.real.ransomware.blankcanvas"}
+{"TimeStamp":"1756335738", "Name":"eth0", "HardwareAddr":"ee:19:77:95:f5:01", "IPs":["172.30.0.88", "fe80::ec19:77ff:fe95:95"], "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"eth1", "HardwareAddr":"3e:d4:df:89:67:f7", "IPs":["10.10.10.195", "fe80::3cd4:dfff:fe89:26"], "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"any", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"dbus-system", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"eth2", "HardwareAddr":"0e:96:94:1e:d4:46", "IPs":["10.0.2.182", "fe80::c96:94ff:fe1e:236"], "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"nflog", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"nfqueue", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756335738", "Name":"dbus-session", "DevID":"compromised.infra.real.ransomware.blankcanvas", "Action":"Added"}

@@ -1,638 +1,719 @@
-{"TimeStamp":"1754707772","Load":[19.801980198020026],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707778","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707786","Load":[4.040404040401257],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707792","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707803","Load":[1.980198019799751],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707810","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707816","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707823","Load":[3.999999999989086],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707831","Load":[1.010101010077347],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707837","Load":[14.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707844","Load":[4.040404040393833],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707850","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707857","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707863","Load":[10.1010101010217],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707870","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707877","Load":[10.000000000013642],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707883","Load":[14.851485148498133],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707890","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707896","Load":[15.15151515149984],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707903","Load":[14.285714285727543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707909","Load":[23.23232323233019],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707916","Load":[99.99999999985936],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707922","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707929","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707935","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707941","Load":[99.99999999997749],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707948","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707955","Load":[16.326530612283722],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707961","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707968","Load":[2.999999999974534],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707974","Load":[13.999999999961801],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707982","Load":[4.000000000011823],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707988","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707995","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708001","Load":[15.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708009","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708015","Load":[2.9999999999972715],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708022","Load":[1.960784313700576],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708028","Load":[14.141414141453348],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708035","Load":[5.050505050524538],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708042","Load":[0.9900990099016589],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708048","Load":[25.252525252553788],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708054","Load":[4.04040404044719],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708061","Load":[11.111111111100904],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708067","Load":[9.09090909087986],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708074","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708081","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708087","Load":[8.08080808082548],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708094","Load":[14.999999999986358],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708101","Load":[10.1010101010217],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708108","Load":[15.841584158398009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708114","Load":[2.9411764705790566],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708121","Load":[3.0303030302953746],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708127","Load":[12.000000000011823],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708134","Load":[1.0101010100984582],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708140","Load":[3.0612244897656145],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708146","Load":[2.040816326529665],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708153","Load":[1.0101010100984582],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708160","Load":[8.999999999991815],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708166","Load":[3.0303030303009426],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708173","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708179","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708185","Load":[9.090909090925795],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708192","Load":[2.999999999974534],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708198","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708205","Load":[12.000000000033651],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708211","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708217","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708224","Load":[19.99999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708230","Load":[9.183673469406695],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708236","Load":[9.000000000008185],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708242","Load":[16.000000000008185],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708249","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708256","Load":[22.22222222220691],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708262","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708269","Load":[3.061224489788816],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708276","Load":[3.0303030303009426],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708282","Load":[0.9999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708289","Load":[15.151515151481746],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708296","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708303","Load":[6.060606060635988],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708309","Load":[0.9999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708316","Load":[3.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708322","Load":[10.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708329","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708335","Load":[23.232323232310474],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708342","Load":[3.0303030302953746],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708348","Load":[13.131313131327053],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708355","Load":[14.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708362","Load":[3.0303030303009426],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708368","Load":[9.090909090902827],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708375","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708381","Load":[15.841584158420522],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708388","Load":[2.0202020202006286],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708394","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708401","Load":[14.851485148475621],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708407","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708414","Load":[4.950495049530806],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708420","Load":[7.070707070679232],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708426","Load":[3.9999999999809006],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708433","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708439","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708445","Load":[3.030303030329477],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708452","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708458","Load":[2.9411764705843018],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708464","Load":[15.151515151504713],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708470","Load":[3.9603960396445275],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708477","Load":[1.980198019799751],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708483","Load":[13.265306122442825],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708490","Load":[4.9999999999954525],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708496","Load":[13.000000000010914],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708502","Load":[11.340206185587792],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708509","Load":[11.111111111103455],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708515","Load":[15.000000000036378],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708522","Load":[2.9411764705843018],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708529","Load":[3.0303030302953746],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708535","Load":[10.204081632629386],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708542","Load":[2.9411764705843018],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708549","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708555","Load":[3.061224489794498],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708562","Load":[99.99999999989173],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708568","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708575","Load":[99.99999999990624],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708581","Load":[99.99999999983923],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708587","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708594","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708600","Load":[10.101010100984583],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708607","Load":[0.9900990098998755],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708613","Load":[15.151515151481746],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708619","Load":[4.000000000019099],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708626","Load":[14.141414141404399],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708632","Load":[8.999999999991815],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708638","Load":[4.040404040401257],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708645","Load":[6.930693069299129],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708651","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708658","Load":[3.0303030303009426],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708664","Load":[5.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708670","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708677","Load":[3.0000000000027285],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708684","Load":[4.040404040424224],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708690","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708697","Load":[7.142857142830628],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708704","Load":[3.0612244897769787],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708710","Load":[14.851485148475621],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708716","Load":[8.999999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708722","Load":[4.000000000019099],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708729","Load":[15.000000000036378],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708735","Load":[15.151515151527677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708742","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708749","Load":[9.090909090925795],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708755","Load":[0.9999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708761","Load":[15.30612244896728],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708768","Load":[11.999999999989996],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708774","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708781","Load":[17.171717171696756],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708787","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708794","Load":[5.0000000000045475],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708801","Load":[5.940594059399254],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708807","Load":[13.725490196082365],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708814","Load":[6.9999999999936335],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708820","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708827","Load":[13.131313131302925],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708833","Load":[4.999999999986358],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708840","Load":[15.841584158443034],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708846","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708852","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708858","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708865","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708871","Load":[10.10101010100314],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708878","Load":[4.040404040393833],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708885","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708891","Load":[15.30612244897249],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708897","Load":[3.000000000020009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708903","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708910","Load":[14.999999999986358],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708916","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708923","Load":[1.980198019799751],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708929","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708936","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708942","Load":[20.202020202089336],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708949","Load":[9.09090909091953],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708955","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708961","Load":[14.141414141404399],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708968","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708975","Load":[4.950495049512975],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708981","Load":[5.999999999994543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708988","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708994","Load":[16.000000000060027],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709001","Load":[6.862745098042275],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709008","Load":[15.151515151504713],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709014","Load":[9.090909090925795],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709022","Load":[3.0303030303009426],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709029","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709035","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709042","Load":[9.09090909087986],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709048","Load":[11.881188118819905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709055","Load":[14.141414141430381],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709061","Load":[8.08080808082548],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709068","Load":[2.040816326533453],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709074","Load":[4.040404040431647],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709080","Load":[1.0101010101003143],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709087","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709093","Load":[11.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709099","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709106","Load":[15.30612244899569],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709112","Load":[9.090909090925795],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709118","Load":[1.0101010101003143],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709125","Load":[15.841584158398009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709132","Load":[10.204081632629386],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709138","Load":[14.999999999986358],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709145","Load":[8.910891089076369],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709151","Load":[2.0618556701064756],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709158","Load":[5.050505050515258],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709164","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709170","Load":[3.960396039599502],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709177","Load":[3.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709184","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709190","Load":[14.999999999981812],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709196","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709203","Load":[16.32653061220702],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709209","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709215","Load":[99.99999999990624],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709221","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709228","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709235","Load":[99.99999999985936],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709241","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709248","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709255","Load":[1.999999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709261","Load":[7.070707070679232],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709269","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709276","Load":[5.050505050478604],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709282","Load":[0.9999999999763531],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709289","Load":[15.151515151527677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709295","Load":[12.99999999996544],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709301","Load":[14.851485148520647],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709309","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709315","Load":[10.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709322","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709328","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709334","Load":[16.831683168275376],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709341","Load":[11.881188118819905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709348","Load":[14.000000000032742],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709354","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709361","Load":[11.111111111080488],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709367","Load":[6.06060606061302],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709373","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709379","Load":[2.0202020202006286],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709386","Load":[4.950495049521891],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709393","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709399","Load":[22.000000000025466],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709406","Load":[4.000000000041837],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709412","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709419","Load":[16.16161616157533],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709425","Load":[4.040404040401257],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709432","Load":[14.99999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709438","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709444","Load":[3.9603960395923696],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709451","Load":[16.000000000030923],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709457","Load":[9.374999999994078],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709464","Load":[3.999999999989086],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709470","Load":[4.950495049467951],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709476","Load":[0.9999999999781721],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709483","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709489","Load":[3.0612244898120173],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709496","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709503","Load":[20.999999999919964],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709509","Load":[3.0612244897769787],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709517","Load":[5.000000000027285],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709523","Load":[1.010101010123281],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709529","Load":[13.000000000010914],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709536","Load":[4.999999999972715],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709542","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709548","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709555","Load":[4.000000000049113],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709562","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709568","Load":[9.090909090909092],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709575","Load":[5.882352941179094],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709582","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709588","Load":[8.080808080787666],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709594","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709603","Load":[2.999999999979991],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709609","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709616","Load":[4.99999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709623","Load":[4.0404040404086805],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709629","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709635","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709642","Load":[24.000000000023647],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709648","Load":[4.950495049476866],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709654","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709661","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709668","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709674","Load":[14.000000000007276],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709681","Load":[9.900990098998756],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709688","Load":[3.0612244898120173],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709694","Load":[4.950495049521891],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709701","Load":[10.999999999967258],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709707","Load":[25],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709713","Load":[4.950495049530806],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709720","Load":[10.00000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709727","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709733","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709741","Load":[9.090909090925795],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709748","Load":[6.060606060590749],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709754","Load":[8.16326530611866],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709760","Load":[3.960396039599502],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709767","Load":[9.183673469406695],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709774","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709780","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709786","Load":[14.851485148547393],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709793","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709799","Load":[3.000000000025466],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709806","Load":[4.99999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709812","Load":[2.9702970297221394],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709818","Load":[16.831683168275376],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709825","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709831","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709838","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709844","Load":[3.0303030303698435],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709851","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709857","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709864","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709871","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709877","Load":[99.99999999990527],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709883","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709890","Load":[5.00000000001819],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709896","Load":[4.000000000034561],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709903","Load":[8.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709909","Load":[4.950495049521891],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709916","Load":[22.000000000065484],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709922","Load":[15.841584158443034],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709929","Load":[4.000000000041837],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709935","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709941","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709948","Load":[16.16161616165096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709955","Load":[2.0408163265258774],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709961","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709967","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709974","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709981","Load":[11.999999999989086],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709988","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709994","Load":[17.000000000007276],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710001","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710008","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710014","Load":[12.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710020","Load":[2.0202020202006286],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710026","Load":[15.686274509810916],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710033","Load":[16.32653061223732],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710039","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710046","Load":[17.171717171728307],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710052","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710059","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710065","Load":[4.99999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710072","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710078","Load":[17.346938775493157],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710085","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710091","Load":[1.999999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710098","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710104","Load":[4.0404040404086805],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710111","Load":[14.851485148475621],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710117","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710123","Load":[4.040404040401257],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710130","Load":[4.040404040439767],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710136","Load":[5.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710143","Load":[16.8316831683204],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710149","Load":[2.040816326529665],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710156","Load":[1.980198019799751],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710163","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710170","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710177","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710183","Load":[0.990099009922388],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710189","Load":[15.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710196","Load":[3.9603960396066356],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710202","Load":[14.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710209","Load":[15.151515151527677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710215","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710222","Load":[5.050505050478604],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710228","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710234","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710241","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710248","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710255","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710261","Load":[1.0101010101214252],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710267","Load":[13.265306122441404],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710274","Load":[8.000000000023647],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710281","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710288","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710294","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710300","Load":[4.04040404044719],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710308","Load":[10.00000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710315","Load":[13.131313131327053],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710321","Load":[1.010101010123281],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710327","Load":[4.040404040401257],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710334","Load":[3.0303030302779757],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710340","Load":[1.010101010077347],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710347","Load":[19.99999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710354","Load":[2.0202020201969164],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710360","Load":[2.970297029767164],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710366","Load":[15.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710373","Load":[3.0303030302724077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710379","Load":[11.000000000058208],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710385","Load":[8.910891089092416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710392","Load":[4.000000000049113],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710398","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710405","Load":[0.9999999999745341],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710411","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710418","Load":[4.950495049521891],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710424","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710430","Load":[11.999999999943611],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710437","Load":[3.9603960396445275],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710444","Load":[14.851485148520647],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710450","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710457","Load":[3.000000000020009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710464","Load":[9.090909090942498],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710470","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710476","Load":[8.999999999969077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710483","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710490","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710496","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710503","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710509","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710516","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710522","Load":[99.9999999999554],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710529","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710536","Load":[16.83168316835071],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710542","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710548","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710555","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710561","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710568","Load":[15.151515151527677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710575","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710581","Load":[0.9999999999763531],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710587","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710594","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710601","Load":[3.960396039599502],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710608","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710614","Load":[15.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710621","Load":[3.960396039599502],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710627","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710634","Load":[7.070707070725166],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710640","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710647","Load":[10.891089108921143],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710653","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710659","Load":[1.999999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710666","Load":[3.0303030303239096],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710672","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710679","Load":[15.151515151527677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710686","Load":[6.000000000040018],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710692","Load":[1.010101010123281],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710699","Load":[7.070707070679232],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710705","Load":[2.040816326529665],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710712","Load":[12.871287128699052],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710718","Load":[1.0101010100754912],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710725","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710731","Load":[2.0408163265258774],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710737","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710743","Load":[9.999999999972715],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710750","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710758","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710764","Load":[8.080808080802514],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710771","Load":[4.000000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710777","Load":[10.89108910894076],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710784","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710790","Load":[14.999999999990903],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710797","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710804","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710810","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710816","Load":[4.950495049521891],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710823","Load":[13.131313131351178],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710829","Load":[8.999999999969077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710835","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710842","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710849","Load":[2.9411764706065933],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710855","Load":[15.151515151453907],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710861","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710868","Load":[14.851485148592419],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710875","Load":[9.090909090863157],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710881","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710888","Load":[4.0404040404086805],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710894","Load":[1.010101010079203],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710900","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710906","Load":[11.000000000007276],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710913","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710920","Load":[14.141414141378414],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710928","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710934","Load":[11.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710941","Load":[1.020408163288034],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710947","Load":[3.030303030329477],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710954","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710961","Load":[9.090909090909092],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710967","Load":[22.22222222224774],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710974","Load":[2.999999999974534],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710980","Load":[20.408163265343056],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710987","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710994","Load":[9.090909090863157],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711000","Load":[2.99999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711007","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711014","Load":[18.811881188131295],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711020","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711027","Load":[19.000000000005457],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711033","Load":[7.999999999992724],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711040","Load":[4.950495049512975],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711046","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711053","Load":[1.999999999998181],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711060","Load":[22.22222222216608],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711066","Load":[4.950495049512975],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711072","Load":[14.141414141476316],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711079","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711085","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711092","Load":[13.265306122416781],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711099","Load":[2.0202020201969164],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711105","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711112","Load":[10.101010100984583],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711119","Load":[21.99999999997999],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711125","Load":[9.90099009902595],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711132","Load":[4.000000000010914],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711140","Load":[5.999999999994543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711146","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711153","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711159","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711166","Load":[99.99999999975812],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711172","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711178","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711185","Load":[3.000000000020009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711191","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711197","Load":[9.000000000014552],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711204","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711211","Load":[3.0303030302724077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711217","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711224","Load":[17.821782178165666],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711230","Load":[3.0303030302724077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711237","Load":[9.900990099061612],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711244","Load":[8.910891089137442],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711250","Load":[3.061224489817699],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711256","Load":[15.841584158369479],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711263","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711270","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711277","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711283","Load":[0.9900990098755802],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711289","Load":[22.22222222224774],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711296","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711303","Load":[13.999999999987267],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711309","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711316","Load":[2.040816326529665],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711322","Load":[4.000000000010914],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711329","Load":[8.999999999969077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711336","Load":[14.99999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711342","Load":[9.090909090942498],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711348","Load":[2.0202020202428503],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711355","Load":[8.080808080817361],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711362","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711369","Load":[3.0303030302724077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711375","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711382","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711390","Load":[3.0303030303183416],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711396","Load":[10.891089108901529],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711403","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711409","Load":[11.111111111106007],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711416","Load":[11.999999999943611],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711422","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711428","Load":[15.000000000063665],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711434","Load":[11.881188118819905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711441","Load":[13.131313131351178],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711448","Load":[11.000000000007276],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711454","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711460","Load":[13.999999999936335],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711466","Load":[8.080808080787666],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711473","Load":[4.950495049485781],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711479","Load":[10.1010101010217],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711486","Load":[8.080808080863294],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711492","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711499","Load":[4.950495049530806],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711505","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711512","Load":[7.142857142830628],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711519","Load":[4.950495049530806],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711525","Load":[3.0303030302724077],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711532","Load":[1.9801980197511604],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711538","Load":[17.99999999998363],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711544","Load":[3.030303030329477],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711550","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711557","Load":[4.950495049485781],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711564","Load":[3.9603960396066356],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711571","Load":[15.00000000001819],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711578","Load":[9.900990098980925],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711584","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711590","Load":[3.999999999996362],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711597","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711603","Load":[3.061224489817699],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711610","Load":[11.111111111146837],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711617","Load":[13.999999999936335],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711624","Load":[9.999999999990905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711631","Load":[5.8823529411686035],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711637","Load":[2.040816326576068],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711644","Load":[1.0000000000218279],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711651","Load":[15.999999999985448],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711657","Load":[6.000000000016371],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711665","Load":[3.000000000020009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711671","Load":[2.00000000003638],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711678","Load":[11.881188118819905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711684","Load":[3.000000000020009],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711691","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711697","Load":[15.00000000005457],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711703","Load":[3.030303030283543],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711710","Load":[13.131313131302925],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711717","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711723","Load":[4.000000000041837],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711730","Load":[1.9999999999909048],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711736","Load":[8.000000000038199],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711743","Load":[15.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711749","Load":[4.901960784311977],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711756","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711762","Load":[14.28571428570103],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711769","Load":[4.950495049485781],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711775","Load":[11.999999999943611],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711782","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711788","Load":[32.35294117649419],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711794","Load":[99.99999999981627],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711801","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711807","Load":[99.99999999981627],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711815","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711822","Load":[100],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711828","Load":[99.9999999999511],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711834","Load":[15.30612244899569],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711841","Load":[3.030303030329477],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711847","Load":[14.85148514850237],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711854","Load":[0.9900990098755802],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711860","Load":[11.881188118819905],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711867","Load":[4.0404040404086805],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711874","Load":[0],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711880","Load":[17.000000000007276],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711887","Load":[3.000000000009095],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711893","Load":[1.0101010101214252],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711899","Load":[7.000000000061846],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711906","Load":[9.090909090942498],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711913","Load":[8.000000000038199],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711919","Load":[1.980198019758293],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711926","Load":[11.000000000012733],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711932","Load":[4.040404040393833],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711938","Load":[19.607843137228677],"DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424579", "Load":[18.000000000029104], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424585", "Load":[13.131313131351178], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424591", "Load":[23.23232323228426], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424597", "Load":[18.999999999970896], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424603", "Load":[4.950495049530806], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424609", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424615", "Load":[15.151515151481746], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424621", "Load":[3.9603960396066356], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424627", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424633", "Load":[15.841584158414504], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424640", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424646", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424652", "Load":[22.77227722767463], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424658", "Load":[4.00000000007276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424664", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424670", "Load":[3.9999999999581632], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424676", "Load":[14.851485148475621], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424682", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424688", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424694", "Load":[14.999999999981812], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424700", "Load":[9.000000000014552], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424706", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424713", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424719", "Load":[11.764705882337207], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424725", "Load":[5.00000000001819], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424731", "Load":[15.15151515149984], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424737", "Load":[8.080808080787666], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424743", "Load":[10.204081632694729], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424749", "Load":[15.841584158426542], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424755", "Load":[34.00000000001455], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424761", "Load":[16.16161616160503], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424768", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424774", "Load":[29.000000000049113], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424780", "Load":[10.10101010100314], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424786", "Load":[4.000000000041837], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424792", "Load":[8.999999999969077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424798", "Load":[99.99999999986079], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424804", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424810", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424816", "Load":[99.99999999990324], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424822", "Load":[99.99999999995163], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424828", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424834", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424841", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424847", "Load":[99.99999999995262], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424853", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424859", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424865", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424871", "Load":[99.99999999995312], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424877", "Load":[99.99999999985936], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424883", "Load":[12.12121212120377], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424889", "Load":[13.131313131256988], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424895", "Load":[24.24242424240754], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424901", "Load":[11.88118811877711], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424907", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424913", "Load":[4.950495049521891], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424919", "Load":[4.0000000000873115], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424926", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424932", "Load":[2.0202020202006286], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424938", "Load":[14.99999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424944", "Load":[9.090909090925795], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424950", "Load":[4.950495049530806], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424956", "Load":[15.30612244899569], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424962", "Load":[9.999999999990905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424968", "Load":[3.960396039599502], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424974", "Load":[15.151515151527677], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424981", "Load":[10.00000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424987", "Load":[7.000000000016371], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424993", "Load":[16.000000000030923], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424999", "Load":[8.080808080802514], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425005", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425011", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425017", "Load":[15.151515151527677], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425023", "Load":[3.9603960395616102], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425029", "Load":[7.000000000016371], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425035", "Load":[31.999999999970896], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425041", "Load":[19.801980197997512], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425048", "Load":[14.000000000012733], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425054", "Load":[23.00000000000182], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425060", "Load":[11.000000000012733], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425066", "Load":[11.999999999967258], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425072", "Load":[12.244897959154317], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425078", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425084", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425090", "Load":[3.9603960395923696], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425096", "Load":[10.00000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425102", "Load":[7.999999999992724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425108", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425114", "Load":[15.00000000001819], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425120", "Load":[9.090909090925795], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425127", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425133", "Load":[12.121212121181498], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425139", "Load":[26.26262626261049], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425145", "Load":[18.181818181805653], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425151", "Load":[23.999999999978172], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425157", "Load":[7.142857142863772], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425163", "Load":[3.960396039599502], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425169", "Load":[6.060606060647819], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425175", "Load":[12.87128712867587], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425181", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425187", "Load":[12.00000000003456], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425193", "Load":[26.000000000021828], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425199", "Load":[19.60784313727326], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425206", "Load":[21.999999999934516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425212", "Load":[9.090909090896563], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425218", "Load":[4.000000000034561], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425224", "Load":[7.000000000016371], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425230", "Load":[14.141414141384448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425236", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425242", "Load":[7.070707070725166], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425248", "Load":[19.8019801980782], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425254", "Load":[3.030303030364276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425261", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425267", "Load":[17.000000000007276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425273", "Load":[4.901960784293619], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425279", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425285", "Load":[18.18181818183906], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425291", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425297", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425303", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425309", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425315", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425321", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425327", "Load":[4.040404040401257], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425333", "Load":[1.9801980198033178], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425339", "Load":[4.040404040439767], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425345", "Load":[13.131313131351178], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425352", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425358", "Load":[10.204081632694729], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425364", "Load":[23.000000000047294], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425370", "Load":[25], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425376", "Load":[18.811881188086268], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425382", "Load":[26.26262626260817], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425388", "Load":[12.745098039220931], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425394", "Load":[2.040816326529665], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425400", "Load":[10.891089108921143], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425406", "Load":[13.131313131302925], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425412", "Load":[4.950495049485781], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425418", "Load":[2.0000000000436557], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425424", "Load":[17.171717171728307], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425431", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425437", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425443", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425449", "Load":[2.999999999979991], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425455", "Load":[0.9999999999745341], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425461", "Load":[24.000000000067303], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425467", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425473", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425479", "Load":[3.030303030364276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425485", "Load":[99.99999999995498], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425491", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425497", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425503", "Load":[99.99999999981627], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425510", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425516", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425522", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425528", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425534", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425540", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425546", "Load":[99.9999999998622], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425552", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425558", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425564", "Load":[85.71428571433874], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425570", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425576", "Load":[4.950495049521891], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425582", "Load":[26.732673267367304], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425588", "Load":[15.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425594", "Load":[13.999999999961801], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425600", "Load":[56.999999999970896], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425607", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425613", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425619", "Load":[27.722772277241543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425625", "Load":[11.881188118753483], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425632", "Load":[8.000000000007276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425638", "Load":[27.551020408220083], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425644", "Load":[14.851485148520647], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425650", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425656", "Load":[21.999999999939973], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425662", "Load":[5.050505050524538], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425668", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425674", "Load":[8.080808080802514], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425680", "Load":[5.000000000027285], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425686", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425692", "Load":[11.111111111172356], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425699", "Load":[13.13131313125931], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425705", "Load":[15.151515151573614], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425711", "Load":[19.000000000040018], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425717", "Load":[26.26262626260817], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425723", "Load":[14.000000000012733], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425729", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425735", "Load":[15.00000000005457], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425741", "Load":[9.090909090925795], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425747", "Load":[5.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425753", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425759", "Load":[19.99999999998181], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425765", "Load":[2.999999999979991], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425771", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425778", "Load":[20.408163265296654], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425784", "Load":[3.960396039599502], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425790", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425796", "Load":[18.999999999994543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425802", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425808", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425814", "Load":[3.999999999989086], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425820", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425826", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425832", "Load":[6.000000000029104], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425838", "Load":[12.12121212120377], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425844", "Load":[23.46938775511435], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425850", "Load":[17.346938775525356], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425857", "Load":[24.242424242453474], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425863", "Load":[12.00000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425869", "Load":[9.183673469406695], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425875", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425881", "Load":[0.9999999999781721], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425887", "Load":[2.0408163265258774], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425893", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425899", "Load":[9.090909090925795], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425905", "Load":[20.000000000027285], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425911", "Load":[25.999999999976353], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425917", "Load":[18.181818181772247], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425923", "Load":[14.285714285681141], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425929", "Load":[24.752475247519403], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425935", "Load":[9.900990099043781], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425941", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425948", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425954", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425960", "Load":[4.0404040404086805], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425966", "Load":[16.999999999976353], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425972", "Load":[8.999999999969077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425978", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425984", "Load":[15.841584158369479], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425990", "Load":[12.999999999987267], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425996", "Load":[11.111111111126421], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426002", "Load":[16.161616161621264], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426008", "Load":[26.262626262559913], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426014", "Load":[19.80198019798815], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426020", "Load":[7.0707070706662405], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426026", "Load":[18.000000000029104], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426033", "Load":[7.000000000016371], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426039", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426045", "Load":[19.1919191919642], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426051", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426057", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426063", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426069", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426075", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426081", "Load":[4.950495049512975], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426087", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426093", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426099", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426105", "Load":[14.141414141430381], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426112", "Load":[8.080808080787666], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426118", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426124", "Load":[14.141414141424349], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426130", "Load":[16.16161616160503], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426136", "Load":[12.12121212122604], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426142", "Load":[21.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426148", "Load":[17.000000000007276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426154", "Load":[10.101010101030516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426160", "Load":[22.22222222216608], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426167", "Load":[48.97959183675837], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426173", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426179", "Load":[99.9999999998622], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426185", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426191", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426197", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426203", "Load":[99.99999999990527], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426209", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426215", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426221", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426227", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426234", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426240", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426246", "Load":[98.96907216483342], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426252", "Load":[78.12499999977499], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426258", "Load":[11.881188118819905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426264", "Load":[3.000000000025466], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426270", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426276", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426282", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426288", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426294", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426300", "Load":[7.999999999992724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426306", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426312", "Load":[14.000000000032742], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426319", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426325", "Load":[1.9999999999563443], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426331", "Load":[21.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426337", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426343", "Load":[16.16161616160503], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426349", "Load":[3.000000000020009], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426355", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426361", "Load":[7.000000000016371], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426367", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426373", "Load":[5.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426379", "Load":[3.000000000020009], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426386", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426392", "Load":[19.191919191928935], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426398", "Load":[4.901960784329461], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426404", "Load":[10.999999999967258], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426410", "Load":[10.101010101030516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426416", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426422", "Load":[4.04040404044719], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426428", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426434", "Load":[4.950495049440757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426440", "Load":[4.040404040401257], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426446", "Load":[0.9999999999781721], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426453", "Load":[17.34693877553956], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426459", "Load":[3.9603960396066356], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426465", "Load":[2.020202020246562], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426471", "Load":[27.72277227729147], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426477", "Load":[6.930693069334123], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426483", "Load":[21.782178217797263], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426489", "Load":[3.9999999999508873], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426495", "Load":[5.940594059409952], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426501", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426507", "Load":[8.080808080787666], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426513", "Load":[20.00000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426519", "Load":[12.12121212120377], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426526", "Load":[11.999999999967258], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426532", "Load":[35.64356435654977], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426538", "Load":[16.32653061220702], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426544", "Load":[21.212121212129563], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426550", "Load":[15.151515151527677], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426556", "Load":[7.070707070725166], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426562", "Load":[5.050505050478604], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426568", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426575", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426581", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426587", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426593", "Load":[21.78217821775224], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426599", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426605", "Load":[11.224489795889959], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426611", "Load":[10.999999999921783], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426617", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426623", "Load":[14.999999999981812], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426629", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426635", "Load":[3.999999999989086], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426641", "Load":[9.99999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426647", "Load":[2.9702970297167894], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426654", "Load":[12.12121212122604], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426660", "Load":[6.060606060555951], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426666", "Load":[10.784313725517295], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426672", "Load":[20.792079207957347], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426678", "Load":[22.549019607879853], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426684", "Load":[8.910891089105345], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426690", "Load":[2.0618556701026094], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426696", "Load":[17.000000000007276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426702", "Load":[12.745098039265516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426708", "Load":[4.040404040401257], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426714", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426720", "Load":[9.999999999990905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426727", "Load":[12.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426733", "Load":[19.80198019804254], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426739", "Load":[20.40816326525877], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426745", "Load":[14.999999999981812], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426751", "Load":[21.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426758", "Load":[13.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426764", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426770", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426776", "Load":[26.26262626260817], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426782", "Load":[6.999999999970896], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426788", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426794", "Load":[18.999999999959982], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426800", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426806", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426812", "Load":[20.000000000027285], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426818", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426824", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426831", "Load":[3.000000000014552], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426837", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426843", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426849", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426855", "Load":[4.040404040401257], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426861", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426867", "Load":[99.9999999998199], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426873", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426879", "Load":[99.99999999986079], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426886", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426892", "Load":[99.9999999999511], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426898", "Load":[99.99999999995212], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426904", "Load":[99.9999999999072], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426910", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426916", "Load":[99.99999999995498], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426922", "Load":[99.99999999995212], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426928", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426934", "Load":[99.99999999995627], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426940", "Load":[99.99999999990813], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426946", "Load":[98.07692307688272], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426952", "Load":[0.9900990098773633], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426958", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426964", "Load":[4.99999999992724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426970", "Load":[3.960396039637394], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426976", "Load":[18.000000000029104], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426982", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426989", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426995", "Load":[7.070707070679232], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427001", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427007", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427013", "Load":[4.040404040362746], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427019", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427025", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427031", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427037", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427043", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427049", "Load":[3.0303030302779757], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427056", "Load":[8.163265306165064], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427062", "Load":[5.999999999994543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427068", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427074", "Load":[15.306122449042093], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427080", "Load":[7.843137254860874], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427086", "Load":[3.0000000000600267], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427092", "Load":[19.000000000005457], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427098", "Load":[11.111111111126421], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427104", "Load":[18.811881188109005], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427110", "Load":[30.999999999938154], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427116", "Load":[19.19191919189367], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427122", "Load":[3.0303030303239096], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427128", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427134", "Load":[23.23232323233019], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427141", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427147", "Load":[18.999999999959982], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427153", "Load":[18.99999999992542], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427159", "Load":[12.121212121249703], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427165", "Load":[9.999999999990905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427171", "Load":[10.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427177", "Load":[3.9999999999508873], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427183", "Load":[1.9801980197961848], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427189", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427195", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427202", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427208", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427214", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427220", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427226", "Load":[3.9999999999436113], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427232", "Load":[15.15151515149984], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427238", "Load":[7.999999999992724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427244", "Load":[4.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427250", "Load":[14.99999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427256", "Load":[8.16326530610351], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427262", "Load":[2.0408163264870502], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427268", "Load":[15.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427275", "Load":[8.16326530611866], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427281", "Load":[12.000000000080036], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427287", "Load":[11.00000000005275], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427293", "Load":[33.67346938780908], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427299", "Load":[17.99999999998363], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427305", "Load":[6.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427311", "Load":[26.99999999999818], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427317", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427323", "Load":[1.010101010079203], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427329", "Load":[7.142857142830628], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427335", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427341", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427347", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427353", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427359", "Load":[1.9801980197961848], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427366", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427372", "Load":[5.00000000001819], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427378", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427384", "Load":[4.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427390", "Load":[15.151515151555516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427396", "Load":[12.871287128652689], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427402", "Load":[14.141414141430381], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427408", "Load":[10.101010100984583], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427414", "Load":[27.000000000043656], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427420", "Load":[20.588235294112405], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427426", "Load":[5.999999999994543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427432", "Load":[20.202020201969166], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427438", "Load":[3.030303030329477], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427444", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427450", "Load":[15.841584158426542], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427457", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427463", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427469", "Load":[12.121212121227433], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427475", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427481", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427487", "Load":[7.000000000061846], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427493", "Load":[6.122448979588996], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427499", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427505", "Load":[4.999999999990905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427511", "Load":[4.000000000041837], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427517", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427523", "Load":[3.000000000020009], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427529", "Load":[11.22448979593636], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427536", "Load":[10.89108910894076], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427542", "Load":[2.0000000000436557], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427548", "Load":[7.070707070692224], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427554", "Load":[99.99999999986883], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427560", "Load":[99.9999999998199], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427566", "Load":[99.99999999981627], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427572", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427578", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427584", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427590", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427596", "Load":[99.99999999972715], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427603", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427609", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427615", "Load":[99.99999999991084], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427621", "Load":[99.99999999981627], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427627", "Load":[99.99999999995359], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427633", "Load":[99.9999999998622], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427639", "Load":[3.030303030329477], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427645", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427651", "Load":[4.950495049530806], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427657", "Load":[13.999999999987267], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427663", "Load":[15.30612244899569], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427669", "Load":[11.999999999989086], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427675", "Load":[23.762376237684833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427681", "Load":[12.12121212122604], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427688", "Load":[13.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427694", "Load":[22.772277227760664], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427700", "Load":[21.21212121209059], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427706", "Load":[13.8613861385782], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427712", "Load":[27.722772277191616], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427718", "Load":[21.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427724", "Load":[18.62745098043412], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427730", "Load":[28.00000000002001], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427737", "Load":[25.490196078397283], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427743", "Load":[21.21212121209059], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427749", "Load":[18.000000000049113], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427755", "Load":[32.00000000001637], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427761", "Load":[18.3673469386988], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427767", "Load":[5.999999999972715], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427773", "Load":[22.77227722767864], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427779", "Load":[11.999999999989086], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427785", "Load":[7.999999999992724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427792", "Load":[25.510204081595724], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427798", "Load":[5], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427804", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427810", "Load":[20.202020201969166], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427816", "Load":[2.040816326529665], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427822", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427828", "Load":[15.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427834", "Load":[3.9603960396066356], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427840", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427846", "Load":[8.080808080787666], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427853", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427859", "Load":[8.080808080771426], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427865", "Load":[19.8019801980519], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427871", "Load":[19.191919191939608], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427877", "Load":[5.050505050515258], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427883", "Load":[10.999999999967258], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427889", "Load":[15.999999999939973], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427895", "Load":[9.000000000014552], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427901", "Load":[3.030303030364276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427907", "Load":[15.151515151453907], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427913", "Load":[9.999999999990905], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427919", "Load":[6.06060606061302], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427925", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427932", "Load":[15.151515151453907], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427938", "Load":[4.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427944", "Load":[9.090909090909092], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427950", "Load":[21.428571428584686], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427956", "Load":[7.070707070692224], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427962", "Load":[9.090909090896563], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427968", "Load":[13.131313131351178], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427974", "Load":[11.111111111106007], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427980", "Load":[9.000000000014552], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427986", "Load":[11.224489795931625], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427993", "Load":[4.901960784284878], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427999", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428005", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428011", "Load":[2.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428017", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428023", "Load":[2.999999999985448], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428029", "Load":[3.9999999999818097], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428035", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428041", "Load":[4.0404040404086805], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428047", "Load":[8.0808080808336], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428053", "Load":[4.000000000010914], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428059", "Load":[4.000000000027285], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428066", "Load":[16.16161616157533], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428072", "Load":[9.090909090942498], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428078", "Load":[4.040404040439767], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428084", "Load":[15.000000000009095], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428090", "Load":[8.999999999969077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428096", "Load":[5.102040816300962], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428102", "Load":[16.000000000030923], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428108", "Load":[16.83168316824506], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428114", "Load":[18.000000000029104], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428120", "Load":[17.171717171759855], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428126", "Load":[21.000000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428132", "Load":[4.950495049512975], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428138", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428144", "Load":[16.83168316833511], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428150", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428157", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428163", "Load":[15.151515151509583], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428169", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428175", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428181", "Load":[16.161616161680655], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428187", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428193", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428199", "Load":[4.040404040439767], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428205", "Load":[5.940594059364928], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428212", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428218", "Load":[3.0303030302724077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428224", "Load":[14.141414141424349], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428230", "Load":[8.080808080817361], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428236", "Load":[6.000000000040018], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428242", "Load":[99.9999999997351], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428248", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428254", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428260", "Load":[99.99999999967518], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428266", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428272", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428278", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428284", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428290", "Load":[99.99999999990624], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428297", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428303", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428309", "Load":[99.99999999968168], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428315", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428321", "Load":[31.313131313236177], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428327", "Load":[12.121212121227433], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428333", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428339", "Load":[2.040816326576068], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428345", "Load":[2.040816326529665], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428351", "Load":[1.999999999998181], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428357", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428363", "Load":[4.0404040404086805], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428370", "Load":[6.930693069264135], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428376", "Load":[11.111111111100904], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428382", "Load":[4.999999999972715], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428388", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428394", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428400", "Load":[15.000000000063665], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428406", "Load":[9.090909090896563], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428412", "Load":[5.050505050487883], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428418", "Load":[16.66666666672611], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428424", "Load":[10.00000000003638], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428430", "Load":[2.99999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428436", "Load":[14.99999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428443", "Load":[8.080808080817361], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428449", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428455", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428461", "Load":[14.28571428576069], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428467", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428473", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428479", "Load":[24.7524752474298], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428485", "Load":[3.030303030364276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428491", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428497", "Load":[16.83168316835071], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428503", "Load":[3.0303030303183416], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428509", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428515", "Load":[3.061224489771296], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428522", "Load":[4.950495049530806], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428528", "Load":[9.000000000014552], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428534", "Load":[2.999999999974534], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428540", "Load":[14.141414141470282], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428546", "Load":[9.090909090942498], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428552", "Load":[4.950495049530806], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428558", "Load":[14.141414141378414], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428564", "Load":[9.000000000060027], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428570", "Load":[3.9999999999508873], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428576", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428583", "Load":[14.851485148538924], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428589", "Load":[1.999999999998181], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428595", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428601", "Load":[16.83168316835071], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428607", "Load":[5.102040816300962], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428613", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428619", "Load":[16.161616161621264], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428625", "Load":[4.999999999972715], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428631", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428637", "Load":[4.0404040404086805], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428643", "Load":[11.999999999989086], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428649", "Load":[16.9999999999618], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428655", "Load":[18.18181818183906], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428661", "Load":[12.000000000078217], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428668", "Load":[9.090909090909092], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428674", "Load":[11.000000000058208], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428680", "Load":[18.999999999959982], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428686", "Load":[9.09090909085063], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428692", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428698", "Load":[16.000000000043656], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428704", "Load":[8.16326530611866], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428710", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428716", "Load":[14.141414141378414], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428722", "Load":[8.999999999969077], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428728", "Load":[2.040816326529665], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428734", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428741", "Load":[25.999999999976353], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428747", "Load":[11.000000000058208], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428753", "Load":[8.080808080817361], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428759", "Load":[21.21212121209059], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428765", "Load":[3.999999999996362], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428771", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428777", "Load":[18.811881188041248], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428783", "Load":[3.000000000020009], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428790", "Load":[1.0000000000218279], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428796", "Load":[15.841584158369479], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428802", "Load":[2.0202020202043403], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428808", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428814", "Load":[15.151515151453907], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428820", "Load":[3.030303030364276], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428826", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428832", "Load":[3.030303030329477], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428838", "Load":[4.040404040393833], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428844", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428850", "Load":[10.101010101030516], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428856", "Load":[3.0303030303754115], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428863", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428869", "Load":[3.030303030283543], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428875", "Load":[3.96039603965166], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428882", "Load":[0.9999999999763531], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428888", "Load":[16.000000000030923], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428895", "Load":[9.090909090909092], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428901", "Load":[10.78431372545348], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428907", "Load":[16.9999999999618], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428913", "Load":[3.061224489817699], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428919", "Load":[0], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428925", "Load":[5.00000000001819], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428931", "Load":[99.99999999981051], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428937", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428943", "Load":[100], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428949", "Load":[99.99999999991255], "DevID":"nginx1.infra.real.internetscanner.blankcanvas"}

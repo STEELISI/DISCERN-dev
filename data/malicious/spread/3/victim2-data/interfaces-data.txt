@@ -1,0 +1,10 @@
+{"TimeStamp":"1756345329", "Name":"nflog", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"dbus-system", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"eth1", "HardwareAddr":"06:44:39:c1:72:94", "IPs":["10.10.10.34", "fe80::444:39ff:fec1:222"], "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"eth2", "HardwareAddr":"12:8c:4d:da:89:f9", "IPs":["10.0.4.234", "fe80::108c:4dff:feda:162"], "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"any", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"bluetooth-monitor", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"nfqueue", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"dbus-session", "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756345329", "Name":"eth0", "HardwareAddr":"e2:29:3b:3b:3f:16", "IPs":["172.30.0.225", "fe80::e029:3bff:fe3b:179"], "DevID":"victim2.infra.real.spread.blankcanvas", "Action":"Added"}

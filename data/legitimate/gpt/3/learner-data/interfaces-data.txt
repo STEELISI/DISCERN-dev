@@ -1,0 +1,11 @@
+{"TimeStamp":"1756438847", "Name":"nfqueue", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"dbus-system", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"eth0", "HardwareAddr":"8e:39:6f:64:ce:2d", "IPs":["172.30.0.88", "fe80::8c39:6fff:fe64:140"], "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"eth1", "HardwareAddr":"3a:d6:62:b4:76:14", "IPs":["10.0.1.202", "fe80::38d6:62ff:feb4:27"], "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"docker0", "HardwareAddr":"02:42:97:1a:1f:c6", "IPs":["172.17.0.50", "fe80::42:97ff:fe1a:94"], "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"bluetooth-monitor", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"nflog", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"dbus-session", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756438847", "Name":"any", "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756439447", "Name":"veth4bb0a2b", "HardwareAddr":"26:17:ce:bf:0b:44", "IPs":["fe80::2417:ceff:febf:45"], "DevID":"learner.infra.real.gpt.blankcanvas", "Action":"Added"}

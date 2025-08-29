@@ -1,20 +1,60 @@
-{"TimeStamp":"1754730687","Name":"eth1","HardwareAddr":"32:59:b8:77:aa:96","IPs":["10.1.2.116","fe80::3059:b8ff:fe77:147"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"any","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"bluetooth-monitor","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"dbus-session","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"eth0","HardwareAddr":"4e:c8:fa:35:c4:5d","IPs":["172.30.0.10","fe80::4cc8:faff:fe35:218"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"nfqueue","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"dbus-system","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"eth2","HardwareAddr":"c6:52:a8:22:69:1b","IPs":["10.0.1.202","fe80::c452:a8ff:fe22:13"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754730687","Name":"nflog","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"dbus-session","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"lo","IPs":["127.0.0.1","::153"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"eth0","HardwareAddr":"4e:c8:fa:35:c4:5d","IPs":["172.30.0.10","fe80::4cc8:faff:fe35:218"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"eth2","HardwareAddr":"c6:52:a8:22:69:1b","IPs":["10.0.1.202","fe80::c452:a8ff:fe22:13"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"any","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"nflog","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"nfqueue","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"dbus-system","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"eth1","HardwareAddr":"32:59:b8:77:aa:96","IPs":["10.1.2.116","fe80::3059:b8ff:fe77:147"],"DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
-{"TimeStamp":"1754731050","Name":"bluetooth-monitor","DevID":"attacker.infra.real.dnsmitm.blankcanvas","Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756379618", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381543", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381793", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381867", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381877", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"eth1", "HardwareAddr":"96:dc:54:9a:6a:ec", "IPs":["10.1.2.116", "fe80::94dc:54ff:fe9a:15"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"eth2", "HardwareAddr":"12:8a:f5:91:3b:c7", "IPs":["10.0.1.202", "fe80::108a:f5ff:fe91:55"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"nflog", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"dbus-session", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"dbus-system", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"eth0", "HardwareAddr":"72:89:3e:50:2f:b5", "IPs":["172.30.0.10", "fe80::7089:3eff:fe50:251"], "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"any", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"bluetooth-monitor", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756381919", "Name":"nfqueue", "DevID":"attacker.infra.real.dnsmitm.blankcanvas", "Action":"Added"}

@@ -1,647 +1,730 @@
-{"TimeStamp":"1754707795","Load":[18.181818181805653],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707802","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707808","Load":[1.980198019799751],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707814","Load":[14.141414141450332],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707821","Load":[10.101010101030516],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707828","Load":[4.901960784307169],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707835","Load":[1.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707842","Load":[29.999999999972715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707848","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707855","Load":[23.762376237662323],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707861","Load":[8.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707868","Load":[3.0612244897769787],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707875","Load":[3.000000000020009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707882","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707888","Load":[14.141414141401382],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707895","Load":[3.061224489817699],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707901","Load":[19.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707908","Load":[8.16326530612671],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707914","Load":[3.0303030302953746],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707921","Load":[6.060606060601885],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707927","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707933","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707940","Load":[12.871287128721566],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707946","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707953","Load":[21.21212121208363],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707959","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707966","Load":[16.16161616160503],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707972","Load":[16.32653061223732],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707979","Load":[2.0202020202006286],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707985","Load":[7.070707070725166],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707992","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707998","Load":[11.000000000058208],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708005","Load":[2.040816326533453],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708011","Load":[9.900990099016587],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708018","Load":[16.161616161627993],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708025","Load":[4.950495049512975],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708031","Load":[16.831683168358513],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708038","Load":[9.090909090909092],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708044","Load":[6.862745098042275],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708051","Load":[21.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708057","Load":[8.16326530611866],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708066","Load":[10.000000000013642],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708072","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708079","Load":[14.999999999986358],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708085","Load":[9.999999999972715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708092","Load":[7.000000000016371],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708099","Load":[11.111111111126421],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708105","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708112","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708118","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708124","Load":[99.99999999990324],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708130","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708137","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708144","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708150","Load":[99.99999999990527],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708157","Load":[20.000000000004547],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708164","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708171","Load":[11.111111111126421],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708177","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708184","Load":[17.171717171751276],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708191","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708198","Load":[21.21212121216854],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708204","Load":[2.9702970297167894],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708211","Load":[5.940594059411067],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708217","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708223","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708230","Load":[13.265306122419624],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708236","Load":[9.183673469377338],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708242","Load":[0.9900990098998755],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708249","Load":[16.99999999998454],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708256","Load":[12.871287128721566],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708262","Load":[15.841584158449054],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708269","Load":[15.151515151481746],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708276","Load":[11.111111111106007],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708282","Load":[4.000000000011823],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708289","Load":[8.16326530611866],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708295","Load":[16.16161616160503],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708302","Load":[4.000000000034561],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708309","Load":[15.151515151527677],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708315","Load":[8.080808080802514],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708321","Load":[6.122448979635398],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708328","Load":[17.999999999950887],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708334","Load":[10.89108910887612],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708341","Load":[5.050505050524538],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708347","Load":[4.040404040393833],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708354","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708360","Load":[6.9306930693216415],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708367","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708374","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708380","Load":[15.151515151504713],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708387","Load":[3.03030303030651],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708393","Load":[20.000000000004547],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708399","Load":[19.387755102078224],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708406","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708412","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708419","Load":[0.9999999999972715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708426","Load":[16.8316831683204],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708432","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708439","Load":[16.8316831683204],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708445","Load":[10.891089108918246],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708452","Load":[11.111111111103455],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708458","Load":[4.040404040401257],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708465","Load":[0.9900990098998755],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708471","Load":[10.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708478","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708484","Load":[3.0303030302953746],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708491","Load":[17.17171717170534],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708497","Load":[3.061224489788816],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708503","Load":[0.9999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708510","Load":[18.181818181805653],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708516","Load":[4.950495049499378],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708522","Load":[1.980198019799751],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708529","Load":[8.999999999991815],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708535","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708542","Load":[18.181818181805653],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708549","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708556","Load":[25.252525252530823],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708563","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708569","Load":[14.999999999986358],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708576","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708582","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708589","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708595","Load":[1.0101010101003143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708602","Load":[24.752475247541916],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708608","Load":[4.950495049499378],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708615","Load":[14.285714285730858],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708621","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708628","Load":[4.000000000041837],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708634","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708641","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708647","Load":[3.960396039637394],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708653","Load":[5.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708660","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708666","Load":[17.99999999998363],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708673","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708679","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708685","Load":[19.1919191919642],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708692","Load":[2.040816326533453],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708699","Load":[16.83168316834291],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708705","Load":[8.999999999991815],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708712","Load":[7.0707070706662405],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708718","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708724","Load":[5.940594059399254],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708731","Load":[3.960396039622015],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708738","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708744","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708751","Load":[16.32653061223732],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708757","Load":[10.99999999994725],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708764","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708771","Load":[99.99999999993378],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708777","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708783","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708789","Load":[99.99999999997749],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708797","Load":[99.99999999997726],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708803","Load":[5.999999999994543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708809","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708816","Load":[9.090909090925795],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708822","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708829","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708835","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708842","Load":[5.00000000001819],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708848","Load":[3.000000000020009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708854","Load":[9.090909090942498],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708861","Load":[15.151515151550646],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708868","Load":[3.960396039599502],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708874","Load":[15.151515151504713],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708881","Load":[0.9999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708888","Load":[11.881188118821019],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708894","Load":[4.9504950495082936],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708901","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708907","Load":[17.821782178220275],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708913","Load":[10.89108910887612],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708920","Load":[1.980198019799751],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708926","Load":[10.891089108921143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708933","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708939","Load":[14.999999999986358],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708945","Load":[15.151515151504713],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708952","Load":[3.960396039599502],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708958","Load":[14.141414141404399],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708964","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708970","Load":[1.999999999994543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708977","Load":[8.000000000007276],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708983","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708990","Load":[9.090909090886123],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708996","Load":[2.9999999999918145],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709002","Load":[2.0202020201969164],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709009","Load":[17.171717171728307],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709015","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709022","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709029","Load":[8.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709036","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709042","Load":[10.891089108879019],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709048","Load":[0.9999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709055","Load":[11.881188118821019],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709061","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709067","Load":[1.0101010101003143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709074","Load":[19.99999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709080","Load":[5.050505050515258],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709087","Load":[9.090909090925795],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709093","Load":[10.784313725475773],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709100","Load":[3.0303030302779757],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709106","Load":[14.99999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709113","Load":[0.9999999999781721],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709119","Load":[3.9603960396066356],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709125","Load":[3.061224489788816],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709132","Load":[3.0303030302724077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709138","Load":[3.0000000000027285],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709145","Load":[12.000000000011823],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709151","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709158","Load":[17.82178217819776],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709164","Load":[4.9999999999954525],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709170","Load":[12.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709177","Load":[16.000000000008185],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709183","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709190","Load":[21.000000000064574],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709196","Load":[5.999999999983629],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709202","Load":[2.9999999999972715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709209","Load":[4.9999999999954525],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709215","Load":[0.9999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709221","Load":[4.040404040401257],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709228","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709235","Load":[2.0000000000209184],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709241","Load":[18.181818181862027],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709248","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709255","Load":[11.000000000010004],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709261","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709268","Load":[3.000000000025466],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709274","Load":[10.891089108921143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709281","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709287","Load":[19.801980198020026],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709293","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709300","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709306","Load":[17.99999999998363],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709312","Load":[4.950495049521891],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709319","Load":[1.0204081632416313],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709326","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709333","Load":[25.742574257419275],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709339","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709346","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709353","Load":[9.803921568614339],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709361","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709368","Load":[4.040404040401257],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709374","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709381","Load":[8.91089108909888],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709388","Load":[2.0202020201969164],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709394","Load":[3.0303030303009426],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709400","Load":[12.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709407","Load":[99.99999999986079],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709414","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709420","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709426","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709433","Load":[99.9999999998622],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709440","Load":[99.99999999990527],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709446","Load":[17.171717171728307],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709453","Load":[8.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709459","Load":[11.881188118819905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709465","Load":[15.841584158398009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709471","Load":[9.09090909087986],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709478","Load":[10.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709484","Load":[15.841584158398009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709491","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709498","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709504","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709511","Load":[2.0000000000436557],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709518","Load":[10.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709524","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709530","Load":[14.141414141424349],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709537","Load":[8.163265306088357],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709543","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709550","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709557","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709563","Load":[22.22222222220691],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709570","Load":[5.00000000001819],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709577","Load":[14.99999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709584","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709590","Load":[2.0408163265258774],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709596","Load":[15.841584158398009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709602","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709609","Load":[3.000000000020009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709615","Load":[3.0303030302779757],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709622","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709628","Load":[11.224489795957195],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709634","Load":[4.000000000041837],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709641","Load":[0.9999999999763531],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709648","Load":[26.26262626260585],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709654","Load":[3.0303030302779757],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709661","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709667","Load":[0.9999999999781721],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709674","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709681","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709688","Load":[2.9411764706065933],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709694","Load":[10.891089108921143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709701","Load":[4.040404040439767],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709707","Load":[14.141414141430381],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709713","Load":[9.090909090909092],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709721","Load":[16.161616161621264],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709728","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709734","Load":[24.509803921558138],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709741","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709748","Load":[5.940594059444279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709754","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709760","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709767","Load":[22.000000000025466],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709774","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709780","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709786","Load":[24.75247524756443],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709793","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709799","Load":[1.9999999999563443],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709805","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709812","Load":[10.101010101067635],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709818","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709825","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709831","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709838","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709844","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709851","Load":[23.469387755117193],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709857","Load":[3.0303030302779757],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709864","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709871","Load":[10.10101010100314],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709877","Load":[3.0303030302724077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709884","Load":[10.999999999967258],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709890","Load":[0.9999999999763531],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709897","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709903","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709910","Load":[1.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709916","Load":[16.999999999976353],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709923","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709929","Load":[22.999999999959982],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709937","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709943","Load":[5.050505050487883],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709950","Load":[2.0408163265258774],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709957","Load":[2.000000000001819],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709963","Load":[11.000000000012733],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709969","Load":[3.960396039599502],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709976","Load":[25.742574257396768],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709983","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709989","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709996","Load":[0.9999999999763531],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710002","Load":[1.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710009","Load":[17.000000000007276],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710016","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710022","Load":[9.900990098998756],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710028","Load":[14.000000000012733],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710035","Load":[4.950495049476866],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710041","Load":[14.999999999990903],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710048","Load":[15.151515151527677],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710054","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710061","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710067","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710074","Load":[99.99999999995498],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710081","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710087","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710093","Load":[45.544554455439304],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710100","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710106","Load":[8.999999999969077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710113","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710119","Load":[8.999999999969077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710126","Load":[15.151515151555516],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710133","Load":[2.970297029677115],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710140","Load":[15.841584158398009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710146","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710152","Load":[9.900990099043781],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710159","Load":[11.000000000032742],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710165","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710171","Load":[2.0408163265722803],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710177","Load":[5.050505050524538],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710184","Load":[10.101010101049075],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710191","Load":[16.83168316835071],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710197","Load":[4.040404040401257],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710203","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710211","Load":[14.141414141430381],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710217","Load":[4.950495049476866],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710224","Load":[2.999999999974534],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710230","Load":[0.9999999999781721],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710236","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710243","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710249","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710255","Load":[5.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710262","Load":[4.000000000034561],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710268","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710275","Load":[16.83168316835071],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710281","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710288","Load":[15.151515151527677],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710294","Load":[9.900990099016587],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710300","Load":[12.871287128699052],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710307","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710314","Load":[9.090909090942498],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710320","Load":[13.999999999987267],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710326","Load":[4.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710333","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710340","Load":[17.99999999998363],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710346","Load":[5.050505050469324],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710353","Load":[23.23232323233019],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710359","Load":[7.142857142817369],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710366","Load":[2.0202020202043403],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710372","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710379","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710385","Load":[17.171717171728307],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710392","Load":[3.999999999989086],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710399","Load":[21.000000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710405","Load":[9.090909090896563],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710411","Load":[5.940594059409952],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710418","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710425","Load":[1.010101010123281],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710432","Load":[16.83168316835071],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710438","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710445","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710452","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710459","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710465","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710471","Load":[2.9411764706065933],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710478","Load":[3.0612244898120173],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710484","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710491","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710498","Load":[10.784313725498064],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710504","Load":[2.040816326529665],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710510","Load":[15.151515151527677],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710516","Load":[9.090909090942498],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710523","Load":[4.901960784293619],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710529","Load":[5.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710536","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710543","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710549","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710556","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710563","Load":[15.151515151481746],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710569","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710576","Load":[14.999999999981812],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710582","Load":[7.142857142830628],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710589","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710595","Load":[18.18181818185159],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710602","Load":[9.803921568614339],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710609","Load":[15.151515151509583],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710615","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710622","Load":[0.9900990098773633],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710628","Load":[15.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710634","Load":[4.040404040393833],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710641","Load":[14.99999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710648","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710654","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710661","Load":[5.00000000001819],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710668","Load":[8.910891089076369],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710674","Load":[8.080808080787666],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710681","Load":[9.183673469360293],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710688","Load":[4.000000000049113],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710695","Load":[12.121212121249703],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710701","Load":[97.93814432999115],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710708","Load":[99.99999999995453],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710714","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710721","Load":[99.9999999999072],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710728","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710734","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710741","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710747","Load":[10.891089108921143],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710753","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710760","Load":[15.30612244899569],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710766","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710772","Load":[4.040404040393833],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710778","Load":[15.151515151481746],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710785","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710791","Load":[3.0303030303239096],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710798","Load":[13.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710805","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710811","Load":[19.38775510205502],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710818","Load":[4.950495049467951],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710824","Load":[16.326530612176715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710830","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710836","Load":[5.8823529411686035],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710843","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710850","Load":[11.764705882337207],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710857","Load":[3.061224489771296],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710863","Load":[4.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710870","Load":[0.9900990098791465],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710876","Load":[15.151515151601453],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710883","Load":[4.99999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710890","Load":[14.99999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710896","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710903","Load":[10.101010100984583],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710910","Load":[4.040404040393833],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710916","Load":[0.9999999999763531],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710922","Load":[15.15151515149984],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710929","Load":[10.00000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710935","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710942","Load":[8.999999999969077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710949","Load":[5.00000000001819],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710956","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710962","Load":[9.183673469406695],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710968","Load":[9.090909090909092],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710975","Load":[11.000000000012733],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710981","Load":[1.010101010079203],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710988","Load":[10.1010101010217],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710994","Load":[2.061855670098743],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711001","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711008","Load":[8.080808080787666],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711015","Load":[14.285714285707657],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711021","Load":[3.0303030302724077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711027","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711034","Load":[16.83168316835071],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711040","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711047","Load":[14.285714285707657],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711053","Load":[17.000000000007276],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711060","Load":[3.061224489817699],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711067","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711073","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711080","Load":[15.151515151453907],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711086","Load":[5.940594059343531],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711092","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711099","Load":[16.666666666666664],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711105","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711112","Load":[15.841584158426542],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711118","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711125","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711131","Load":[4.0404040404086805],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711138","Load":[8.080808080787666],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711144","Load":[17.708333333357018],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711151","Load":[13.131313131351178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711157","Load":[1.0101010101214252],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711163","Load":[23.76237623763981],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711170","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711176","Load":[15.151515151453907],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711183","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711189","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711195","Load":[23.76237623755422],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711202","Load":[0.9900990098791465],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711209","Load":[4.950495049467951],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711215","Load":[4.000000000041837],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711222","Load":[2.0000000000436557],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711229","Load":[8.080808080817361],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711235","Load":[9.183673469406695],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711243","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711249","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711256","Load":[18.000000000049113],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711262","Load":[3.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711268","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711275","Load":[8.16326530611866],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711281","Load":[3.030303030364276],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711288","Load":[14.851485148547393],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711294","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711301","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711307","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711314","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711321","Load":[18.000000000029104],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711327","Load":[10.891089108856505],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711334","Load":[7.920792079258295],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711340","Load":[9.183673469360293],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711347","Load":[4.040404040393833],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711354","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711361","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711368","Load":[99.99999999995003],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711374","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711381","Load":[99.99999999985936],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711388","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711395","Load":[17.171717171696756],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711402","Load":[4.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711408","Load":[4.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711415","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711421","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711427","Load":[3.0303030302724077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711434","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711441","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711447","Load":[6.06060606061302],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711453","Load":[15.841584158369479],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711460","Load":[8.080808080787666],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711466","Load":[3.000000000020009],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711472","Load":[15.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711479","Load":[8.999999999969077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711486","Load":[3.9603960395923696],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711492","Load":[2.999999999974534],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711498","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711505","Load":[10.00000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711511","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711518","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711525","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711531","Load":[2.999999999974534],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711537","Load":[16.831683168305688],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711543","Load":[15.000000000009095],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711550","Load":[5],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711557","Load":[4.950495049512975],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711564","Load":[5.050505050487883],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711570","Load":[17.00000000005275],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711577","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711583","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711589","Load":[20.792079207957347],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711595","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711602","Load":[1.9801980198033178],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711609","Load":[9.999999999990905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711615","Load":[3.0303030302724077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711622","Load":[9.090909090942498],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711628","Load":[8.999999999969077],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711635","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711641","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711648","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711655","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711661","Load":[3.999999999936335],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711668","Load":[14.851485148547393],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711674","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711680","Load":[4.000000000041837],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711687","Load":[2.040816326529665],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711694","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711700","Load":[15.306122448985274],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711706","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711713","Load":[9.000000000014552],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711720","Load":[14.851485148493898],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711726","Load":[2.0202020202043403],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711734","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711741","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711747","Load":[23.999999999978172],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711753","Load":[2.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711760","Load":[9.090909090909092],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711766","Load":[15.151515151509583],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711773","Load":[3.061224489771296],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711779","Load":[15.000000000063665],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711785","Load":[14.141414141378414],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711791","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711798","Load":[15.841584158426542],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711804","Load":[16.161616161726588],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711811","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711817","Load":[4.999999999972715],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711823","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711830","Load":[3.0303030303183416],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711836","Load":[5.00000000003638],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711842","Load":[1.0000000000218279],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711849","Load":[15.999999999985448],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711855","Load":[4.000000000010914],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711861","Load":[1.999999999998181],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711868","Load":[12.00000000003456],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711875","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711881","Load":[3.030303030283543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711888","Load":[2.0202020202428503],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711895","Load":[18.000000000049113],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711901","Load":[11.881188118819905],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711907","Load":[0],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711914","Load":[16.161616161634722],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711922","Load":[5.999999999994543],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711928","Load":[4.99999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711934","Load":[8.080808080817361],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711940","Load":[8.080808080817361],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711947","Load":[3.999999999996362],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711954","Load":[7.999999999992724],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711961","Load":[15.00000000005457],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711967","Load":[3.030303030329477],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711973","Load":[1.0101010101214252],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711979","Load":[16.16161616157533],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711986","Load":[4.000000000041837],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711993","Load":[4.950495049530806],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711999","Load":[99.99999999990813],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754712006","Load":[100],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754712013","Load":[99.9999999998234],"DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424608", "Load":[5.1020408163473645], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424614", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424620", "Load":[23.762376237599245], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424627", "Load":[24.489795918355984], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424633", "Load":[18.181818181793126], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424639", "Load":[23.232323232326944], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424645", "Load":[9.090909090925795], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424651", "Load":[2.020202020246562], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424657", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424663", "Load":[16.8316831683204], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424669", "Load":[3.030303030329477], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424675", "Load":[0.9999999999781721], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424681", "Load":[14.999999999981812], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424687", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424693", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424700", "Load":[14.851485148520647], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424706", "Load":[4.950495049476866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424712", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424718", "Load":[17.82178217824279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424724", "Load":[5.882352941202696], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424731", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424737", "Load":[4.040404040393833], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424743", "Load":[6.8627450980199844], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424749", "Load":[99.99999999985789], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424755", "Load":[99.99999999995498], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424761", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424767", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424773", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424779", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424785", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424791", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424797", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424803", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424809", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424816", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424822", "Load":[99.9999999998622], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424828", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424834", "Load":[89.47368421040035], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424840", "Load":[23.999999999976353], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424847", "Load":[9.900990098971562], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424853", "Load":[11.000000000032742], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424859", "Load":[27.27272727273145], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424865", "Load":[26.999999999952706], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424871", "Load":[10.10101010100314], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424877", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424883", "Load":[18.99999999992542], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424889", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424895", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424901", "Load":[2.040816326576068], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424907", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424913", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424919", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424925", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424931", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424937", "Load":[3.061224489771296], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424944", "Load":[15.151515151573614], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424950", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424956", "Load":[5.00000000001819], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424962", "Load":[15.151515151527677], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424968", "Load":[11.111111111126421], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424974", "Load":[4.950495049530806], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424980", "Load":[14.141414141450332], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424986", "Load":[9.900990098998756], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424992", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424998", "Load":[0.9900990098773633], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425004", "Load":[20.2020202020151], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425010", "Load":[7.070707070679232], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425016", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425022", "Load":[6.060606060601885], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425029", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425035", "Load":[0.9999999999763531], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425041", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425047", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425053", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425059", "Load":[15.15151515149984], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425065", "Load":[4.950495049476866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425071", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425077", "Load":[15.30612244899569], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425083", "Load":[4.040404040401257], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425089", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425096", "Load":[10.101010101049075], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425102", "Load":[18.18181818183906], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425108", "Load":[7.999999999992724], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425114", "Load":[99.99999999990527], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425120", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425126", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425132", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425138", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425144", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425150", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425156", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425163", "Load":[99.9999999998622], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425169", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425175", "Load":[99.9999999998199], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425181", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425187", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425193", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425199", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425205", "Load":[46.39175257733215], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425211", "Load":[11.000000000032742], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425217", "Load":[14.999999999981812], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425223", "Load":[9.090909090909092], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425229", "Load":[3.9603960396066356], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425235", "Load":[13.131313131327053], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425241", "Load":[8.080808080771426], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425248", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425254", "Load":[9.090909090909092], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425260", "Load":[18.000000000029104], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425266", "Load":[3.000000000025466], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425272", "Load":[11.111111111100904], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425278", "Load":[27.72277227729147], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425284", "Load":[17.171717171682374], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425290", "Load":[23.232323232376125], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425296", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425302", "Load":[2.999999999969077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425308", "Load":[5.999999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425314", "Load":[18.999999999970896], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425320", "Load":[2.040816326576068], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425326", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425332", "Load":[15.151515151573614], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425338", "Load":[2.999999999974534], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425345", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425351", "Load":[3.9603960396066356], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425357", "Load":[3.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425363", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425369", "Load":[2.0408163265258774], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425375", "Load":[4.950495049485781], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425381", "Load":[8.910891089121394], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425387", "Load":[18.00000000001637], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425393", "Load":[38.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425399", "Load":[25.000000000045475], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425405", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425411", "Load":[15.151515151509583], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425417", "Load":[9.09090909087986], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425423", "Load":[3.0612244898233816], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425429", "Load":[14.141414141450332], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425435", "Load":[11.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425441", "Load":[4.901960784418627], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425448", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425454", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425460", "Load":[3.0303030303698435], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425466", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425472", "Load":[15.151515151573614], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425478", "Load":[3.0303030303698435], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425484", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425490", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425496", "Load":[6.999999999970896], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425502", "Load":[17.171717171682374], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425508", "Load":[32.999999999992724], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425514", "Load":[19.191919191939608], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425520", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425526", "Load":[7.9999999999163265], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425533", "Load":[3.9999999999581632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425539", "Load":[0.990099009922388], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425545", "Load":[5.000000000027285], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425551", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425557", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425563", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425569", "Load":[4.040404040393833], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425575", "Load":[5.050505050515258], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425581", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425587", "Load":[7.999999999992724], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425593", "Load":[5.999999999949068], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425599", "Load":[3.9999999999508873], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425605", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425611", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425617", "Load":[10.10101010100314], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425624", "Load":[3.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425630", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425636", "Load":[28.282828282854727], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425642", "Load":[3.9999999999581632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425648", "Load":[22.222222222252842], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425654", "Load":[12.871287128652689], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425660", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425666", "Load":[61.38613861388234], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425672", "Load":[15.00000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425678", "Load":[11.111111111106007], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425684", "Load":[23.76237623763981], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425690", "Load":[22.000000000025466], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425696", "Load":[20.792079207882455], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425702", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425709", "Load":[18.367346938779296], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425715", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425721", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425727", "Load":[19.38775510205502], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425733", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425739", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425745", "Load":[8.000000000038199], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425751", "Load":[5.050505050533817], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425757", "Load":[1.980198019799751], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425763", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425769", "Load":[4.040404040362746], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425775", "Load":[6.122448979624035], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425781", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425787", "Load":[15.999999999939973], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425793", "Load":[8.16326530611866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425800", "Load":[12.12121212122604], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425806", "Load":[15.841584158369479], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425812", "Load":[99.99999999991171], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425818", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425824", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425830", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425836", "Load":[99.99999999995262], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425842", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425848", "Load":[99.99999999995453], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425854", "Load":[99.99999999990624], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425860", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425866", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425872", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425878", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425885", "Load":[99.99999999995453], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425891", "Load":[99.99999999990813], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425897", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425903", "Load":[9.99999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425909", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425915", "Load":[14.141414141384448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425921", "Load":[11.224489795941095], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425928", "Load":[3.9603960395923696], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425934", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425940", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425946", "Load":[3.0612244897769787], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425952", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425958", "Load":[3.960396039599502], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425964", "Load":[4.040404040485701], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425970", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425976", "Load":[4.040404040401257], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425982", "Load":[3.0612244897769787], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425988", "Load":[2.0202020202006286], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425994", "Load":[4.99999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426000", "Load":[15.306122449013685], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426006", "Load":[9.090909090955025], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426012", "Load":[13.131313131327053], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426018", "Load":[29.702970297094787], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426024", "Load":[23.232323232241573], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426031", "Load":[4.040404040401257], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426037", "Load":[11.000000000012733], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426043", "Load":[5.050505050533817], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426049", "Load":[2.999999999979991], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426055", "Load":[3.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426061", "Load":[16.831683168275376], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426067", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426073", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426079", "Load":[15.30612244899569], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426085", "Load":[3.9999999999581632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426092", "Load":[11.111111111151942], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426098", "Load":[23.00000000000182], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426104", "Load":[17.346938775478954], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426110", "Load":[25.99999999992906], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426116", "Load":[24.000000000023647], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426122", "Load":[4.040404040393833], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426128", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426134", "Load":[15.151515151509583], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426140", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426146", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426152", "Load":[18.181818181772247], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426158", "Load":[3.030303030329477], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426164", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426170", "Load":[4.040404040401257], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426177", "Load":[5.88235294113451], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426183", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426189", "Load":[3.0303030303239096], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426195", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426201", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426207", "Load":[2.999999999974534], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426213", "Load":[3.0303030303239096], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426219", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426225", "Load":[13.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426231", "Load":[3.9603960395544777], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426237", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426244", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426250", "Load":[4.0404040404086805], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426256", "Load":[1.9607843137228675], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426262", "Load":[3.000000000020009], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426268", "Load":[16.66666666668153], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426274", "Load":[9.090909090925795], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426280", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426286", "Load":[15.841584158426542], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426292", "Load":[9.900990099016587], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426298", "Load":[9.09090909085063], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426304", "Load":[26.26262626260585], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426310", "Load":[10.101010101049075], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426317", "Load":[11.224489795869124], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426323", "Load":[8.080808080848447], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426329", "Load":[38.38383838385787], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426335", "Load":[16.9999999999618], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426341", "Load":[10.101010101049075], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426347", "Load":[19.19191919197487], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426353", "Load":[2.0408163264794745], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426360", "Load":[1.010101010123281], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426366", "Load":[17.171717171682374], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426372", "Load":[2.040816326529665], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426378", "Load":[0.9900990099241711], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426384", "Load":[4.950495049530806], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426390", "Load":[3.960396039689552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426396", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426402", "Load":[4.950495049512975], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426408", "Load":[7.999999999992724], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426414", "Load":[6.122448979577632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426420", "Load":[13.131313131302925], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426426", "Load":[24.489795918402386], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426433", "Load":[15.151515151453907], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426439", "Load":[2.0202020201969164], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426445", "Load":[14.99999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426451", "Load":[14.851485148538924], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426457", "Load":[3.0303030303698435], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426463", "Load":[1.9607843136782845], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426469", "Load":[17.346938775478954], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426475", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426481", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426487", "Load":[16.161616161559092], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426493", "Load":[4.123711340158338], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426500", "Load":[4.0404040404086805], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426506", "Load":[13.131313131327053], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426512", "Load":[99.99999999995212], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426518", "Load":[99.99999999986493], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426524", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426530", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426536", "Load":[99.99999999995262], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426542", "Load":[99.99999999991255], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426548", "Load":[99.99999999995453], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426554", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426560", "Load":[99.99999999990813], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426566", "Load":[99.99999999985936], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426572", "Load":[99.99999999986079], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426579", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426585", "Load":[99.99999999995453], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426591", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426597", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426603", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426609", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426615", "Load":[4.999999999972715], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426621", "Load":[9.183673469406695], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426627", "Load":[10.999999999987267], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426633", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426640", "Load":[22.222222222212014], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426646", "Load":[25.999999999976353], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426652", "Load":[19.00000000005093], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426658", "Load":[32.00000000008731], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426664", "Load":[18.000000000029104], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426670", "Load":[12.000000000012733], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426676", "Load":[11.111111111146837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426682", "Load":[11.224489795869124], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426688", "Load":[2.0618556701494906], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426694", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426701", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426707", "Load":[3.9603960396066356], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426713", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426719", "Load":[16.161616161621264], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426725", "Load":[2.0202020201969164], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426731", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426738", "Load":[16.16161616160503], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426744", "Load":[3.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426750", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426756", "Load":[16.831683168290084], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426762", "Load":[3.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426768", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426774", "Load":[5.999999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426780", "Load":[3.0303030303239096], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426786", "Load":[0.990099009922388], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426792", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426798", "Load":[3.9603960396066356], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426804", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426810", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426816", "Load":[5.999999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426822", "Load":[7.142857142830628], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426829", "Load":[2.0408163264794745], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426835", "Load":[16.831683168275376], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426841", "Load":[12.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426847", "Load":[5.940594059444279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426853", "Load":[14.999999999990903], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426859", "Load":[10.101010101030516], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426866", "Load":[5.050505050478604], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426872", "Load":[17.000000000007276], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426878", "Load":[10.999999999967258], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426884", "Load":[4.040404040393833], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426890", "Load":[0.9999999999763531], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426896", "Load":[18.18181818185159], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426902", "Load":[3.999999999989086], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426908", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426914", "Load":[17.000000000007276], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426920", "Load":[11.111111111100904], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426926", "Load":[20.792079207882455], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426932", "Load":[29.70297029700474], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426938", "Load":[17.34693877546096], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426945", "Load":[17.171717171682374], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426951", "Load":[11.000000000058208], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426957", "Load":[4.999999999936335], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426963", "Load":[0.9999999999308784], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426969", "Load":[10], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426975", "Load":[4.08163265305933], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426981", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426987", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426994", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427000", "Load":[0.9999999999781721], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427006", "Load":[3.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427012", "Load":[2.0202020201969164], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427018", "Load":[0.9900990099241711], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427024", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427030", "Load":[14.851485148520647], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427037", "Load":[9.090909090863157], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427043", "Load":[3.0303030302779757], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427049", "Load":[14.99999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427055", "Load":[9.090909090896563], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427061", "Load":[4.04040404044719], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427067", "Load":[15.000000000027287], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427073", "Load":[8.0808080808336], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427079", "Load":[4.000000000034561], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427085", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427092", "Load":[17.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427098", "Load":[3.9603960395923696], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427104", "Load":[11.00000000001819], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427110", "Load":[30.303030303111033], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427116", "Load":[11.000000000058208], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427122", "Load":[1.0000000000200089], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427128", "Load":[17.99999999998363], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427134", "Load":[10.00000000001819], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427140", "Load":[16.16161616160503], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427146", "Load":[29.29292929297801], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427152", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427159", "Load":[12.871287128744077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427165", "Load":[18.811881188165174], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427171", "Load":[18.999999999914507], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427177", "Load":[8.16326530611866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427183", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427189", "Load":[7.0707070706662405], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427195", "Load":[10.00000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427201", "Load":[4.000000000003638], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427207", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427213", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427219", "Load":[99.99999999985936], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427225", "Load":[99.99999999986358], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427231", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427238", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427244", "Load":[99.99999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427250", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427256", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427262", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427268", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427274", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427280", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427286", "Load":[99.99999999995212], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427292", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427298", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427304", "Load":[15.000000000081853], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427310", "Load":[3.9603960396445275], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427316", "Load":[0.9999999999763531], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427323", "Load":[21.21212121209059], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427329", "Load":[1.020408163291822], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427335", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427341", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427347", "Load":[1.9801980198483422], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427353", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427359", "Load":[2.040816326568492], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427365", "Load":[13.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427371", "Load":[11.111111111192772], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427377", "Load":[18.181818181818183], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427383", "Load":[20.792079207882455], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427389", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427395", "Load":[18.181818181793126], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427401", "Load":[11.224489795982763], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427408", "Load":[8.080808080787666], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427414", "Load":[3.061224489817699], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427420", "Load":[14.99999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427426", "Load":[8.080808080771426], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427432", "Load":[4.950495049467951], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427438", "Load":[13.265306122466026], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427444", "Load":[8.16326530611866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427450", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427456", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427462", "Load":[17.171717171696756], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427468", "Load":[3.9999999999054126], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427474", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427480", "Load":[23.46938775506795], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427487", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427493", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427499", "Load":[16.32653061223732], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427505", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427511", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427517", "Load":[3.9999999999818097], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427523", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427529", "Load":[1.0101010101214252], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427535", "Load":[4.0404040404086805], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427541", "Load":[3.030303030329477], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427547", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427553", "Load":[5.102040816328424], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427560", "Load":[15.999999999939973], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427566", "Load":[8.080808080863294], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427572", "Load":[4.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427578", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427584", "Load":[17.171717171650823], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427590", "Load":[17.99999999998363], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427596", "Load":[12.00000000003456], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427602", "Load":[20.408163265389458], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427608", "Load":[7.070707070692224], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427614", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427620", "Load":[16.000000000030923], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427626", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427633", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427639", "Load":[18.627450980389533], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427645", "Load":[3.061224489771296], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427651", "Load":[8.16326530611866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427657", "Load":[14.705882352899216], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427663", "Load":[12.871287128652689], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427669", "Load":[7.142857142830628], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427675", "Load":[11.111111111146837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427681", "Load":[10.999999999967258], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427687", "Load":[8.080808080787666], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427693", "Load":[10.101010100938648], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427700", "Load":[18.81188118815403], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427706", "Load":[15.000000000009095], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427712", "Load":[16.16161616158879], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427718", "Load":[24.24242424240893], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427724", "Load":[26.73267326741232], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427730", "Load":[10.101010101030516], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427736", "Load":[15.151515151453907], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427742", "Load":[8.080808080817361], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427748", "Load":[4.000000000027285], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427755", "Load":[15.151515151509583], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427761", "Load":[8.080808080817361], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427767", "Load":[4.999999999972715], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427773", "Load":[14.141414141384448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427779", "Load":[9.000000000014552], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427785", "Load":[4.0404040404086805], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427791", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427797", "Load":[21.21212121221447], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427803", "Load":[5.999999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427809", "Load":[6.06060606061302], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427816", "Load":[14.000000000032742], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427822", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427828", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427834", "Load":[22.44897959182632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427840", "Load":[3.000000000020009], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427846", "Load":[1.9801980198033178], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427852", "Load":[13.131313131256988], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427858", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427864", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427870", "Load":[1.999999999998181], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427876", "Load":[2.040816326568492], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427883", "Load":[1.0101010101214252], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427889", "Load":[2.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427895", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427901", "Load":[99.9999999999554], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427907", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427913", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427919", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427925", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427931", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427937", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427944", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427950", "Load":[99.99999999985936], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427956", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427962", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427968", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427974", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427980", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427986", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427993", "Load":[8.080808080787666], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427999", "Load":[2.040816326529665], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428005", "Load":[15.151515151453907], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428011", "Load":[9.090909090942498], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428017", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428023", "Load":[14.141414141384448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428029", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428035", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428041", "Load":[12.121212121181498], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428047", "Load":[24.75247524751896], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428054", "Load":[18.81188118815403], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428060", "Load":[11.000000000012733], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428066", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428072", "Load":[2.0408163264832626], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428078", "Load":[2.040816326529665], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428084", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428090", "Load":[16.161616161634722], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428096", "Load":[3.000000000020009], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428102", "Load":[5.999999999994543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428108", "Load":[33.33333333331802], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428114", "Load":[3.061224489771296], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428120", "Load":[17.171717171650823], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428126", "Load":[1.020408163288034], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428132", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428138", "Load":[4.950495049512975], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428144", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428151", "Load":[5.00000000001819], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428157", "Load":[3.9999999999818097], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428163", "Load":[1.9801980198483422], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428169", "Load":[14.000000000038199], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428175", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428181", "Load":[16.9999999999618], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428187", "Load":[6.060606060544815], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428194", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428200", "Load":[5.940594059343531], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428206", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428212", "Load":[7.920792079213271], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428218", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428224", "Load":[8.080808080817361], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428230", "Load":[22.44897959182632], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428237", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428243", "Load":[16.161616161634722], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428249", "Load":[4.999999999972715], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428255", "Load":[4.950495049467951], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428261", "Load":[7.000000000016371], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428267", "Load":[0.9900990098791465], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428273", "Load":[2.999999999974534], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428279", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428285", "Load":[8.080808080803905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428291", "Load":[32.323232323269444], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428297", "Load":[17.171717171650823], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428303", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428309", "Load":[26.53061224493205], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428315", "Load":[10.000000000027285], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428321", "Load":[22.000000000025466], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428327", "Load":[14.000000000032742], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428333", "Load":[17.99999999998363], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428340", "Load":[9.183673469360293], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428346", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428352", "Load":[5.1020408163473645], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428358", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428364", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428370", "Load":[21.782178217758037], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428376", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428382", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428388", "Load":[5.999999999972715], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428395", "Load":[3.0303030303183416], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428401", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428407", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428413", "Load":[5.940594059409952], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428419", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428425", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428431", "Load":[19.801980198033174], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428437", "Load":[2.999999999974534], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428443", "Load":[15.999999999985448], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428449", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428456", "Load":[3.9999999999818097], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428462", "Load":[13.131313131256988], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428468", "Load":[1.0000000000218279], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428474", "Load":[2.040816326576068], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428480", "Load":[3.030303030364276], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428486", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428492", "Load":[4.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428498", "Load":[3.000000000020009], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428504", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428510", "Load":[20.202020201969166], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428516", "Load":[3.030303030283543], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428522", "Load":[14.141414141424349], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428529", "Load":[5.00000000001819], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428535", "Load":[4.950495049530806], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428541", "Load":[6.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428547", "Load":[2.0000000000436557], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428553", "Load":[5.940594059409952], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428559", "Load":[3.0303030302724077], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428565", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428571", "Load":[17.821782178274884], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428577", "Load":[5.050505050533817], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428584", "Load":[15.000000000009095], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428590", "Load":[10.204081632648327], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428596", "Load":[23.999999999932697], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428602", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428608", "Load":[99.99999999986493], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428614", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428620", "Load":[99.99999999981627], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428626", "Load":[99.99999999995212], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428632", "Load":[99.99999999972158], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428638", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428644", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428650", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428656", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428663", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428669", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428675", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428681", "Load":[100], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428687", "Load":[57.99999999994725], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428693", "Load":[4.040404040439767], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428699", "Load":[1.980198019758293], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428705", "Load":[13.131313131256988], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428711", "Load":[4.000000000041837], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428717", "Load":[1.999999999998181], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428723", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428729", "Load":[3.000000000020009], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428735", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428742", "Load":[4.000000000010914], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428748", "Load":[3.999999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428754", "Load":[9.183673469372604], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428760", "Load":[11.111111111100904], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428766", "Load":[23.46938775511435], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428772", "Load":[25], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428778", "Load":[9.999999999990905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428784", "Load":[14.99999999996362], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428790", "Load":[7.142857142923432], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428797", "Load":[11.000000000012733], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428803", "Load":[23.76237623755422], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428809", "Load":[13.99999999998181], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428815", "Load":[19.00000000005093], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428821", "Load":[17.171717171696756], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428827", "Load":[33.33333333334865], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428833", "Load":[18.000000000029104], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428839", "Load":[8.16326530611866], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428845", "Load":[17.000000000007276], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428851", "Load":[3.999999999936335], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428858", "Load":[0.9900990098791465], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428864", "Load":[18.811881188086268], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428870", "Load":[3.0000000000545697], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428876", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428883", "Load":[13.131313131302925], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428889", "Load":[3.0000000000654836], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428895", "Load":[5.8823529412131865], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428901", "Load":[17.99999999998363], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428907", "Load":[5.050505050515258], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428913", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428919", "Load":[15.151515151509583], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428925", "Load":[4.08163265305933], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428932", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428938", "Load":[17.821782178274884], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428944", "Load":[4.040404040439767], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428950", "Load":[0], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428956", "Load":[21.212121212122604], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428962", "Load":[4.0404040404086805], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428968", "Load":[14.285714285707657], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428974", "Load":[9.99999999998181], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428980", "Load":[9.090909090909092], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428986", "Load":[23.46938775511435], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428993", "Load":[13.999999999987267], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428999", "Load":[19.000000000005457], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429005", "Load":[11.881188118819905], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429011", "Load":[8.080808080863294], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429017", "Load":[22.222222222212014], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429023", "Load":[10.1010101010217], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429029", "Load":[16.16161616157533], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429035", "Load":[37.11340206182425], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429041", "Load":[11.111111111060074], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756429048", "Load":[39.79591836730527], "DevID":"tomcat1.infra.real.internetscanner.blankcanvas"}

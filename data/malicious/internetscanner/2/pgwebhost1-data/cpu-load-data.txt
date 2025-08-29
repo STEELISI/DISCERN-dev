@@ -1,639 +1,721 @@
-{"TimeStamp":"1754707774","Load":[17.647058823550392],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707781","Load":[5.882352941190894],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707787","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707794","Load":[10.10101010100314],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707800","Load":[14.851485148565672],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707807","Load":[23.00000000000182],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707813","Load":[10.891089108895734],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707819","Load":[4.9999999999954525],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707825","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707832","Load":[11.650485436895776],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707838","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707845","Load":[4.9504950495082936],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707852","Load":[0.9900990098998755],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707858","Load":[24.752475247496893],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707864","Load":[2.0408163265258774],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707871","Load":[0.9999999999745341],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707877","Load":[16.831683168336],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707883","Load":[12.12121212120377],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707890","Load":[16.666666666688958],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707897","Load":[10.784313725478832],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707903","Load":[13.72549019608455],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707910","Load":[6.862745098052328],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707916","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707923","Load":[3.000000000020009],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707929","Load":[3.9603960396066356],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707936","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707942","Load":[8.91089108909888],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707948","Load":[10.999999999989996],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707955","Load":[27.00000000002092],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707961","Load":[19.801980197997512],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707968","Load":[27.272727272704305],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707974","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707981","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707987","Load":[99.99999999992744],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754707994","Load":[99.99999999997749],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708001","Load":[99.99999999997726],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708007","Load":[99.99999999997749],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708014","Load":[9.278350515438301],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708021","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708028","Load":[6.796116504843868],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708035","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708041","Load":[23.23232323233019],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708048","Load":[4.950495049499378],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708063","Load":[2.970297029699627],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708070","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708076","Load":[3.0303030303468765],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708083","Load":[19.80198019804254],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708091","Load":[0.9999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708098","Load":[10.891089108921143],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708104","Load":[11.00000000003547],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708110","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708117","Load":[8.999999999991815],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708123","Load":[4.9504950495082936],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708129","Load":[15.000000000036378],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708135","Load":[3.921568627445735],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708142","Load":[2.0408163265258774],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708149","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708155","Load":[0.9999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708162","Load":[17.17171717170534],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708168","Load":[4.000000000019099],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708175","Load":[1.999999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708181","Load":[9.09090909087986],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708188","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708194","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708200","Load":[9.090909090942498],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708207","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708213","Load":[4.950495049530806],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708220","Load":[10.891089108918246],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708226","Load":[4.950495049553318],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708233","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708239","Load":[9.900990098998756],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708246","Load":[17.82178217822986],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708252","Load":[10.891089108898631],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708259","Load":[17.647058823550392],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708265","Load":[9.09090909087986],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708272","Load":[13.725490196082365],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708278","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708285","Load":[9.090909090925795],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708291","Load":[3.0612244898120173],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708298","Load":[5.000000000027285],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708304","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708310","Load":[5.940594059388555],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708316","Load":[12.74509803922137],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708323","Load":[1.0101010101003143],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708330","Load":[18.811881188142664],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708336","Load":[12.871287128720896],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708343","Load":[18.811881188097637],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708349","Load":[9.090909090902827],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708356","Load":[10.101010100984583],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708362","Load":[15.841584158398009],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708369","Load":[8.999999999969077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708375","Load":[2.9999999999972715],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708382","Load":[11.881188118821019],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708388","Load":[0.9999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708396","Load":[17.82178217819776],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708403","Load":[6.862745098030036],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708410","Load":[5.882352941179094],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708416","Load":[1.9801980198033178],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708423","Load":[17.00000000001546],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708429","Load":[3.960396039599502],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708436","Load":[0.9999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708442","Load":[19.99999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708448","Load":[4.950495049476866],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708455","Load":[13.00000000003456],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708462","Load":[1.9801980197808051],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708468","Load":[11.111111111100904],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708474","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708481","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708487","Load":[3.0303030302953746],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708493","Load":[11.881188118819905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708499","Load":[8.999999999969077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708506","Load":[3.960396039599502],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708512","Load":[5.88235294113451],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708519","Load":[2.9411764706065933],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708525","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708532","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708539","Load":[15.151515151527677],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708545","Load":[10.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708552","Load":[14.705882352899216],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708559","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708565","Load":[9.09090909087986],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708571","Load":[18.62745098042275],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708578","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708584","Load":[9.090909090971728],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708590","Load":[17.171717171682374],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708596","Load":[5.8823529412131865],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708604","Load":[16.8316831683204],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708610","Load":[10.99999999994725],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708617","Load":[11.88118811886493],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708623","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708629","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708636","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708643","Load":[99.99999999991171],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708649","Load":[99.9999999999072],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708655","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708663","Load":[81.72043010747588],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708669","Load":[14.99999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708675","Load":[10.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708682","Load":[11.224489795889959],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708689","Load":[5.8823529411686035],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708696","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708703","Load":[10.784313725472712],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708709","Load":[12.745098039176348],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708716","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708723","Load":[0.9999999999781721],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708729","Load":[3.0612244898120173],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708736","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708742","Load":[0.9999999999745341],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708749","Load":[9.090909090909092],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708755","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708761","Load":[15.151515151555516],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708769","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708776","Load":[24.000000000112777],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708782","Load":[3.061224489771296],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708789","Load":[15.151515151481746],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708796","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708802","Load":[2.020202020154694],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708808","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708815","Load":[9.99999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708821","Load":[11.22448979593636],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708828","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708834","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708841","Load":[22.44897959187272],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708847","Load":[6.862745098040089],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708853","Load":[16.000000000030923],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708859","Load":[9.090909090925795],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708865","Load":[3.0303030302724077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708872","Load":[10.89108910894076],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708879","Load":[0.9900990098773633],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708885","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708891","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708898","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708905","Load":[15.151515151527677],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708911","Load":[3.000000000020009],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708917","Load":[16.8316831683204],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708924","Load":[1.9999999999490683],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708931","Load":[13.725490196060072],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708937","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708944","Load":[1.9801980197961848],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708950","Load":[3.9603960396066356],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708956","Load":[3.0303030302779757],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708962","Load":[1.010101010123281],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708969","Load":[24.509803921558138],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708975","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708982","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708989","Load":[9.090909090925795],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754708995","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709002","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709009","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709016","Load":[24.75247524747438],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709023","Load":[3.960396039599502],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709029","Load":[22.999999999959982],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709035","Load":[11.000000000012733],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709042","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709049","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709055","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709062","Load":[19.99999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709069","Load":[12.121212121181498],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709076","Load":[12.121212121181498],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709082","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709089","Load":[5.940594059444279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709095","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709102","Load":[9.09090909087986],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709108","Load":[2.061855670098743],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709114","Load":[5.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709120","Load":[9.000000000014552],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709127","Load":[6.060606060647819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709133","Load":[2.0408163265258774],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709140","Load":[1.9607843137228675],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709146","Load":[17.00000000005275],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709153","Load":[3.061224489817699],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709161","Load":[6.000000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709167","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709173","Load":[5.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709180","Load":[4.950495049530806],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709186","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709193","Load":[24.75247524756443],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709200","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709206","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709212","Load":[17.171717171728307],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709219","Load":[3.000000000020009],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709226","Load":[15.841584158398009],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709232","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709239","Load":[5.102040816300962],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709245","Load":[3.96039603965166],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709252","Load":[9.090909090925795],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709258","Load":[13.00000000003456],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709265","Load":[4.99999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709271","Load":[99.99999999985936],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709278","Load":[99.9999999998622],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709284","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709290","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709297","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709304","Load":[98.9690721650659],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709310","Load":[99.99999999995453],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709317","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709324","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709330","Load":[3.0303030302779757],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709337","Load":[25],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709343","Load":[8.080808080817361],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709350","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709357","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709363","Load":[1.999999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709369","Load":[16.8316831683204],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709375","Load":[4.000000000034561],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709382","Load":[16.000000000030923],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709389","Load":[10.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709395","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709402","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709409","Load":[9.900990098998756],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709415","Load":[23.76237623755422],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709421","Load":[6.930693069276616],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709428","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709434","Load":[23.999999999978172],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709442","Load":[3.030303030329477],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709448","Load":[5.8823529411686035],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709455","Load":[9.090909090925795],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709461","Load":[10.204081632667267],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709467","Load":[12.87128712874274],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709474","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709480","Load":[17.171717171728307],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709488","Load":[5.999999999994543],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709494","Load":[22.000000000025466],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709501","Load":[1.9801980198033178],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709507","Load":[7.920792079199004],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709514","Load":[10.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709521","Load":[2.941176470556765],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709527","Load":[19.607843137263643],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709534","Load":[6.930693069276616],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709540","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709547","Load":[11.764705882358188],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709553","Load":[4.950495049476866],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709559","Load":[14.99999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709566","Load":[11.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709572","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709578","Load":[5.050505050515258],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709586","Load":[0.990099009922388],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709592","Load":[27.184466019419617],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709599","Load":[5.940594059444279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709606","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709612","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709618","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709625","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709631","Load":[5.00000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709637","Load":[2.912621359196725],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709644","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709650","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709656","Load":[13.861386138553232],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709663","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709670","Load":[4.999999999972715],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709676","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709683","Load":[14.999999999981812],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709689","Load":[18.81188118815403],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709696","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709703","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709709","Load":[12.871287128720896],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709715","Load":[10.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709721","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709728","Load":[12.12121212120377],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709734","Load":[1.0101010100754912],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709740","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709747","Load":[19.000000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709754","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709760","Load":[6.93069306930916],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709767","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709773","Load":[1.999999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709780","Load":[21.782178217842286],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709786","Load":[4.950495049476866],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709793","Load":[16.000000000030923],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709799","Load":[8.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709805","Load":[3.0303030303239096],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709818","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709825","Load":[18.000000000029104],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709831","Load":[12.121212121249703],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709838","Load":[1.010101010123281],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709844","Load":[12.000000000056389],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709851","Load":[12.871287128720896],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709857","Load":[15.841584158443034],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709864","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709871","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709877","Load":[2.0408163265258774],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709883","Load":[3.9603960396066356],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709890","Load":[17.171717171728307],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709897","Load":[10.891089108921143],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709903","Load":[18.99999999992542],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709909","Load":[9.090909090909092],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709916","Load":[5.882352941202696],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709922","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709929","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709935","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709941","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709949","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709955","Load":[99.99999999990527],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709961","Load":[5.940594059364928],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709967","Load":[16.00000000000182],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709974","Load":[9.900990098935901],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709980","Load":[4.0404040404086805],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709988","Load":[2.999999999979991],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754709995","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710001","Load":[11.111111111146837],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710008","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710014","Load":[12.999999999987267],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710020","Load":[8.080808080802514],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710026","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710033","Load":[21.568627450990007],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710039","Load":[9.000000000014552],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710045","Load":[4.950495049476866],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710052","Load":[15.00000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710058","Load":[7.920792079199004],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710065","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710071","Load":[5.8823529411686035],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710078","Load":[1.999999999994543],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710084","Load":[21.212121212129563],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710090","Load":[11.764705882381788],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710097","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710103","Load":[21.999999999939973],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710109","Load":[2.999999999974534],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710116","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710122","Load":[13.131313131256988],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710129","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710136","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710143","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710149","Load":[15.00000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710156","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710163","Load":[5.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710170","Load":[10.00000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710176","Load":[4.000000000034561],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710183","Load":[9.900990098998756],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710189","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710196","Load":[19.801980198087563],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710202","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710208","Load":[16.831683168275376],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710215","Load":[9.000000000014552],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710222","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710228","Load":[8.000000000023647],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710234","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710241","Load":[11.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710248","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710254","Load":[9.900990098998756],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710261","Load":[8.910891089121394],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710267","Load":[5.882352941179094],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710273","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710280","Load":[11.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710286","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710293","Load":[2.040816326529665],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710300","Load":[10.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710306","Load":[17.171717171696756],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710313","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710319","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710326","Load":[18.18181818185159],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710332","Load":[10.89108910887612],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710339","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710346","Load":[1.9999999999563443],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710352","Load":[15.841584158426542],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710359","Load":[4.000000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710365","Load":[1.9801980197547266],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710371","Load":[13.131313131327053],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710378","Load":[3.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710384","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710392","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710398","Load":[3.0303030302724077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710404","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710410","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710417","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710423","Load":[8.999999999969077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710430","Load":[1.9801980198412097],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710437","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710444","Load":[3.0303030302779757],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710450","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710457","Load":[5.999999999994543],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710464","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710470","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710476","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710483","Load":[8.999999999969077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710490","Load":[5.882352941223677],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710496","Load":[13.999999999987267],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710503","Load":[1.980198019799751],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710509","Load":[3.0612244898120173],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710516","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710522","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710529","Load":[16.831683168305688],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710536","Load":[10.00000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710542","Load":[0.990099009922388],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710548","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710555","Load":[4.950495049521891],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710561","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710568","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710575","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710581","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710587","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710594","Load":[99.9999999999072],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710601","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710608","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710614","Load":[0.990099009922388],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710621","Load":[5.999999999994543],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710627","Load":[7.070707070725166],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710634","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710640","Load":[29.702970297041293],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710646","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710653","Load":[14.99999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710659","Load":[10.891089108966169],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710666","Load":[10.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710672","Load":[8.999999999969077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710679","Load":[0.9999999999781721],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710686","Load":[25],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710693","Load":[3.0303030303239096],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710699","Load":[11.881188118822134],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710706","Load":[9.900990099016587],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710712","Load":[4.040404040401257],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710718","Load":[14.141414141404399],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710725","Load":[9.000000000014552],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710732","Load":[10.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710738","Load":[3.0303030303239096],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710745","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710751","Load":[14.285714285707657],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710758","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710764","Load":[21.35922330093787],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710771","Load":[8.080808080787666],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710777","Load":[9.090909090896563],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710784","Load":[15.00000000005457],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710791","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710797","Load":[5.940594059343531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710804","Load":[5.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710811","Load":[2.970297029727489],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710818","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710825","Load":[11.111111111060074],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710831","Load":[4.950495049512975],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710838","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710844","Load":[31.000000000040018],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710851","Load":[3.0303030302724077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710857","Load":[23.76237623763981],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710864","Load":[10.101010101030516],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710871","Load":[10.999999999967258],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710877","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710883","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710890","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710896","Load":[3.9999999999508873],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710903","Load":[8.080808080863294],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710910","Load":[16.83168316824506],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710916","Load":[10],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710922","Load":[2.970297029682464],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710929","Load":[8.080808080787666],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710935","Load":[5.8823529412131865],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710942","Load":[14.999999999954525],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710949","Load":[1.010101010125137],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710955","Load":[3.0303030302724077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710962","Load":[4.0404040404086805],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710968","Load":[1.9801980197961848],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710975","Load":[23.00000000000182],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710981","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710987","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754710994","Load":[16.161616161634722],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711000","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711007","Load":[16.000000000030923],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711014","Load":[10.891089108901529],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711020","Load":[12.871287128744077],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711027","Load":[5.00000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711033","Load":[10.891089108895734],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711040","Load":[14.851485148493898],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711047","Load":[3.9999999999818097],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711053","Load":[17.99999999998363],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711060","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711067","Load":[4.0404040404086805],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711073","Load":[3.9603960395923696],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711079","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711086","Load":[5.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711092","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711098","Load":[1.010101010079203],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711105","Load":[25.490196078397283],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711112","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711118","Load":[16.666666666666664],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711127","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711135","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711141","Load":[25.999999999976353],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711148","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711154","Load":[1.0101010100754912],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711161","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711168","Load":[4.0404040404086805],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711175","Load":[11.88118811877711],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711182","Load":[0.9900990099241711],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711188","Load":[15.151515151509583],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711195","Load":[3.9603960396066356],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711201","Load":[16.831683168290084],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711207","Load":[18.181818181793126],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711214","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711220","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711227","Load":[99.99999999974014],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711233","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711240","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711246","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711252","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711259","Load":[5.00000000001819],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711265","Load":[14.141414141424349],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711271","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711278","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711284","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711291","Load":[1.999999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711297","Load":[11.88118811877711],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711303","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711310","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711317","Load":[16.831683168290084],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711323","Load":[3.030303030329477],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711330","Load":[16.000000000030923],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711336","Load":[1.980198019758293],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711343","Load":[10.101010100984583],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711349","Load":[4.950495049512975],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711356","Load":[0.9900990098755802],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711362","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711369","Load":[4.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711375","Load":[15.841584158426542],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711382","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711389","Load":[3.030303030329477],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711395","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711401","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711408","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711415","Load":[12.871287128697714],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711421","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711427","Load":[10.891089108856505],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711434","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711441","Load":[1.9801980197511604],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711447","Load":[17.99999999998363],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711453","Load":[4.000000000010914],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711460","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711466","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711472","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711479","Load":[15.000000000009095],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711486","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711492","Load":[10.891089108901529],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711498","Load":[4.950495049512975],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711505","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711511","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711518","Load":[6.999999999970896],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711525","Load":[15.999999999985448],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711531","Load":[8.163265306148965],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711537","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711543","Load":[15.841584158426542],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711550","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711557","Load":[7.84313725489147],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711563","Load":[3.061224489806335],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711570","Load":[11.764705882381788],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711576","Load":[14.85148514850237],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711583","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711589","Load":[17.00000000005275],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711596","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711603","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711609","Load":[4.950495049530806],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711616","Load":[1.999999999998181],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711622","Load":[17.82178217821069],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711629","Load":[2.999999999974534],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711635","Load":[23.999999999978172],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711642","Load":[8.080808080817361],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711649","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711656","Load":[11.000000000012733],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711662","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711669","Load":[9.900990099016587],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711676","Load":[3.0303030303183416],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711682","Load":[3.999999999996362],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711688","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711695","Load":[4.950495049530806],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711701","Load":[4.040404040393833],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711707","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711714","Load":[15.15151515149984],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711720","Load":[9.999999999990905],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711727","Load":[11.111111111060074],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711734","Load":[8.080808080787666],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711740","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711747","Load":[10.00000000003638],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711753","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711760","Load":[21.212121212122604],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711767","Load":[4.901960784302361],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711773","Load":[14.141414141378414],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711779","Load":[17.000000000007276],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711786","Load":[3.030303030329477],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711792","Load":[15.841584158369479],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711799","Load":[0],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711805","Load":[4.000000000041837],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711811","Load":[12.621359223281681],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711818","Load":[0.9999999999763531],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711824","Load":[11.999999999989086],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711831","Load":[10.89108910894076],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711837","Load":[1.0000000000218279],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711844","Load":[24.752475247563982],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711850","Load":[4.950495049530806],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711857","Load":[22.772277227760664],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711863","Load":[99.9999999999554],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711869","Load":[99.9999999998622],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711876","Load":[99.9999999998622],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711882","Load":[99.99999999990624],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711889","Load":[99.99999999981627],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711896","Load":[100],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711902","Load":[99.99999999976316],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711908","Load":[15.625000000023684],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711915","Load":[4.950495049485781],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711923","Load":[7.000000000016371],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711929","Load":[1.9801980197961848],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711936","Load":[7.999999999992724],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711942","Load":[5.940594059388555],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711949","Load":[1.010101010079203],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
-{"TimeStamp":"1754711955","Load":[15.15151515149984],"DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424590", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424596", "Load":[99.9999999998199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424602", "Load":[99.99999999981627], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424608", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424614", "Load":[99.99999999995627], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424620", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424626", "Load":[99.99999999986079], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424632", "Load":[99.99999999985936], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424638", "Load":[99.99999999995498], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424644", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424650", "Load":[8.910891089076369], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424656", "Load":[4.950495049530806], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424662", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424668", "Load":[9.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424675", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424681", "Load":[18.181818181805653], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424687", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424693", "Load":[13.131313131302925], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424699", "Load":[20.000000000027285], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424705", "Load":[18.367346938754675], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424711", "Load":[2.999999999974534], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424717", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424723", "Load":[19.191919191939608], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424729", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424735", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424741", "Load":[19.191919191928935], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424747", "Load":[3.0303030303239096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424753", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424759", "Load":[18.999999999970896], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424765", "Load":[12.871287128744077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424772", "Load":[16.831683168275376], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424778", "Load":[11.111111111100904], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424784", "Load":[11.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424790", "Load":[7.920792079199004], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424796", "Load":[7.070707070725166], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424802", "Load":[7.142857142830628], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424808", "Load":[1.999999999994543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424814", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424820", "Load":[14.141414141450332], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424826", "Load":[8.080808080802514], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424832", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424838", "Load":[15.306122449042093], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424844", "Load":[7.1428571428770296], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424850", "Load":[3.0612244897769787], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424856", "Load":[18.000000000029104], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424863", "Load":[10.000000000009095], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424869", "Load":[35.64356435637636], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424875", "Load":[1.010101010125137], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424881", "Load":[99.99999999995453], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424887", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424893", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424899", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424905", "Load":[99.9999999999554], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424911", "Load":[99.99999999995627], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424917", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424923", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424930", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424936", "Load":[99.99999999995453], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424942", "Load":[99.99999999990624], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424948", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424954", "Load":[99.99999999995407], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424960", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424966", "Load":[99.99999999995407], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424972", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424978", "Load":[11.000000000058208], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424984", "Load":[3.0303030303239096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424991", "Load":[17.99999999998363], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756424997", "Load":[14.000000000032742], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425003", "Load":[1.999999999998181], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425009", "Load":[5.050505050478604], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425015", "Load":[22.44897959182632], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425021", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425027", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425033", "Load":[23.529411764718994], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425039", "Load":[3.960396039599502], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425045", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425051", "Load":[3.9999999999508873], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425057", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425063", "Load":[9.900990099043781], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425069", "Load":[11.88118811886493], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425075", "Load":[23.000000000005457], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425082", "Load":[13.131313131302925], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425088", "Load":[14.85148514850237], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425094", "Load":[18.18181818185159], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425100", "Load":[9.090909090925795], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425106", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425112", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425118", "Load":[9.900990098998756], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425124", "Load":[5.940594059500002], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425130", "Load":[4.950495049558], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425136", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425142", "Load":[4.08163265305933], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425148", "Load":[16.32653061223732], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425154", "Load":[8.999999999969077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425160", "Load":[17.171717171728307], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425166", "Load":[29.292929292939963], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425172", "Load":[22.549019607795056], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425178", "Load":[12.99999999996544], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425184", "Load":[8.823529411746348], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425190", "Load":[18.367346938779296], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425197", "Load":[4.081632653098157], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425203", "Load":[1.0000000000200089], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425209", "Load":[23.232323232333442], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425215", "Load":[4.0404040404086805], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425221", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425227", "Load":[22.222222222252842], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425233", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425239", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425245", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425251", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425258", "Load":[5.940594059364928], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425264", "Load":[4.950495049485781], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425270", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425276", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425282", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425288", "Load":[17.99999999998363], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425294", "Load":[12.74509803924366], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425300", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425306", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425312", "Load":[19.801980197997512], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425318", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425324", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425330", "Load":[24.24242424240754], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425336", "Load":[5.940594059444279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425342", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425348", "Load":[3.960396039689552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425354", "Load":[3.0303030303239096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425361", "Load":[2.000000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425367", "Load":[10.999999999987267], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425373", "Load":[18.181818181793126], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425379", "Load":[17.171717171759855], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425385", "Load":[20.7920792079199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425391", "Load":[20.999999999958163], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425397", "Load":[21.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425403", "Load":[15.151515151545775], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425409", "Load":[27.551020408168945], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425415", "Load":[15.463917525764012], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425422", "Load":[10.101010101067635], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425428", "Load":[14.7058823529438], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425434", "Load":[21.782178217803057], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425440", "Load":[11.111111111172356], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425446", "Load":[9.090909090925795], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425452", "Load":[22.999999999956344], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425458", "Load":[4.000000000041837], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425464", "Load":[0.9999999999781721], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425470", "Load":[20.7920792079199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425476", "Load":[4.0404040404086805], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425483", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425489", "Load":[7.000000000016371], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425495", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425501", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425507", "Load":[2.020202020158406], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425513", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425519", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425525", "Load":[3.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425531", "Load":[10.10101010100314], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425537", "Load":[9.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425543", "Load":[12.000000000056389], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425550", "Load":[21.782178217836492], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425556", "Load":[16.000000000030923], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425562", "Load":[12.12121212120377], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425568", "Load":[29.591836734610546], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425574", "Load":[25.000000000045475], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425580", "Load":[10.204081632648327], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425586", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425592", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425598", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425604", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425610", "Load":[99.99999999995498], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425616", "Load":[99.99999999990624], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425622", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425629", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425635", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425641", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425647", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425653", "Load":[99.99999999990527], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425659", "Load":[99.99999999995453], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425665", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425672", "Load":[99.99999999995212], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425678", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425684", "Load":[26.99999999999818], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425690", "Load":[3.0303030303239096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425696", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425702", "Load":[16.326530612283722], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425708", "Load":[12.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425714", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425720", "Load":[26.26262626260817], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425726", "Load":[10.101010100984583], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425732", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425739", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425745", "Load":[4.000000000034561], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425751", "Load":[0.9900990098791465], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425757", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425763", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425769", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425775", "Load":[4.040404040439767], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425781", "Load":[9.090909090909092], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425787", "Load":[9.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425793", "Load":[4.901960784329461], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425799", "Load":[15.306122449042093], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425805", "Load":[8.080808080848447], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425811", "Load":[4.950495049530806], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425817", "Load":[24.752475247519403], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425824", "Load":[11.000000000012733], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425830", "Load":[4.04040404044719], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425836", "Load":[16.16161616160503], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425842", "Load":[9.090909090833927], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425848", "Load":[5.000000000009095], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425854", "Load":[5.940594059364928], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425860", "Load":[19.00000000005093], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425866", "Load":[4.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425872", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425878", "Load":[18.181818181805653], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425884", "Load":[7.000000000016371], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425891", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425897", "Load":[13.131313131302925], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425903", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425909", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425915", "Load":[14.285714285754059], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425921", "Load":[4.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425927", "Load":[9.090909090896563], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425933", "Load":[17.999999999938154], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425939", "Load":[18.181818181818183], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425945", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425951", "Load":[4.040404040316812], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425958", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425964", "Load":[0.9900990098773633], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425970", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425976", "Load":[16.16161616160503], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425982", "Load":[8.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425988", "Load":[2.999999999974534], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756425994", "Load":[15.841584158398009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426000", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426006", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426012", "Load":[11.000000000012733], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426018", "Load":[13.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426024", "Load":[3.061224489771296], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426030", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426036", "Load":[16.9999999999618], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426042", "Load":[3.0303030303239096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426049", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426055", "Load":[17.171717171728307], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426061", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426067", "Load":[0.990099009922388], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426073", "Load":[3.030303030364276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426079", "Load":[7.070707070692224], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426085", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426091", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426097", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426103", "Load":[12.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426109", "Load":[11.999999999967258], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426115", "Load":[25.252525252530823], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426121", "Load":[19.801980197997512], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426127", "Load":[11.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426134", "Load":[16.16161616165096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426140", "Load":[8.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426146", "Load":[8.000000000038199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426152", "Load":[16.831683168305688], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426158", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426164", "Load":[5.000000000027285], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426170", "Load":[0.9999999999763531], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426176", "Load":[18.181818181818183], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426182", "Load":[4.081632653005352], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426188", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426194", "Load":[19.000000000040018], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426200", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426207", "Load":[0.9999999999763531], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426213", "Load":[22.000000000025466], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426219", "Load":[4.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426225", "Load":[2.999999999979991], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426231", "Load":[10.999999999967258], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426237", "Load":[17.171717171696756], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426243", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426249", "Load":[19.00000000005093], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426255", "Load":[11.111111111100904], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426261", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426267", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426274", "Load":[15.151515151509583], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426280", "Load":[4.000000000034561], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426286", "Load":[19.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426292", "Load":[99.99999999985936], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426298", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426304", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426310", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426316", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426322", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426329", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426335", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426341", "Load":[99.9999999998622], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426347", "Load":[99.99999999995359], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426353", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426359", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426365", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426371", "Load":[99.9999999998199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426377", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426383", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426389", "Load":[9.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426396", "Load":[11.111111111126421], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426402", "Load":[18.181818181884996], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426408", "Load":[17.99999999998363], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426414", "Load":[15.151515151481746], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426420", "Load":[9.99999999992724], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426426", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426432", "Load":[3.0612244897656145], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426438", "Load":[15.151515151527677], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426444", "Load":[7.142857142830628], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426450", "Load":[10.99999999994725], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426456", "Load":[16.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426463", "Load":[10.891089108966169], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426469", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426475", "Load":[1.010101010077347], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426481", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426487", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426493", "Load":[2.970297029677115], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426499", "Load":[16.32653061225342], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426505", "Load":[4.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426511", "Load":[2.0202020202428503], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426517", "Load":[16.000000000030923], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426523", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426530", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426536", "Load":[3.0612244897656145], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426542", "Load":[4.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426548", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426554", "Load":[5.940594059433579], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426560", "Load":[5.050505050533817], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426566", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426572", "Load":[3.061224489771296], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426578", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426584", "Load":[6.060606060555951], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426590", "Load":[4.000000000034561], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426596", "Load":[15.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426602", "Load":[8.080808080787666], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426608", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426614", "Load":[15.151515151527677], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426621", "Load":[8.08080808089438], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426627", "Load":[4.000000000034561], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426633", "Load":[9.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426639", "Load":[17.82178217819776], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426645", "Load":[3.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426651", "Load":[15.151515151527677], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426657", "Load":[32.67326732671841], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426663", "Load":[16.9999999999618], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426669", "Load":[14.285714285661255], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426675", "Load":[19.000000000005457], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426681", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426687", "Load":[2.0000000000436557], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426693", "Load":[15.000000000036378], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426699", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426706", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426712", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426718", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426724", "Load":[1.0101010101214252], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426730", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426736", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426742", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426748", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426754", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426760", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426766", "Load":[4.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426772", "Load":[16.326530612283722], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426778", "Load":[9.000000000060027], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426784", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426791", "Load":[16.32653061220702], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426797", "Load":[10.1010101010217], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426803", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426809", "Load":[16.16161616165096], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426815", "Load":[10.00000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426821", "Load":[4.950495049512975], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426827", "Load":[14.141414141358464], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426833", "Load":[13.86138613862322], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426839", "Load":[3.000000000020009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426845", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426851", "Load":[17.000000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426857", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426864", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426870", "Load":[17.171717171728307], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426876", "Load":[3.061224489817699], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426882", "Load":[2.0000000000436557], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426888", "Load":[17.346938775446755], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426894", "Load":[5.940594059433579], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426900", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426906", "Load":[7.000000000061846], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426912", "Load":[4.08163265305933], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426918", "Load":[1.030927835025931], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426925", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426931", "Load":[7.843137254919444], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426937", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426943", "Load":[10.101010101030516], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426949", "Load":[22.22222222220691], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426955", "Load":[26.000000000023647], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426961", "Load":[17.999999999938154], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426967", "Load":[30.999999999994543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426973", "Load":[25.252525252530823], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426979", "Load":[14.141414141378414], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426985", "Load":[9.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426991", "Load":[99.99999999995359], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756426997", "Load":[99.99999999995212], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427003", "Load":[99.99999999991084], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427010", "Load":[99.99999999995498], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427016", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427022", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427028", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427034", "Load":[99.9999999999022], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427040", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427046", "Load":[99.9999999998622], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427052", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427059", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427065", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427071", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427077", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427083", "Load":[99.99999999995163], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427089", "Load":[5.000000000063665], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427095", "Load":[15.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427101", "Load":[8.080808080802514], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427108", "Load":[5.000000000009095], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427114", "Load":[15.151515151481746], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427120", "Load":[30.303030303111033], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427126", "Load":[19.80198019804254], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427132", "Load":[11.22448979593636], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427138", "Load":[29.99999999992724], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427144", "Load":[11.111111111080488], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427150", "Load":[9.999999999990905], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427156", "Load":[23.762376237642037], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427162", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427168", "Load":[1.0101010101214252], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427174", "Load":[14.141414141424349], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427180", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427187", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427193", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427199", "Load":[4.000000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427205", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427211", "Load":[3.030303030364276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427217", "Load":[2.040816326529665], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427223", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427229", "Load":[2.040816326529665], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427235", "Load":[4.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427241", "Load":[11.111111111080488], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427248", "Load":[15.000000000027287], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427254", "Load":[26.26262626260585], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427260", "Load":[15.151515151573614], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427266", "Load":[11.111111111106007], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427272", "Load":[26.99999999999818], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427278", "Load":[24.000000000023647], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427284", "Load":[10.204081632629386], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427290", "Load":[1.010101010079203], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427296", "Load":[22.680412371128707], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427302", "Load":[3.999999999989086], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427308", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427314", "Load":[19.1919191919642], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427321", "Load":[3.0303030302779757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427327", "Load":[2.020202020246562], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427333", "Load":[5.999999999994543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427339", "Load":[4.040404040401257], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427345", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427351", "Load":[4.0404040404086805], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427357", "Load":[6.9306930692891], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427363", "Load":[0.9999999999763531], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427369", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427375", "Load":[10.891089108985783], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427381", "Load":[9.183673469360293], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427387", "Load":[5.00000000003638], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427393", "Load":[16.16161616157533], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427399", "Load":[7.142857142804111], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427406", "Load":[4.0404040404086805], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427412", "Load":[15.151515151509583], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427418", "Load":[8.080808080787666], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427424", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427430", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427436", "Load":[18.811881188086268], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427442", "Load":[13.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427448", "Load":[17.171717171713922], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427454", "Load":[34.653465346625595], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427460", "Load":[19.1919191919642], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427466", "Load":[11.764705882379166], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427472", "Load":[16.16161616157533], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427479", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427485", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427491", "Load":[5.000000000063665], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427497", "Load":[3.9603960395616102], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427503", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427509", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427515", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427521", "Load":[0.9999999999763531], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427527", "Load":[3.030303030364276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427533", "Load":[5.940594059409952], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427540", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427546", "Load":[3.000000000020009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427552", "Load":[4.950495049467951], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427558", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427564", "Load":[3.9999999999818097], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427570", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427576", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427582", "Load":[3.061224489771296], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427588", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427595", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427601", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427607", "Load":[4.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427613", "Load":[0.9900990099206048], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427619", "Load":[3.030303030329477], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427625", "Load":[4.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427631", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427637", "Load":[4.000000000041837], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427643", "Load":[3.030303030364276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427649", "Load":[1.0101010101214252], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427656", "Load":[5.102040816300962], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427662", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427668", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427674", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427680", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427686", "Load":[1.999999999998181], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427692", "Load":[21.782178217836492], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427698", "Load":[99.9999999996684], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427704", "Load":[99.99999999977489], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427710", "Load":[99.99999999967518], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427717", "Load":[99.99999999977489], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427723", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427729", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427735", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427741", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427747", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427753", "Load":[99.99999999976316], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427759", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427765", "Load":[99.99999999977489], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427771", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427777", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427783", "Load":[99.99999999995453], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427789", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427795", "Load":[9.090909090896563], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427802", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427808", "Load":[15.151515151555516], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427814", "Load":[9.183673469372604], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427820", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427826", "Load":[16.161616161634722], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427832", "Load":[8.000000000038199], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427838", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427845", "Load":[15.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427851", "Load":[8.080808080863294], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427857", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427863", "Load":[0.9900990099206048], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427869", "Load":[17.346938775525356], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427875", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427881", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427887", "Load":[26.999999999952706], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427893", "Load":[20.79207920792748], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427899", "Load":[11.000000000058208], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427905", "Load":[20.79207920800237], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427911", "Load":[12.121212121181498], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427917", "Load":[19.00000000005093], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427924", "Load":[12.00000000003456], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427930", "Load":[14.999999999954525], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427936", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427942", "Load":[11.999999999899956], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427948", "Load":[3.030303030329477], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427954", "Load":[1.010101010079203], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427960", "Load":[11.111111111060074], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427967", "Load":[3.000000000020009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427973", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427979", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427985", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427991", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756427997", "Load":[2.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428003", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428009", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428016", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428022", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428028", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428034", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428040", "Load":[15.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428046", "Load":[8.080808080817361], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428052", "Load":[3.9603960396066356], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428058", "Load":[19.000000000029104], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428064", "Load":[8.999999999969077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428070", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428076", "Load":[16.000000000030923], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428082", "Load":[8.910891089150368], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428088", "Load":[2.999999999974534], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428095", "Load":[15.15151515149984], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428101", "Load":[19.19191919189367], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428107", "Load":[16.326530612283722], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428113", "Load":[24.24242424240893], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428119", "Load":[24.509803921513555], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428125", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428131", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428137", "Load":[17.171717171805792], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428143", "Load":[4.950495049485781], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428149", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428155", "Load":[20.202020201969166], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428162", "Load":[3.061224489817699], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428168", "Load":[1.999999999998181], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428174", "Load":[6.930693069334123], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428180", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428186", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428192", "Load":[3.9999999999818097], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428198", "Load":[3.000000000020009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428204", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428210", "Load":[4.000000000041837], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428216", "Load":[4.950495049512975], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428222", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428229", "Load":[4.040404040393833], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428235", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428241", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428247", "Load":[3.0303030303183416], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428253", "Load":[15.151515151555516], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428259", "Load":[8.0808080808336], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428265", "Load":[2.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428271", "Load":[16.9999999999618], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428277", "Load":[13.131313131305244], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428283", "Load":[1.0101010101214252], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428289", "Load":[10.101010100975765], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428295", "Load":[20.000000000027285], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428302", "Load":[4.950495049467951], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428308", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428314", "Load":[20.00000000007276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428320", "Load":[5.940594059343531], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428326", "Load":[1.9801980197961848], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428332", "Load":[9.900990099106636], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428338", "Load":[3.030303030364276], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428344", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428350", "Load":[4.000000000010914], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428356", "Load":[11.111111111106007], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428362", "Load":[9.090909090942498], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428368", "Load":[12.12121212122604], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428375", "Load":[7.999999999947249], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428381", "Load":[9.999999999990905], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428387", "Load":[9.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428393", "Load":[15.15151515149984], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428399", "Load":[99.99999999990624], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428405", "Load":[99.99999999986493], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428411", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428417", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428423", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428429", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428435", "Load":[99.99999999995212], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428441", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428447", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428453", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428460", "Load":[99.9999999996684], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428466", "Load":[99.99999999995212], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428472", "Load":[99.99999999995453], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428478", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428484", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428490", "Load":[100], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428496", "Load":[3.000000000020009], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428502", "Load":[3.9999999999818097], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428508", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428515", "Load":[4.950495049512975], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428521", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428527", "Load":[1.0101010100754912], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428533", "Load":[3.9603960395923696], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428539", "Load":[23.76237623763981], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428545", "Load":[26.000000000021828], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428551", "Load":[18.999999999959982], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428557", "Load":[24.242424242362997], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428563", "Load":[9.000000000014552], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428569", "Load":[3.061224489817699], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428575", "Load":[13.265306122466026], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428581", "Load":[9.900990098980925], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428587", "Load":[4.999999999972715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428593", "Load":[17.82178217822986], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428599", "Load":[8.999999999969077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428606", "Load":[4.040404040439767], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428612", "Load":[15.999999999985448], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428618", "Load":[16.16161616157533], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428624", "Load":[17.99999999998363], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428630", "Load":[29.99999999990905], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428636", "Load":[29.591836734656944], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428642", "Load":[3.030303030329477], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428648", "Load":[16.161616161634722], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428654", "Load":[16.9999999999618], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428660", "Load":[2.999999999974534], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428666", "Load":[0.9999999999308784], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428672", "Load":[19.99999999998181], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428679", "Load":[4.950495049512975], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428685", "Load":[4.901960784311977], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428691", "Load":[20.202020201969166], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428697", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428703", "Load":[0.9900990099206048], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428709", "Load":[22.549019607888596], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428715", "Load":[3.030303030283543], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428721", "Load":[1.0000000000218279], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428727", "Load":[8.080808080909229], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428734", "Load":[12.871287128744077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428740", "Load":[9.90099009902595], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428746", "Load":[12.871287128697714], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428752", "Load":[4.950495049530806], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428758", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428764", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428770", "Load":[6.000000000040018], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428776", "Load":[9.900990098971562], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428783", "Load":[3.9603960396066356], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428789", "Load":[4.040404040316812], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428795", "Load":[1.020408163284246], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428801", "Load":[4.950495049440757], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428807", "Load":[17.171717171759855], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428813", "Load":[8.16326530611866], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428819", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428825", "Load":[12.12121212122604], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428831", "Load":[17.99999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428837", "Load":[3.0303030302724077], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428843", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428849", "Load":[23.529411764763577], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428856", "Load":[3.999999999996362], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428862", "Load":[9.900990099061612], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428868", "Load":[26.000000000021828], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428875", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428881", "Load":[19.191919191939608], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428888", "Load":[16.326530612176715], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428894", "Load":[4.040404040316812], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428900", "Load":[18.181818181726314], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428906", "Load":[10.891089108946554], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428912", "Load":[7.0707070706662405], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428918", "Load":[16.1616161616672], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428925", "Load":[11.111111111060074], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428931", "Load":[3.0303030303754115], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428937", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428943", "Load":[22.772277227805688], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428949", "Load":[5.00000000001819], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428955", "Load":[0], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428961", "Load":[20.20202020213527], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428967", "Load":[2.999999999974534], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}
+{"TimeStamp":"1756428973", "Load":[1.9801980197511604], "DevID":"pgwebhost1.infra.real.internetscanner.blankcanvas"}

@@ -1,2 +1,10 @@
-{"TimeStamp":"1754702420","Name":"eth0","HardwareAddr":"22:f1:16:63:9a:bf","IPs":["fe80::20f1:16ff:fe63:38"],"DevID":"nginx2.infra.real.internetscanner.blankcanvas","Action":"Changed"}
-{"TimeStamp":"1754703020","Name":"eth0","HardwareAddr":"22:f1:16:63:9a:bf","IPs":["172.30.0.217","fe80::20f1:16ff:fe63:38"],"DevID":"nginx2.infra.real.internetscanner.blankcanvas","Action":"Changed"}
+{"TimeStamp":"1756415786", "Name":"eth2", "HardwareAddr":"1e:b8:3e:e0:59:d6", "IPs":["10.0.17.203", "fe80::1cb8:3eff:fee0:79"], "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"bluetooth-monitor", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"nflog", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"dbus-session", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"eth0", "HardwareAddr":"22:98:53:ec:2c:75", "IPs":["172.30.0.217", "fe80::2098:53ff:feec:65"], "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"eth1", "HardwareAddr":"86:0e:33:d1:68:af", "IPs":["107.125.128.0", "fe80::840e:33ff:fed1:216"], "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"any", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"nfqueue", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756415787", "Name":"dbus-system", "DevID":"nginx2.infra.real.internetscanner.blankcanvas", "Action":"Added"}

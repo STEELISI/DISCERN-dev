@@ -1,10 +1,10 @@
-{"TimeStamp":"1748021374","Name":"eth0","HardwareAddr":"92:3e:ca:91:3b:97","IPs":["172.30.0.12","fe80::903e:caff:fe91:3b97"],"Netmasks":[16,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"eth1","HardwareAddr":"ca:60:a4:7f:a8:a1","IPs":["10.10.10.2","fe80::c860:a4ff:fe7f:a8a1"],"Netmasks":[24,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"dbus-system","DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"dbus-session","DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"lo","IPs":["127.0.0.1","::1"],"Netmasks":[8,128],"DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"eth2","HardwareAddr":"e2:6d:97:f6:86:ec","IPs":["10.0.2.2","fe80::e06d:97ff:fef6:86ec"],"Netmasks":[24,64],"DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"any","DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"bluetooth-monitor","DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"nflog","DevID":"compromised.infra.real.upload.blankcanvas"}
-{"TimeStamp":"1748021374","Name":"nfqueue","DevID":"compromised.infra.real.upload.blankcanvas"}
+{"TimeStamp":"1756350341", "Name":"nflog", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"eth0", "HardwareAddr":"ee:06:f9:76:05:0d", "IPs":["172.30.0.88", "fe80::ec06:f9ff:fe76:77"], "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"eth1", "HardwareAddr":"32:5d:4e:14:71:1b", "IPs":["10.10.10.195", "fe80::305d:4eff:fe14:94"], "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"eth2", "HardwareAddr":"7a:34:4c:a0:62:e3", "IPs":["10.0.2.182", "fe80::7834:4cff:fea0:101"], "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"bluetooth-monitor", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"dbus-session", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"lo", "IPs":["127.0.0.1", "::153"], "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"any", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"nfqueue", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
+{"TimeStamp":"1756350341", "Name":"dbus-system", "DevID":"compromised.infra.real.upload.blankcanvas", "Action":"Added"}
