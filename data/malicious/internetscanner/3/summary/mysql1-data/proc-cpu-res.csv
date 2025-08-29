@@ -1,9 +1,0 @@
-Name,Duration,AvgCpuPercent,MaxCpuUsage,DataPoints
-discern-file-so,472.000,82.891,92.070,93
-discern-proc-so,3593.000,2.769,4.036,719
-discern-network,3618.000,1.074,1.121,719
-discern-logs-so,3676.000,0.543,0.570,719
-systemd-journal,3716.000,0.199,0.200,718
-kswapd0,3250.000,0.163,0.167,623
-systemd,22.000,0.707,1.147,4
-OverallSystemRecord,3325.000,4.512,6.915,664
